@@ -27,39 +27,39 @@ S.B.
 
 [![0 Oeuvres Clouscard](/images/gallery/couvertures-livres/thumbs/thumbs_0-Oeuvres-Clouscard.jpg "0 Oeuvres Clouscard")](/images/gallery/couvertures-livres/0-Oeuvres-Clouscard.jpg)
 
-[![1 Être et Code 1972 recto_cl](/images/gallery/couvertures-livres/thumbs/thumbs_1-%C3%8Atre-et-Code-1972-recto_cl.jpg "1 Être et Code 1972 recto_cl")](/images/gallery/couvertures-livres/1-%C3%8Atre-et-Code-1972-recto_cl.jpg)
+[![1 Être et Code 1972 recto_cl](/images/gallery/couvertures-livres/thumbs/thumbs_1-Être-et-Code-1972-recto_cl.jpg "1 Être et Code 1972 recto_cl")](/images/gallery/couvertures-livres/1-Être-et-Code-1972-recto_cl.jpg)
 
-[![1 Être et Code 1972 verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_1-%C3%8Atre-et-Code-1972-verso-cl.jpg "1 Être et Code 1972 verso-cl")](/images/gallery/couvertures-livres/1-%C3%8Atre-et-Code-1972-verso-cl.jpg)
+[![1 Être et Code 1972 verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_1-Être-et-Code-1972-verso-cl.jpg "1 Être et Code 1972 verso-cl")](/images/gallery/couvertures-livres/1-Être-et-Code-1972-verso-cl.jpg)
 
-[![2 Néo-Fascisme et Idéologie du Désir recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_2-N%C3%A9o-Fascisme-et-Id%C3%A9ologie-du-D%C3%A9sir-recto-cl.jpg "2 Néo-Fascisme et Idéologie du Désir recto-cl")](/images/gallery/couvertures-livres/2-N%C3%A9o-Fascisme-et-Id%C3%A9ologie-du-D%C3%A9sir-recto-cl.jpg)
+[![2 Néo-Fascisme et Idéologie du Désir recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl.jpg "2 Néo-Fascisme et Idéologie du Désir recto-cl")](/images/gallery/couvertures-livres/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl.jpg)
 
-[![2 Néo-Fascisme et Idéologie du Désir verso](/images/gallery/couvertures-livres/thumbs/thumbs_2-N%C3%A9o-Fascisme-et-Id%C3%A9ologie-du-D%C3%A9sir-verso.JPG "2 Néo-Fascisme et Idéologie du Désir verso")](/images/gallery/couvertures-livres/2-N%C3%A9o-Fascisme-et-Id%C3%A9ologie-du-D%C3%A9sir-verso.JPG)
+[![2 Néo-Fascisme et Idéologie du Désir verso](/images/gallery/couvertures-livres/thumbs/thumbs_2-Néo-Fascisme-et-Idéologie-du-Désir-verso.JPG "2 Néo-Fascisme et Idéologie du Désir verso")](/images/gallery/couvertures-livres/2-Néo-Fascisme-et-Idéologie-du-Désir-verso.JPG)
 
-[![3 Frivole et Sérieux recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_3-Frivole-et-S%C3%A9rieux-recto-cl.jpg "3 Frivole et Sérieux recto-cl")](/images/gallery/couvertures-livres/3-Frivole-et-S%C3%A9rieux-recto-cl.jpg)
+[![3 Frivole et Sérieux recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_3-Frivole-et-Sérieux-recto-cl.jpg "3 Frivole et Sérieux recto-cl")](/images/gallery/couvertures-livres/3-Frivole-et-Sérieux-recto-cl.jpg)
 
-[![3 Frivole et Sérieux verso-cl2](/images/gallery/couvertures-livres/thumbs/thumbs_3-Frivole-et-S%C3%A9rieux-verso-cl2.jpg "3 Frivole et Sérieux verso-cl2")](/images/gallery/couvertures-livres/3-Frivole-et-S%C3%A9rieux-verso-cl2.jpg)
+[![3 Frivole et Sérieux verso-cl2](/images/gallery/couvertures-livres/thumbs/thumbs_3-Frivole-et-Sérieux-verso-cl2.jpg "3 Frivole et Sérieux verso-cl2")](/images/gallery/couvertures-livres/3-Frivole-et-Sérieux-verso-cl2.jpg)
 
-[![4 Capitalisme Séduction recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_4-Capitalisme-S%C3%A9duction-recto-cl.jpg "4 Capitalisme Séduction recto-cl")](/images/gallery/couvertures-livres/4-Capitalisme-S%C3%A9duction-recto-cl.jpg)
+[![4 Capitalisme Séduction recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_4-Capitalisme-Séduction-recto-cl.jpg "4 Capitalisme Séduction recto-cl")](/images/gallery/couvertures-livres/4-Capitalisme-Séduction-recto-cl.jpg)
 
-[![5 Bête Sauvage 1983 recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_5-B%C3%AAte-Sauvage-1983-recto-cl.jpg "5 Bête Sauvage 1983 recto-cl")](/images/gallery/couvertures-livres/5-B%C3%AAte-Sauvage-1983-recto-cl.jpg)
+[![5 Bête Sauvage 1983 recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_5-Bête-Sauvage-1983-recto-cl.jpg "5 Bête Sauvage 1983 recto-cl")](/images/gallery/couvertures-livres/5-Bête-Sauvage-1983-recto-cl.jpg)
 
-[![5 Bête Sauvage 1983 verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_5-B%C3%AAte-Sauvage-1983-verso-cl.jpg "5 Bête Sauvage 1983 verso-cl")](/images/gallery/couvertures-livres/5-B%C3%AAte-Sauvage-1983-verso-cl.jpg)
+[![5 Bête Sauvage 1983 verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_5-Bête-Sauvage-1983-verso-cl.jpg "5 Bête Sauvage 1983 verso-cl")](/images/gallery/couvertures-livres/5-Bête-Sauvage-1983-verso-cl.jpg)
 
 [![6 Rousseau ou Sartre 1985 recto-cl](/images/gallery/couvertures-livres/thumbs/thumbs_6-Rousseau-ou-Sartre-1985-recto-cl.jpg "6 Rousseau ou Sartre 1985 recto-cl")](/images/gallery/couvertures-livres/6-Rousseau-ou-Sartre-1985-recto-cl.jpg)
 
 [![6 Rousseau ou Sartre 1985 verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_6-Rousseau-ou-Sartre-1985-verso-cl.jpg "6 Rousseau ou Sartre 1985 verso-cl")](/images/gallery/couvertures-livres/6-Rousseau-ou-Sartre-1985-verso-cl.jpg)
 
-[![7 Dégâts Pratique Libérale cl verso](/images/gallery/couvertures-livres/thumbs/thumbs_7-D%C3%A9g%C3%A2ts-Pratique-Lib%C3%A9rale-cl-verso.jpg "7 Dégâts Pratique Libérale cl verso")](/images/gallery/couvertures-livres/7-D%C3%A9g%C3%A2ts-Pratique-Lib%C3%A9rale-cl-verso.jpg)
+[![7 Dégâts Pratique Libérale cl verso](/images/gallery/couvertures-livres/thumbs/thumbs_7-Dégâts-Pratique-Libérale-cl-verso.jpg "7 Dégâts Pratique Libérale cl verso")](/images/gallery/couvertures-livres/7-Dégâts-Pratique-Libérale-cl-verso.jpg)
 
-[![7 Dégâts Pratique Libérale cl](/images/gallery/couvertures-livres/thumbs/thumbs_7-D%C3%A9g%C3%A2ts-Pratique-Lib%C3%A9rale-cl.jpg "7 Dégâts Pratique Libérale cl")](/images/gallery/couvertures-livres/7-D%C3%A9g%C3%A2ts-Pratique-Lib%C3%A9rale-cl.jpg)
+[![7 Dégâts Pratique Libérale cl](/images/gallery/couvertures-livres/thumbs/thumbs_7-Dégâts-Pratique-Libérale-cl.jpg "7 Dégâts Pratique Libérale cl")](/images/gallery/couvertures-livres/7-Dégâts-Pratique-Libérale-cl.jpg)
 
-[![8 traité amour fou_recto-cl3](/images/gallery/couvertures-livres/thumbs/thumbs_8-trait%C3%A9-amour-fou_recto-cl3.jpg "8 traité amour fou_recto-cl3")](/images/gallery/couvertures-livres/8-trait%C3%A9-amour-fou_recto-cl3.jpg)
+[![8 traité amour fou_recto-cl3](/images/gallery/couvertures-livres/thumbs/thumbs_8-traité-amour-fou_recto-cl3.jpg "8 traité amour fou_recto-cl3")](/images/gallery/couvertures-livres/8-traité-amour-fou_recto-cl3.jpg)
 
-[![8 traité amour fou_versocl](/images/gallery/couvertures-livres/thumbs/thumbs_8-trait%C3%A9-amour-fou_versocl.jpg "8 traité amour fou_versocl")](/images/gallery/couvertures-livres/8-trait%C3%A9-amour-fou_versocl.jpg)
+[![8 traité amour fou_versocl](/images/gallery/couvertures-livres/thumbs/thumbs_8-traité-amour-fou_versocl.jpg "8 traité amour fou_versocl")](/images/gallery/couvertures-livres/8-traité-amour-fou_versocl.jpg)
 
-[![9 Métamorphoses recto cl](/images/gallery/couvertures-livres/thumbs/thumbs_9-M%C3%A9tamorphoses-recto-cl.jpg "9 Métamorphoses recto cl")](/images/gallery/couvertures-livres/9-M%C3%A9tamorphoses-recto-cl.jpg)
+[![9 Métamorphoses recto cl](/images/gallery/couvertures-livres/thumbs/thumbs_9-Métamorphoses-recto-cl.jpg "9 Métamorphoses recto cl")](/images/gallery/couvertures-livres/9-Métamorphoses-recto-cl.jpg)
 
-[![9 Métamorphoses verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_9-M%C3%A9tamorphoses-verso-cl.jpg "9 Métamorphoses verso-cl")](/images/gallery/couvertures-livres/9-M%C3%A9tamorphoses-verso-cl.jpg)
+[![9 Métamorphoses verso-cl](/images/gallery/couvertures-livres/thumbs/thumbs_9-Métamorphoses-verso-cl.jpg "9 Métamorphoses verso-cl")](/images/gallery/couvertures-livres/9-Métamorphoses-verso-cl.jpg)
 
 [![10 Refondation Progressiste recto](/images/gallery/couvertures-livres/thumbs/thumbs_10-Refondation-Progressiste-recto.jpg "10 Refondation Progressiste recto")](/images/gallery/couvertures-livres/10-Refondation-Progressiste-recto.jpg)
 

@@ -32,7 +32,7 @@ S.B.
 
 [![12 philo refond 7 bis](/images/gallery/schemas-refondations-feodales/thumbs/thumbs_12-philo-refond-7-bis.JPG "12 philo refond 7 bis")](/images/gallery/schemas-refondations-feodales/12-philo-refond-7-bis.JPG)
 
-[![12 philo refond 8 echange de base entre le politique et l'économique](/images/gallery/schemas-refondations-feodales/thumbs/thumbs_12-philo-refond-8-echange-de-base-entre-le-politique-et-l%C3%A9conomique.JPG "12 philo refond 8 echange de base entre le politique et l'économique")](/images/gallery/schemas-refondations-feodales/12-philo-refond-8-echange-de-base-entre-le-politique-et-l%C3%A9conomique.JPG)
+[![12 philo refond 8 echange de base entre le politique et l'économique](/images/gallery/schemas-refondations-feodales/thumbs/thumbs_12-philo-refond-8-echange-de-base-entre-le-politique-et-léconomique.JPG "12 philo refond 8 echange de base entre le politique et l'économique")](/images/gallery/schemas-refondations-feodales/12-philo-refond-8-echange-de-base-entre-le-politique-et-léconomique.JPG)
 
 [![12 philo refond 9](/images/gallery/schemas-refondations-feodales/thumbs/thumbs_12-philo-refond-9.JPG "12 philo refond 9")](/images/gallery/schemas-refondations-feodales/12-philo-refond-9.JPG)
 

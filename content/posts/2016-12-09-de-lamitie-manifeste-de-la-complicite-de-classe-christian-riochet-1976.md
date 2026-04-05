@@ -10,7 +10,7 @@ draft: false
 
 Lien de téléchargement  :
 
-[Ma Lutte des Classes, 40 ans après – Parcours, concepts et amitiés d’un chercher de paix”](/images/2016/11/Riochet-Ma-Lutte-des-Classes-quarante-ann%C3%A9es-apr%C3%A8s.doc)
+[Ma Lutte des Classes, 40 ans après – Parcours, concepts et amitiés d’un chercher de paix”](/images/2016/11/Riochet-Ma-Lutte-des-Classes-quarante-années-après.doc)
 
 ---
 

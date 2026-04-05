@@ -24,7 +24,7 @@ S.B.
 
 [[Montrer sous forme de diaporama]](/posts/2017/03/10/etre-praxis-sujet-phenomenologie-du-genre/nggallery/slideshow)
 
-[![conflit réel imaginaire théorique](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg "conflit réel imaginaire théorique")](/images/gallery/etre-praxis-sujet-hyperboloide/conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg)
+[![conflit réel imaginaire théorique](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_conflit-réel-imaginaire-théorique.jpg "conflit réel imaginaire théorique")](/images/gallery/etre-praxis-sujet-hyperboloide/conflit-réel-imaginaire-théorique.jpg)
 
 [![forme](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_forme.jpg "forme")](/images/gallery/etre-praxis-sujet-hyperboloide/forme.jpg)
 

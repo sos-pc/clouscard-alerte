@@ -104,7 +104,7 @@ Aucune rencontre n’eut lieu. Il ne semble pas que Sartre a aidé Clouscard à 
 
  Ce  fut une grande initiation mondaine pour Clouscard qui découvrait comment les “maîtres à penser” pouvait congédier leur détracteur tel un laquais ou un parvenu de province.  *“C’est un connard! Il m’a snobé… tu te rends compte: quel connard, ce type!*” répétait furieusement Clouscard à son ami Riochet. Quelle déception polémique ! Quelle naïveté mondaine ! A l’inverse du rugby, ” *La philosophie est un sport de gentlemen joué par des voyous* ” ai-je coutume d’ironiser.
 
-Mais pour revenir au concept, il sera intéressant de se reporter également aux [“Critiques du Jury de Thèse](/images/2016/11/Objections-du-Jury-de-Th%C3%A8se-et-R%C3%A9ponse-de-Michel-Clouscard.docx)” que nous publions et que nous devons à la retranscription de la soutenance de thèse par Christian Riochet dans son ouvrage “ [La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/) “.
+Mais pour revenir au concept, il sera intéressant de se reporter également aux [“Critiques du Jury de Thèse](/images/2016/11/Objections-du-Jury-de-Thèse-et-Réponse-de-Michel-Clouscard.docx)” que nous publions et que nous devons à la retranscription de la soutenance de thèse par Christian Riochet dans son ouvrage “ [La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/) “.
 
 Je pense que le débat reste ouvert pour analyser la tension théorique entre Jean-Paul Sartre et Michel Clouscard. D’autant plus qu’un ouvrage entier semble poursuivre cette polémique de Clouscard **contre Sartre** “ [*De la modernité : Rousseau ou Sartre*“](/categories/de-la-modernite-rousseau-ou-sartre/la-modernite-rousseau-ou-sartre/). Un autre article y sera consacré dans notre site.
 

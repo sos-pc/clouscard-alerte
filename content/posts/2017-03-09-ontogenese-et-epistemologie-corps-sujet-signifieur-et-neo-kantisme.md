@@ -36,6 +36,6 @@ S.B.
 
 [![5](/images/gallery/neo-kantisme/thumbs/thumbs_5-1.jpg "5")](/images/gallery/neo-kantisme/5-1.jpg)
 
-[![Descartes les idées innées le sujet transcendantal](/images/gallery/neo-kantisme/thumbs/thumbs_Descartes-les-id%C3%A9es-inn%C3%A9es-le-sujet-transcendantal.jpg "Descartes les idées innées le sujet transcendantal")](/images/gallery/neo-kantisme/Descartes-les-id%C3%A9es-inn%C3%A9es-le-sujet-transcendantal.jpg)
+[![Descartes les idées innées le sujet transcendantal](/images/gallery/neo-kantisme/thumbs/thumbs_Descartes-les-idées-innées-le-sujet-transcendantal.jpg "Descartes les idées innées le sujet transcendantal")](/images/gallery/neo-kantisme/Descartes-les-idées-innées-le-sujet-transcendantal.jpg)
 
 [![Locke empirisme](/images/gallery/neo-kantisme/thumbs/thumbs_Locke-empirisme.jpg "Locke empirisme")](/images/gallery/neo-kantisme/Locke-empirisme.jpg)
