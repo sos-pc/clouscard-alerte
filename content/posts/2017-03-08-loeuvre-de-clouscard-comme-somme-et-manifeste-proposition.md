@@ -4,7 +4,6 @@ date: 2017-03-08T00:00:00+01:00
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/loeuvre-de-clouscard-comme-somme-et-manifeste-proposition/?format=pdf "Download PDF")
 
 Ces schémas sont des propositions pour aider à la compréhension des relations existant entre les oeuvres.
 

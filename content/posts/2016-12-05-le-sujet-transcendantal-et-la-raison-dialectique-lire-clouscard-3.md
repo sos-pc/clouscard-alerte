@@ -1,10 +1,12 @@
 ---
 title: "Le Sujet Transcendantal et la Raison Dialectique (Introduction de “L’Être et le Code”)"
 date: 2016-12-05T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/05/le-sujet-transcendantal-et-la-raison-dialectique-lire-clouscard-3/?format=pdf "Download PDF")
 
 *L’introduction de “L’Être et le Code” n’est pas le texte le plus facile à lire du siècle, c’est sûr. Le premier mot qui donne vraiment envie de s’enfuir en courant, c’est “sujet transcendantal”! Et si on ne le comprend pas, on a vraiment beaucoup de difficultés à suivre le reste du texte…*
 
@@ -166,7 +168,7 @@ S.B.
 
 NOTES :
 
-[[1]](#_ftnref1) Voir en particulier la thèse n° 83  de [« Les Dégâts de la Pratique Libérale ».](http://clouscard-alerte.org/index.php/bibliographie-michel-clouscard/les-degats-de-la-pratique-liberale/)
+[[1]](#_ftnref1) Voir en particulier la thèse n° 83  de [« Les Dégâts de la Pratique Libérale ».](/categories/les-degats-de-la-pratique-liberale/-degats-de-la-pratique-liberale/)
 
 [[2]](#_ftnref2) Christian Riochet  «  Population, Subsistance et Mode de production »
 

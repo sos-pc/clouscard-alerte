@@ -1,10 +1,11 @@
 ---
 title: "Le marxisme est la vraie solution  de la névrose bourgeoise (1972)"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/le-marxisme-est-la-vraie-solution-de-la-nevrose-bourgeoise/?format=pdf "Download PDF")
 
 La relation marxisme-psychanalyse
 ---------------------------------

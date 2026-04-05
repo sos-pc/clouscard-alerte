@@ -1,10 +1,11 @@
 ---
 title: "“La Nécessité Historique Surdétermine  la Famille à l’Envers” – La Causalité Superstructurale (1994)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/la-necessite-historique-surdetermine-la-famille-a-lenvers-la-causalite-superstructurale-1994/?format=pdf "Download PDF")
 
 **La Nécessité Historique**
 ---------------------------

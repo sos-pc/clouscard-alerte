@@ -1,10 +1,12 @@
 ---
 title: "La condition féminine  “L’Être et le Code”"
 date: 2016-12-04T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/04/la-condition-feminine-le-frivole-et-le-serieux/?format=pdf "Download PDF")
 
 *En 1975, Christian Riochet utilise la base conceptuelle de “L’Être et le Code” pour étudier en quoi la démographie historique est un marqueur de la lutte des classes.*   
 *Il vient d’achever la rédaction de son ouvrage “La Logique du Concret – Introduction à la lecture de ‘L’Être et le Code’ de Michel Clouscard.” et s’est employé à remettre en question certains postulats et certaines conclusions de Clouscard. Il publie alors un article intitulé “Populations, Subsistances et Modes de Production – La condition féminine”.*

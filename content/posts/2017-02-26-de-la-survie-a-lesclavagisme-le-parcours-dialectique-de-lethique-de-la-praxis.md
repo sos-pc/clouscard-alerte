@@ -1,10 +1,13 @@
 ---
 title: "De la survie à l’esclavagisme.   Le parcours dialectique  de “l’éthique de la praxis” et du “corps-sujet”"
 date: 2017-02-26T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/26/de-la-survie-a-lesclavagisme-le-parcours-dialectique-de-lethique-de-la-praxis/?format=pdf "Download PDF")
 
 ( en cours d’écriture –  extrait d’un autre article )
 

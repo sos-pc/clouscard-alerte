@@ -1,10 +1,12 @@
 ---
 title: "La Logique du Concret   Christian Riochet  1974"
 date: 2017-04-05T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/05/la-logique-du-concret-christian-riochet-1974/?format=pdf "Download PDF")
 
 [![thumbnail of logique_concret_v5](/images/2016/11/logique_concret_v5-pdf-367x600.jpg)](/images/2016/11/logique_concret_v5.pdf "logique_concret_v5")
 
@@ -19,7 +21,7 @@ La Logique du Concret
 
 ### Thèse complémentaire à la thèse principale de doctorat d’Etat de démographie historique «Populations et subsistances» **de Christian Riochet** **1974**
 
-L’introduction de cet ouvrage a été publiée en 1973 dans “La Nouvelle Critique” (voir [Articles](http://clouscard-alerte.org/index.php/articles-de-revue/))
+L’introduction de cet ouvrage a été publiée en 1973 dans “La Nouvelle Critique” (voir [Articles](/categories/articles-de-revue//))
 
 L’ouvrage a été rédigé par Christian Riochet en interrogeant Michel Clouscard sur “L’Être et le Code”. Il s’agissait de produire un ouvrage didactique permettant une meilleure compréhension de cette oeuvre. Michel Clouscard s’est opposé à la publication de cet ouvrage de son vivant, car Christian Riochet développait à la fin de l’ouvrage une post-face polémique qui lui déplut fortement. C’est pourtant à ce jour l’unique ouvrage d’une telle qualité à propos de “L’Être et le Code”.
 

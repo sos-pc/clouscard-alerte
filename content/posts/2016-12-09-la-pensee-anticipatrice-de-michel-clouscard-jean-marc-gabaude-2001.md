@@ -1,10 +1,12 @@
 ---
 title: "“La Pensée Anticipatrice de Michel Clouscard”Jean Marc Gabaude (2011)"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/la-pensee-anticipatrice-de-michel-clouscard-jean-marc-gabaude-2001/?format=pdf "Download PDF")
 
 *En Octobre 2011, à l’occasion du Salon du Livre de Gaillac, une conférence fut organisée par M. Bernard Charles. A cette occasion, une intervention sur “la pensée anticipatrice de Michel Clouscard” fut donnée par M. Jean-Marc Gabaude.* *Cet ami personnel de Michel Clouscard l’avait rencontré dès les années 1948, au moment de l’entrée de l’auteur à la Faculté des Lettres de Toulouse. Né en 1928, il est docteur es lettres. Il fut également le Doyen de la Faculté de philosophie de l’Université de Toulouse-Le Mirail (en 1991). Président de la Société toulousaine de philosophie (en 1991).*
 

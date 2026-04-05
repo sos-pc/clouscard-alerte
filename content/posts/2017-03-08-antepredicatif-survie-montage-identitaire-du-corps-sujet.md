@@ -1,10 +1,13 @@
 ---
 title: "Antéprédicatif – Survie – Montage identitaire du Corps-Sujet ( p 272 )"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "schemas"
+  - "theme-4"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/antepredicatif-survie-montage-identitaire-du-corps-sujet/?format=pdf "Download PDF")
 
 ![](/images/2017/03/1-schéma-1-490x284.jpg)Dans **“L’Être, la Praxis, le Sujet”**, au livre 8, (**page 272 – Editions Delga**), Clouscard propose un résumé précieux pour comprendre son travail. Il fait un bilan épistémologique pour développer sa thèse d’un “*corps-sujet comme achèvement des filiations ontologiques* ”
 

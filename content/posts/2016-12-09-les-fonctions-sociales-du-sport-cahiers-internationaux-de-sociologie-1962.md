@@ -1,10 +1,11 @@
 ---
 title: "“Les Fonctions Sociales du Sport”  Cahiers internationaux de sociologie (1962)"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/les-fonctions-sociales-du-sport-cahiers-internationaux-de-sociologie-1962/?format=pdf "Download PDF")
 
 *Voici le premier article publié par Clouscard  en 1962 dans les “Cahiers Internationaux de la Sociologie”, revue fondée et animée par M.Georges Gurvitch, sociologue français.*  
 *Comme le précise l’auteur lui-même:* *“*Cet article a fait l’objet d’une discussion de groupe dans le cadre des travaux de 3ème Cycle de la Faculté des Lettres et Sciences Humaines de Toulouse, sous la direction de M. de Gaudemar, dont les suggestions et les conseils m’ont été précieux. Qu’il me soit permis de le remercier ici*“.*  

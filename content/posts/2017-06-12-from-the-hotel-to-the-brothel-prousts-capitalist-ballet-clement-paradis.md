@@ -1,10 +1,11 @@
 ---
 title: "Marcel  Proust’s Capitalist Ballet  From the Hotel  … to the Brothel !   by  Clément Paradis"
 date: 2017-06-12T00:00:00+01:00
+categories:
+  - "non-classe"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/06/12/from-the-hotel-to-the-brothel-prousts-capitalist-ballet-clement-paradis/?format=pdf "Download PDF")
 
 Le Ballet Capitaliste
 =====================

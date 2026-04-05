@@ -1,10 +1,12 @@
 ---
 title: "l’épistémologie du code 3   “lieu de réconciliation de Marx et de Hegel”  (1974)"
 date: 2017-03-13T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/lepistemologie-du-code-3-lieu-de-reconciliation-de-marx-et-de-hegel-1974/?format=pdf "Download PDF")
 
 *![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)Ce passage est un extrait de l’ouvrage de   **Christian Riochet**  » **[La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
 

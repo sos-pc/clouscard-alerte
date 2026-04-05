@@ -1,10 +1,13 @@
 ---
 title: "Tables des Matières  “La  Refondation  Féodale” (2008)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/tables-des-matieres-la-refondation-feodale-2008/?format=pdf "Download PDF")
 
 *” La philosophie de l’amour  est la révélation de la praxis.”*
 

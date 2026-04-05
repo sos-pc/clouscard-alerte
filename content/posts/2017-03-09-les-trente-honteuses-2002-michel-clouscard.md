@@ -1,10 +1,11 @@
 ---
 title: "Les “Trente Honteuses ” (2002 )   Michel Clouscard"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/les-trente-honteuses-2002-michel-clouscard/?format=pdf "Download PDF")
 
 Les ” Trente Honteuses “
 ========================

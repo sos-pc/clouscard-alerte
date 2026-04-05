@@ -1,10 +1,14 @@
 ---
 title: "Le Non-Dit du Structuralisme  Le Procès de Production et L’Inconscient de la Praxis  “La Logique du Concret” ( 1974 )"
 date: 2017-04-03T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/03/le-non-dit-du-structuralisme-la-logique-du-concret-1974/?format=pdf "Download PDF")
 
 Ceci est un extrait de ” La Logique du Concret” de Christian Riochet, étude de “l’Être et le Code”., p 110 – 113  ( Problématique I 2 – 3 )
 

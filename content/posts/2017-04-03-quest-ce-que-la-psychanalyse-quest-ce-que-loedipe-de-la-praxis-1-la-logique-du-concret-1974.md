@@ -1,10 +1,15 @@
 ---
 title: "Le Non Dit de Psychanalyse   L’Oedipe de la Praxis  “La Logique du Concret ”  ( 1974 )"
 date: 2017-04-03T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/03/quest-ce-que-la-psychanalyse-quest-ce-que-loedipe-de-la-praxis-1-la-logique-du-concret-1974/?format=pdf "Download PDF")
 
 Ceci est un extrait de ” La Logique du Concret” de Christian Riochet, étude de “l’Être et le Code”., p 107 – 109  ( Problématique I 2 – 1 )
 

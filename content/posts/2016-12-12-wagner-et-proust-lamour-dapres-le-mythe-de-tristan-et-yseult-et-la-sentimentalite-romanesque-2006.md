@@ -1,10 +1,14 @@
 ---
 title: "Wagner et Proust –   L’ Amour d’après le Mythe de Tristan et Yseult   et    la   Sentimentalité   Romanesque (2006)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/wagner-et-proust-lamour-dapres-le-mythe-de-tristan-et-yseult-et-la-sentimentalite-romanesque-2006/?format=pdf "Download PDF")
 
 Wagner et Proust
 ----------------

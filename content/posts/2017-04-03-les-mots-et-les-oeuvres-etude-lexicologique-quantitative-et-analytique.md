@@ -1,10 +1,15 @@
 ---
 title: "Les Mots et les Oeuvres   Etude Lexicologique  Quantitative et Analytique"
 date: 2017-04-03T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "lexique"
+  - "oeuvres"
+  - "projets"
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/03/les-mots-et-les-oeuvres-etude-lexicologique-quantitative-et-analytique/?format=pdf "Download PDF")
 
 Cette recherche lexicologique se propose de cartographier les mots les plus importants présents dans les oeuvres.
 

@@ -1,10 +1,12 @@
 ---
 title: "Genèse de la Praxis – Genèse de la Psyché"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "schemas"
+  - "theme-4"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/genese-de-la-praxis-genese-de-la-psyche/?format=pdf "Download PDF")
 
 **“L’Être, la Praxis, le Sujet”** ( Chemins de la praxis )  comporte deux “niveaux”
 

@@ -1,10 +1,12 @@
 ---
 title: "Bibliographie  “L’Être et le Code”"
 date: 2016-12-08T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/08/bibliographie-letre-et-le-code/?format=pdf "Download PDF")
 
 BIBLIOGRAPHIE
 

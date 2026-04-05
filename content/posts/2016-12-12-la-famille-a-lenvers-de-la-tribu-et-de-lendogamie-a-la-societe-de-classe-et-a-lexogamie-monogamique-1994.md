@@ -1,10 +1,14 @@
 ---
 title: "“La Famille à l’Envers”  De la Tribu et de l’Endogamie  à la Société de Classe et  à l’Exogamie Monogamique (1994)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/la-famille-a-lenvers-de-la-tribu-et-de-lendogamie-a-la-societe-de-classe-et-a-lexogamie-monogamique-1994/?format=pdf "Download PDF")
 
 *” Le duc de Windsor lui non plus, n’a pas voulu du trône, mais pour avoir l’amour.*
 

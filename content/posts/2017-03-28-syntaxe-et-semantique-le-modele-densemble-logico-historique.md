@@ -1,10 +1,11 @@
 ---
 title: "Syntaxe et Sémantique  Le Modèle d’Ensemble  Logico-Historique  4"
 date: 2017-03-28T00:00:00+01:00
+categories:
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/28/syntaxe-et-semantique-le-modele-densemble-logico-historique/?format=pdf "Download PDF")
 
 Clouscard explique que dans son modèle théorique de “l’ensemble logico-historique”, **le matérialisme dialectique est la syntaxe, le matérialisme historique la sémantique.**
 

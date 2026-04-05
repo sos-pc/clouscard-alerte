@@ -1,10 +1,11 @@
 ---
 title: "Le Libéralisme Libertaire Social-démocrate   Des Enjeux Conceptuels  de sa Théorisation. à l’oeuvre de Clouscard   (en cours de travail )"
 date: 2017-03-22T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/22/resume-rapide-de-clouscard-2011/?format=pdf "Download PDF")
 
 **Introduction et**
 

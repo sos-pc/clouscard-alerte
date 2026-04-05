@@ -1,10 +1,13 @@
 ---
 title: "“Une Histoire de Blue-Jean”  Michel Clouscard (1988)"
 date: 2016-12-11T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/11/une-histoire-de-blue-jean-michel-clouscard-1988/?format=pdf "Download PDF")
 
 Au sujet de l’ouvrage
 ---------------------

@@ -1,10 +1,14 @@
 ---
 title: "Réponses aux Objections du Jury  “L’Être et le Code” 1972"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/objections-du-jury-letre-et-le-code-1972/?format=pdf "Download PDF")
 
 *Nous devons la transcription des échanges entre Michel Clouscard et son jury de thèse à Christian Riochet, ami de l’auteur et  présent à la soutenance de thèse.* *La soutenance de la thèse de Doctorat d’Etat de Michel Clouscard “L’ÊTRE ET LE CODE”  a eu lieu le 28 Mai 1971 à la Faculté des Lettres de l’Université Paris-X.*
 

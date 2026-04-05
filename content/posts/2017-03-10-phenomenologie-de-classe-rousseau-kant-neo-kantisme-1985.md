@@ -1,10 +1,14 @@
 ---
 title: "Phénoménologie de Classe  Rousseau et  Kant face au  néo-kantisme (1985)"
 date: 2017-03-10T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/phenomenologie-de-classe-rousseau-kant-neo-kantisme-1985/?format=pdf "Download PDF")
 
 **Le néo-kantisme va proposer *les formes a priori de la phénoménologie de classe* propre à la bourgeoisie.**
 

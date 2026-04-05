@@ -1,10 +1,14 @@
 ---
 title: "Le corps-sujet  synthèse de la  “res cogitans” et de la “res désiderans”"
 date: 2017-02-26T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/26/le-corps-sujet-synthese-de-la-res-cogitans-et-de-la-res-desiderans/?format=pdf "Download PDF")
 
 *L”analyse de l’immanence entre l’ontologie (sociale) et la phénoménologie (de l’esprit) chez Clouscard permet d’exposer le sens historique et les déterminations logiques de l’opposition entre “res cogitans” et “res extensae”, de l’esprit et du corps. Mais comme toujours, un nouveau terme dialectique émerge : la “res désirans”, interprétation du processus consumériste par le corps-sujet.*
 

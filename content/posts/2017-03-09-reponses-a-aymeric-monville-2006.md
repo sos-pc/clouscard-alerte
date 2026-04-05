@@ -1,10 +1,12 @@
 ---
 title: "Réponses à Aymeric Monville (2006)"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "corpus"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/reponses-a-aymeric-monville-2006/?format=pdf "Download PDF")
 
 Aymeric Monville  
 *A qui vous adressez-vous quand vous écrivez?*

@@ -1,10 +1,12 @@
 ---
 title: "Schémas de La Modernité   dans les Oeuvres publiées"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/schemas-presents-dans-les-oeuvres-publiees/?format=pdf "Download PDF")
 
 Cette collection propose une collection de schémas présents dans les oeuvres.
 

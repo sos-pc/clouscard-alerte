@@ -1,10 +1,11 @@
 ---
 title: "Ontogénèse de l’être de classe  Simon Verdun ( 1 )"
 date: 2017-06-08T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/06/08/ontogenese-de-letre-de-classe-simon-verdun/?format=pdf "Download PDF")
 
 Introduction
 ------------

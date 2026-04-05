@@ -1,10 +1,13 @@
 ---
 title: "Table des Matières Détaillée  “Le Capitalisme de la Séduction” (1981)"
 date: 2016-12-11T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/11/table-des-matieres-detaillee-le-capitalisme-de-la-seduction-1981/?format=pdf "Download PDF")
 
 TABLE DES MATIÈRES
 ==================

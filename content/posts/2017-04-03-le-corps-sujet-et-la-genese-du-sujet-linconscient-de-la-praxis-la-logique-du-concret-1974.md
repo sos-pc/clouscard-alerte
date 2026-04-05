@@ -1,10 +1,15 @@
 ---
 title: "Le Corps-Sujet  La Genèse du Sujet   Le Subconscient et l’Inconscient du Corps-Sujet.    ” La Logique du Concret” (1974 )"
 date: 2017-04-03T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/03/le-corps-sujet-et-la-genese-du-sujet-linconscient-de-la-praxis-la-logique-du-concret-1974/?format=pdf "Download PDF")
 
 Ceci est un extrait de ” [La Logique du Concret” de Christian Riochet](/images/2016/11/logique_concret_v5.pdf), étude de “l’Être et le Code”., p 90-91
 

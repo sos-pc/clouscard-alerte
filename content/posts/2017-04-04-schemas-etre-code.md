@@ -1,10 +1,11 @@
 ---
 title: "Cladogramme  Lexicologique  L Être et Le Code"
 date: 2017-04-04T00:00:00+01:00
+categories:
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/04/schemas-etre-code/?format=pdf "Download PDF")
 
 [[Montrer sous forme de diaporama]](/posts/2017/04/04/schemas-etre-code/nggallery/slideshow)
 

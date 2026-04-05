@@ -1,10 +1,12 @@
 ---
 title: "“Le Potlatch de l’Extorsion de la Plus-Value”  Les trois thèses sur la civilisation capitaliste – 2 – (1981)"
 date: 2016-12-11T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/11/le-potlatch-de-lextorsion-de-la-plus-value-les-trois-theses-sur-la-civilisation-capitaliste-2-1981/?format=pdf "Download PDF")
 
 *En 1981, dans “Le Capitalisme de la Séduction”, Michel Clouscard analyse les mœurs de la nouvelle société du libéralisme libertaire.**Après une première partie consacrée aux rituels de l’initiation mondaine à la civilisation capitaliste, cette “phénoménologie du mondain” débouche sur une deuxième partie consacrée à une “logique du mondain”.  La dénonciation de la fausse innocence  va alors consister à montrer les “trois péchés capitaux de cette civilisation capitaliste”.*
 

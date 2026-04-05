@@ -1,10 +1,13 @@
 ---
 title: "“L’Amour-Fou – de Tristan et Yseult – est une Catégorie Historique produite par la Praxis”. ( 1994)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/lamour-fou-de-tristan-et-yseult-est-une-categorie-historique-produite-par-la-praxis-1994/?format=pdf "Download PDF")
 
 Dans “Le Traité de l’Amour Fou” (1994), comme dans “Refondation Progresssite” (2003) – dernière page, Michel Clouscard pose cette question:  
 **«Peut-il y avoir encore une solution, une synthèse, une mise en ordre dans le système de l’exogamie monogamique de la société de classes?»**

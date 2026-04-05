@@ -1,10 +1,12 @@
 ---
 title: "“De l’Amitié –  Manifeste de la Complicité de Classe”  Christian Riochet (1976)"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "bio"
+  - "contributeurs"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/de-lamitie-manifeste-de-la-complicite-de-classe-christian-riochet-1976/?format=pdf "Download PDF")
 
 Lien de téléchargement  :
 

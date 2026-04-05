@@ -1,10 +1,13 @@
 ---
 title: "Le modèle d’ensemble logico-historique 1  1972 ; 2003 ; 1974."
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/presentation-de-letre-et-le-code/?format=pdf "Download PDF")
 
 *Suite à de nombreuses interrogations quant au modèle de “l’ensemble logico-historique” chez Clouscard, comme synthèse dialectique de Kant, Hegel et Marx contre le néo-kantisme, trois passages me semblent intéressant pour débuter le repérage des enjeux, puis d’analyser les problématiques et enfin de comprendre l’épistémologie mise en place dans “L’Être et le Code”*
 

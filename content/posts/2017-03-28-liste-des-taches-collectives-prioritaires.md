@@ -1,10 +1,12 @@
 ---
 title: "Projet Collectif Lexique"
 date: 2017-03-28T00:00:00+01:00
+categories:
+  - "lexique"
+  - "projets"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/28/liste-des-taches-collectives-prioritaires/?format=pdf "Download PDF")
 
 *Pour une répartition collective du travail de recension, il faudrait  classer ces différentes entrées*
 

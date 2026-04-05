@@ -1,10 +1,14 @@
 ---
 title: "Être, Praxis, Sujet – Phénoménologie du Genre"
 date: 2017-03-10T00:00:00+01:00
+categories:
+  - "schemas"
+  - "theme-3"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/etre-praxis-sujet-phenomenologie-du-genre/?format=pdf "Download PDF")
 
 Les schémas qui suivent ont été réalisés par Sylvain dans le cadre d’un travail de représentation des enjeux théoriques et idéologiques.
 

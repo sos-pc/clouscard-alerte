@@ -1,10 +1,11 @@
 ---
 title: "De l’Être au Tribalisme Clanique  – La Conquête de l’Esclave :  Première entropie"
 date: 2017-04-05T00:00:00+01:00
+categories:
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/05/de-letre-au-tribalisme-clanique-la-conquete-de-lesclave-premiere-entropie/?format=pdf "Download PDF")
 
 1 De l’être au tribalisme clanique
 ==================================

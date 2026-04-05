@@ -1,10 +1,12 @@
 ---
 title: "Phylogenèse  Ontogenèse – Diachronique / Synchronique"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "schemas"
+  - "theme-4"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/phylogenese-ontogenese-diachronique-synchronique/?format=pdf "Download PDF")
 
 Ce diaporama a été produit pour exposer certaines catégories de “l’Être, la Praxis, le Sujet”.
 

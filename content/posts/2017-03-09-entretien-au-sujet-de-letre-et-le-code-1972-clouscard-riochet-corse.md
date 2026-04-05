@@ -1,10 +1,14 @@
 ---
 title: "Entretien au sujet de “L’Être et le Code” 1972  Clouscard – Riochet. Corse"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/entretien-au-sujet-de-letre-et-le-code-1972-clouscard-riochet-corse/?format=pdf "Download PDF")
 
 Deux hommes discutent ensemble à **Miomo** en Corse, **Août 1972.**
 

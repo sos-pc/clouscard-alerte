@@ -1,10 +1,13 @@
 ---
 title: "“Les progressistes avaient un train d’avance  sur la modernité; ils l’ont manqué”  Simon Verdun"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "theme-3"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/les-progressistes-avaient-un-train-davance-sur-la-modernite-ils-lont-manque-simon-verdun/?format=pdf "Download PDF")
 
 C’est près de quarante ans après sa rédaction que nous parvient un texte que Michel Clouscard avait préparé à destination du Parti communiste français. Lettre ouverte qui ne le fut jamais, pour la raison qu’elle ne fut même pas postée par l’auteur (pour quelles raisons ?) : *on* la retrouva dans ses affaires après sa mort, toute disposée à l’envoi.
 

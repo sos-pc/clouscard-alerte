@@ -1,10 +1,12 @@
 ---
 title: "Tristan et Yseult   Résumé de l’Opéra de Wagner"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/tristan-et-yseult-resume-de-lopera-de-wagner/?format=pdf "Download PDF")
 
 Tristan et Yseult
 -----------------

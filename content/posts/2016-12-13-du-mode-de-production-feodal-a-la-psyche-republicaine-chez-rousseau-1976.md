@@ -1,10 +1,13 @@
 ---
 title: "“Du Mode de Production Féodal    à la Psyché Républicaine chez Rousseau” (1976)"
 date: 2016-12-13T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/13/du-mode-de-production-feodal-a-la-psyche-republicaine-chez-rousseau-1976/?format=pdf "Download PDF")
 
 *On trouvera dans cet extrait  un des meilleurs résumés donnés par Clouscard sur sa démarche  dans “L’Être et le Code”  mais aussi de l’ensemble de sa démarche conceptuelle et de sa recherche  partant d’une “anthropologie historique” vers une “philosophie politique”.*
 

@@ -1,10 +1,14 @@
 ---
 title: "“La Révolution  de l’Exogamie Monogamique Féodale” – Traité de l’Amour Fou  (1994)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/la-revolution-de-lexogamie-monogamique-feodale-traite-de-lamour-fou-1996/?format=pdf "Download PDF")
 
 *Ce mythe exprime, simultanément,  
 l’implantation de l’exogamie monogamique  

@@ -1,10 +1,15 @@
 ---
 title: "L’Ontogenèse et le Corps-Sujet   une “Épistémologie Matérialiste du Corps”  1972-1977"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/lontogenese-et-le-corps-sujet-une-epistemologie-materialiste-du-corps-1972-1977/?format=pdf "Download PDF")
 
 *Dans cet extrait, Michel Clouscard explique de façon synthétique sa conception de l’ontogenèse, comme procès de production du corps-sujet. Il précise que la subjectivité est une réalité ontologique du corps organique qui accède à la négation de ses déterminations originaires pour produire dialectiquement le corps-sujet.*
 

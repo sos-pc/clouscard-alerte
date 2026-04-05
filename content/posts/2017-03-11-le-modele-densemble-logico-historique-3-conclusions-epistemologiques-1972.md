@@ -1,10 +1,13 @@
 ---
 title: "Le modèle d’ensemble logico-historique 3 Conclusions Epistémologiques (1972)"
 date: 2017-03-11T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/11/le-modele-densemble-logico-historique-3-conclusions-epistemologiques-1972/?format=pdf "Download PDF")
 
 *Ce passage me semble le plus didactique pour aborder l’étude du modèle d’ensemble logico-historique chez Clouscard.  Cette proposition d “ensemble logico-historique” est historique un contre modèle théorique qui répond à la “structure” du structuralisme de Lévi-Strauss.  L’ensemble logico-historique peut être compris comme un “structuralisme génétique”, mais il s’avère un apport décisif pour établir un pont entre Marx et Hegel, comme entre Hegel et Marx.*
 

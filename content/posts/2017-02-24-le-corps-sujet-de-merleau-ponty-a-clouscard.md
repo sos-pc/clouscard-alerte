@@ -1,10 +1,13 @@
 ---
 title: "Le Corps Sujet  de Platon à Clouscard. (incomplet)"
 date: 2017-02-24T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/24/le-corps-sujet-de-merleau-ponty-a-clouscard/?format=pdf "Download PDF")
 
   ( EN COURS  d’ ECRITURE – article de fond avec pas mal d’informations à organiser pour saisir le discours sur  le “corps-sujet” chez Clouscard ) ![](/images/2017/02/gn03x-serpent-201x300.jpg)
 

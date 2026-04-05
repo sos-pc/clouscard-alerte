@@ -1,10 +1,13 @@
 ---
 title: "Le piège de la lecture qui “picore” -(Lire Clouscard 1)"
 date: 2016-12-01T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/01/le-piege-de-la-lecture-qui-picore-lire-clouscard-1/?format=pdf "Download PDF")
 
 La lecture qui “picore” dans Clouscard  sans rien comprendre à la méthode dialectique est une grave erreur  !  Un péché contre l’esprit ? Sans doute, si on pense que l’esprit est dialectique !
 
@@ -12,7 +15,7 @@ D’autant plus, lorsque cette lecture qui “picore” se risque à rechercher 
 
 Je ne suis ni un procureur, ni un juge, mais plutôt ici un plaignant. Notamment parce que j’ai constamment relevé chez Clouscard une critique interne du marxisme par un éminemment théoricien marxiste et on galvaude le terme de “dialecticiens” lorsqu’on craint d’accueillir la critique interne, voire la critique externe. L’attitude quasiment autistique et pathétique consistant à ne pas traiter les contradictions théoriques, idéologiques et politiques internes au nom de l’importance cruciale du communisme est un paralogisme criant et mortifère.
 
-Et si l’enjeu précis de mes paroles n’est pas clair, je vous renvoie notamment à la thèse 83 sur les “philosophies révolutionnaires” dans “[Les Dégâts de la Pratique Libérale”](http://clouscard-alerte.org/index.php/bibliographie-michel-clouscard/les-degats-de-la-pratique-liberale/).
+Et si l’enjeu précis de mes paroles n’est pas clair, je vous renvoie notamment à la thèse 83 sur les “philosophies révolutionnaires” dans “[Les Dégâts de la Pratique Libérale”](/categories/les-degats-de-la-pratique-liberale/-degats-de-la-pratique-liberale/).
 
 §
 

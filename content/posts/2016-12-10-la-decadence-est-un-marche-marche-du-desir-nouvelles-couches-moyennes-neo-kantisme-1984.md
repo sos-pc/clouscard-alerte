@@ -1,10 +1,12 @@
 ---
 title: "“La décadence est un Marché”  Marché du Désir, Nouvelles Couches Moyennes, Néo-Kantisme (1984)"
 date: 2016-12-10T00:00:00+01:00
+categories:
+  - "corpus"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/10/la-decadence-est-un-marche-marche-du-desir-nouvelles-couches-moyennes-neo-kantisme-1984/?format=pdf "Download PDF")
 
 *L’expression de cet article qui suit  a été modifié quelque peu pour rendre plus compréhensible le texte. Les puristes crieront au scandale mais il s’agit d’une proposition! Et il est possible de se reporter au texte original.  
 Merci de votre compréhension.*

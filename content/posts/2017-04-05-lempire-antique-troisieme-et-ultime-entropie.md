@@ -1,10 +1,12 @@
 ---
 title: "L’Empire Antique  Atomisation et Recomposition   du Système de Parenté  Troisième et Ultime Entropie"
 date: 2017-04-05T00:00:00+01:00
+categories:
+  - "non-classe"
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/05/lempire-antique-troisieme-et-ultime-entropie/?format=pdf "Download PDF")
 
 Ceci est un extrait de “L’Être, la Praxis, le Sujet”. LIVRE IX, première Partie ” Le Corps Social ( Phénoménologie) – La Répetition Entropique.
 

@@ -1,10 +1,13 @@
 ---
 title: "Groupe Social et Mondain   Sociologie Historique   “Épistémologie du Code”  (1971)"
 date: 2017-03-26T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/26/groupe-social-mondain-et-epistemologie-du-code-1971/?format=pdf "Download PDF")
 
 *Ceci est un extrait de l’article ” [Groupe](http://ressources-socius.info/index.php/lexique/21-lexique/195-groupe) ”  par   Denis Saint-Amand (FNRS – Université de Liège) dans le site  [ressources.socius.info](http://ressources-socius.info/index.php/lexique/21-lexique/195-groupe)*
 

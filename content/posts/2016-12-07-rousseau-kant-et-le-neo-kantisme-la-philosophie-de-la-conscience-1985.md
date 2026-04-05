@@ -1,10 +1,14 @@
 ---
 title: "Rousseau, Kant, et le néo-kantisme  La philosophie de la conscience ( 1985 )"
 date: 2016-12-07T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/07/rousseau-kant-et-le-neo-kantisme-la-philosophie-de-la-conscience-1985/?format=pdf "Download PDF")
 
 *Après avoir montré le caractère fondateur de la pensée de Rousseau pour concevoir la modernité, la République, la démocratie, la relation entre la subjectivité et la psyché, le corps social et le corps-sujet et l’ensemble des enjeux philosophies qui permettaient de saisir les problématiques du dépassement des rapports de production, Clouscard opère l’analyse de la régression néo-kantienne, celle d’un grand “renfermement de la pensée bourgeoise”, notamment après la fin du Premier Empire de Napoléon et la Restauration1Après l’ abdication de Napoléon Bonaparte le 7 juillet 1815 jusqu’à la Révolution des Trois Glorieuses du 29 juillet 1830. La Restauration consiste en un retour à la souveraineté monarchique de la Maison de Bourbon, exercée dans le  cadre d’une monarchie constitutionnelle limitée par la Charte de 1814. (S.B.) **[[1]](#_ftn1).***
 

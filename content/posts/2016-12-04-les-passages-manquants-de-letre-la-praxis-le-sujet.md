@@ -1,10 +1,13 @@
 ---
 title: "Le passage manquant  de “L’Être, la Praxis, le Sujet”"
 date: 2016-12-04T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "schemas"
+  - "theme-4"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/04/les-passages-manquants-de-letre-la-praxis-le-sujet/?format=pdf "Download PDF")
 
 Le passage manquant  :
 

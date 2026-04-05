@@ -1,10 +1,13 @@
 ---
 title: "La négation du procès de production chez Clouscard."
 date: 2016-11-26T00:00:00+01:00
+categories:
+  - "corpus"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/11/26/la-negation-du-proces-de-production-chez-clouscard/?format=pdf "Download PDF")
 
 On peut comprendre l’importance centrale d’une thèse chez un auteur et ne pas en comprendre l’exacte signification. C’est pourquoi j’aimerais produire quelques remarques au sujet du discours de Clouscard au sujet de la négation du procès de production.
 

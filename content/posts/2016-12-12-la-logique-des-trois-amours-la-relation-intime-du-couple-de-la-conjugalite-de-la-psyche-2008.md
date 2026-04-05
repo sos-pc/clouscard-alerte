@@ -1,10 +1,12 @@
 ---
 title: "“La Logique des Trois Amours”–   la Relation Intime du Couple, de la Conjugalité, de la Psyché –  (2008)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/la-logique-des-trois-amours-la-relation-intime-du-couple-de-la-conjugalite-de-la-psyche-2008/?format=pdf "Download PDF")
 
 **La Logique**
 --------------

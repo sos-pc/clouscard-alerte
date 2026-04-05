@@ -1,10 +1,12 @@
 ---
 title: "L’épistémologie du code 2  “la négation de l’être  par le procès de production” (1974)"
 date: 2017-03-13T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/lepistemologie-du-code-2-la-negation-de-letre-par-le-proces-de-production-1974/?format=pdf "Download PDF")
 
 *Ce passage est un extrait de l’ouvrage de  **Christian Riochet**  » **[La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
 

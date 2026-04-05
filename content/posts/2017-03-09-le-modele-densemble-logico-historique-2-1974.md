@@ -1,10 +1,14 @@
 ---
 title: "le modèle d’ensemble logico-historique 2  (1974)"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/le-modele-densemble-logico-historique-2-1974/?format=pdf "Download PDF")
 
 *![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)L’extrait qui suit est une longue citation de la “Logique du Concret” de Christian Riochet.*
 

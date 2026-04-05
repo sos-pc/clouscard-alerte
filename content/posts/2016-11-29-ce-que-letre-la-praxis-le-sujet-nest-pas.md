@@ -1,10 +1,12 @@
 ---
 title: "Ce que “L’Être, la Praxis, le Sujet” n’est pas. (Lire Clouscard 2)"
 date: 2016-11-29T00:00:00+01:00
+categories:
+  - "corpus"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/11/29/ce-que-letre-la-praxis-le-sujet-nest-pas/?format=pdf "Download PDF")
 
 Les Editions Delga ont eu beau se risquer à un changement de titre invitant à emprunter les “Chemins de la Praxis” pour étudier “l’Être, la Praxis, le Sujet”, on ne trouve guère de lecteurs pour goûter et comprendre l’enchaînement des livres.
 

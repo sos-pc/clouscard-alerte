@@ -1,10 +1,12 @@
 ---
 title: "Analytique Spiritualité Laïque  Schémas “Refondation Féodale” (inédit 2008 )"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/schemas-refondation-feodale-inedit-2008/?format=pdf "Download PDF")
 
 Dans cette ouvrage inédit, Clouscard analyse le début de l’ensemble pré-capitaliste.  Refondation féodale renvoie à l’idée qu’un système d’interdits émerge pour résoudre et dépasser l’entropie originelle du système de la parenté des peuples germaniques.
 

@@ -1,10 +1,12 @@
 ---
 title: "Critique de Sartre :  de Kant au néo-kantisme (1985)"
 date: 2017-03-10T00:00:00+01:00
+categories:
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/critique-de-sartre-de-kant-au-neo-kantisme-1985/?format=pdf "Download PDF")
 
 La liquidation de l’épistémologie kantienne par le néo-kantisme.
 

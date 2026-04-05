@@ -1,10 +1,11 @@
 ---
 title: "de l’Initiation Mondaine  à la Civilisation Capitaliste  à la Refondation Progressiste"
 date: 2017-03-15T00:00:00+01:00
+categories:
+  - "non-classe"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/15/de-linitiation-mondaine-a-la-civilisation-capitaliste-a-la-refondation-progressiste/?format=pdf "Download PDF")
 
 *Bonjour*
 

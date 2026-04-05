@@ -1,10 +1,13 @@
 ---
 title: "“la grande distinction entre le mythe féodal et le romanesque”  Etre&Code 3 – II  – Le parcours de l’entendement"
 date: 2017-02-22T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/22/la-grande-distinction-entre-le-mythe-feodal-tristan-et-iseult-et-le-romanesque-etrecode-3-ii-le-parcours-de-lentendement/?format=pdf "Download PDF")
 
 *“**Le Bourgeois Gentilhomme**” de Molière  dans une mise en scène de Denis Podalydès – 2013*
 

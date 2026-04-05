@@ -1,10 +1,13 @@
 ---
 title: "Goldmann, Sartre, Lévi-Strauss   Débats théoriques à l’époque  de “‘L’Être et le Code”  par M. Édouard Delruelle (2015)"
 date: 2017-03-30T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/30/sartre-levi-strauss-goldmann-debats-a-lepoque-de-letre-et-le-code-edouard-delruelle/?format=pdf "Download PDF")
 
 [![thumbnail of Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss-pdf.jpg)](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss.pdf "Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss")
 

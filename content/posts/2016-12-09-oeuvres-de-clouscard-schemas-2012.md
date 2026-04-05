@@ -1,10 +1,11 @@
 ---
 title: "les Quatrièmes de Couverture  des Editions Originales"
 date: 2016-12-09T00:00:00+01:00
+categories:
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/09/oeuvres-de-clouscard-schemas-2012/?format=pdf "Download PDF")
 
 A l’heure des rééditions par différentes maisons d’édition, l’intérêt de cette galerie est de présenter  le texte des quatrièmes de couverture originales … c’est fondamental !
 

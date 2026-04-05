@@ -1,10 +1,15 @@
 ---
 title: "“Hegel ou Marx ? Marx et Hegel ?”   (Dégâts Pratique Libérale, 1987 )"
 date: 2016-12-08T00:00:00+01:00
+categories:
+  - "corpus"
+  - "les-degats-de-la-pratique-liberale"
+  - "oeuvres"
+  - "theme-3"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/08/hegel-ou-marx-marx-et-hegel-degats-pratique-liberale-1987/?format=pdf "Download PDF")
 
 *“Hegel ou Marx ? Marx et Hegel ?*
 

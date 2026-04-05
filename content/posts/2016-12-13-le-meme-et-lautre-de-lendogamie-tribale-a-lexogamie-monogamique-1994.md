@@ -1,10 +1,13 @@
 ---
 title: "Le Même et l’Autre  –  De l’Endogamie Tribale  à l’Exogamie Monogamique (1994)"
 date: 2016-12-13T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/13/le-meme-et-lautre-de-lendogamie-tribale-a-lexogamie-monogamique-1994/?format=pdf "Download PDF")
 
 *“Comment un mythe qui porte sur « les temps obscurs », la pré-féodalité – vers le VI° siècle? – pourrait-il révéler un progrès capital pour l’humanité? ”  demande Clouscard dans cet extrait.  De même, lorsque Clouscard évoque l’exogamie monogamique comme une clé de l’histoire dans “L’Être, la Praxis, le Sujet”; une telle expression peur dérouter.   Par ailleurs,  lorsque le mythe de Tristan et Yseult fait l’objet d’une attention très particulière pour l’anthropologie historique et l’articulation de la praxis et de la psyché, pourquoi ?*
 

@@ -1,10 +1,14 @@
 ---
 title: "Du Big Bang à l’Antéprédicatif  Commentaires Livre 1, 2 et 3 “L’Être, la Praxis, le Sujet”  ( à reprendre)"
 date: 2016-10-30T00:00:00+01:00
+categories:
+  - "commentaires"
+  - "oeuvres"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/10/30/letre-la-praxis-le-sujet-les-chemins-de-la-praxis/?format=pdf "Download PDF")
 
 Pourquoi le Big Bang? 
 Malgré tout … !

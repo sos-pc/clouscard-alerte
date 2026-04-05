@@ -1,10 +1,13 @@
 ---
 title: "L’ontogenèse  : de ” L’Être et le Code”  à “L’Être, la Praxis, le Sujet”  distinction de “la génétique du sujet” et de la “genèse de la psyché”"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "schemas"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/de-letre-et-le-code-a-letre-la-praxis-le-sujet/?format=pdf "Download PDF")
 
 Dans ce tableau, j’essaie de marquer très fortement  les distinctions dans la problématique de “l’ontogenèse” dans  le livre 2 de   ” L’Être et le Code”  et les livres 8 et 9  de  “L’Être, la Praxis, le Sujet”
 

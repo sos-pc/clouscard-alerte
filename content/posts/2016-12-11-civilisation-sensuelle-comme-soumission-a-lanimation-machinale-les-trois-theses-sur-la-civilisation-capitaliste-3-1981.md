@@ -1,10 +1,12 @@
 ---
 title: "“Civilisation sensuelle comme Soumission à l’Animation Machinale”  Les trois thèses sur la civilisation capitaliste – 3 – (1981)"
 date: 2016-12-11T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/11/civilisation-sensuelle-comme-soumission-a-lanimation-machinale-les-trois-theses-sur-la-civilisation-capitaliste-3-1981/?format=pdf "Download PDF")
 
 *En 1981, dans “Le Capitalisme de la Séduction”, Michel Clouscard analyse les mœurs de la nouvelle société du libéralisme libertaire.*
 

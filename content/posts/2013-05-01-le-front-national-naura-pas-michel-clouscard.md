@@ -1,10 +1,11 @@
 ---
 title: "Le Front National n’aura pas Michel Clouscard (Soral/Breton)"
 date: 2013-05-01T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2013/05/01/le-front-national-naura-pas-michel-clouscard/?format=pdf "Download PDF")
 
 Cet article paraît dans la chronique “Là, oui je marche” de Christian Riochet publié sur Facebook. C’est la 959ème chronique de cet individu.
 

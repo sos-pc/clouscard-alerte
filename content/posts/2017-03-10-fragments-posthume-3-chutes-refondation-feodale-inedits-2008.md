@@ -1,10 +1,12 @@
 ---
 title: "Fragments Posthume 3   Chutes Refondation Féodale (inédits – 2008 )"
 date: 2017-03-10T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/fragments-posthume-3-chutes-refondation-feodale-inedits-2008/?format=pdf "Download PDF")
 
 Il s’agit des carnets remis par Bernard Charles à Sylvain Bourgois en 2011, à Gaillac.
 

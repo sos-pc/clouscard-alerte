@@ -1,10 +1,12 @@
 ---
 title: "Phylogenèse – Ontogenèse  Le Genre, la Procès de production, le Corps-Sujet"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/phylogenese-ontogenese-le-genre-la-proces-de-production-le-corps-sujet/?format=pdf "Download PDF")
 
 Ce qui manque à de nombreux lecteurs de Clouscard, c’est la capacité à suivre le discours selon les moments dialectiques des “ensembles logico-historique” étudiés. ( voir article : le piège de la lecture qui picore )
 

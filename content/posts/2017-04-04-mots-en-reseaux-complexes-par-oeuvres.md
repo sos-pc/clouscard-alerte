@@ -1,10 +1,11 @@
 ---
 title: "Mots en Réseaux Complexes  par Oeuvres"
 date: 2017-04-04T00:00:00+01:00
+categories:
+  - "lexique"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/04/mots-en-reseaux-complexes-par-oeuvres/?format=pdf "Download PDF")
 
 ### 1 Etre et Code (1)
 

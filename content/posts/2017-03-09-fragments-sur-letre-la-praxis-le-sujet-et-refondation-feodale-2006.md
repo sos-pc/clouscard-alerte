@@ -1,10 +1,12 @@
 ---
 title: "Explications sur “L’Être, la Praxis, le Sujet” et “Refondation Féodale” (2006 )"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/fragments-sur-letre-la-praxis-le-sujet-et-refondation-feodale-2006/?format=pdf "Download PDF")
 
 Il s’agit de la dernière réponse de l’entretien de 2006 :
 

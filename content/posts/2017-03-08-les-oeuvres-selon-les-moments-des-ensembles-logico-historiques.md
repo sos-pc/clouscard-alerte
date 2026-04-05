@@ -1,10 +1,11 @@
 ---
 title: "Les Œuvres selon les Moments des Ensembles Logico-historiques"
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/les-oeuvres-selon-les-moments-des-ensembles-logico-historiques/?format=pdf "Download PDF")
 
 Ici, il s’agit essentiellement de cartographier les “**moments dialectiques et historiques**” abordés dans les Œuvres de Clouscard.
 

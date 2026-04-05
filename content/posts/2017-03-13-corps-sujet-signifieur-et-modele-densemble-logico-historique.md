@@ -1,10 +1,14 @@
 ---
 title: "Corps-Sujet signifieur et Modèle d’Ensemble Logico-historique"
 date: 2017-03-13T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/corps-sujet-signifieur-et-modele-densemble-logico-historique/?format=pdf "Download PDF")
 
 ![](/images/2017/03/corps-sujet-signifieur-et-modele-densemble-logico-historique.jpg)
 

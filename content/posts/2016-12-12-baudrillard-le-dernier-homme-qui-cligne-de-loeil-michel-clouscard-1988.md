@@ -1,10 +1,15 @@
 ---
 title: "“Baudrillard, le Dernier Homme  qui Cligne de l’Œil”   Michel Clouscard (1988)"
 date: 2016-12-12T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "les-degats-de-la-pratique-liberale"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/baudrillard-le-dernier-homme-qui-cligne-de-loeil-michel-clouscard-1988/?format=pdf "Download PDF")
 
 Le texte original est ici :   
  [Juin 1988: Clouscard Baudrillard Sartre Levis-Strauss](/images/2016/12/1988-clouscard-baudrillard-sartre-levis-strauss-juin-1988.pdf)

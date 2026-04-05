@@ -1,10 +1,12 @@
 ---
 title: "Schéma de Rousseau à Kant (1985)  “De la Modernité : Rousseau ou Sartre””"
 date: 2017-03-10T00:00:00+01:00
+categories:
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/schema-de-rousseau-a-kant-1985-de-la-modernite-rousseau-ou-sartre/?format=pdf "Download PDF")
 
 [![thumbnail of De Rousseau à Kant](/images/2017/03/De-Rousseau-à-Kant-pdf.jpg "PDF / cliquer pour agrandir / De Rousseau à Kant - moment dialectique et historique / PDF")](/images/2017/03/De-Rousseau-à-Kant.pdf "De Rousseau à Kant")
 

@@ -1,10 +1,13 @@
 ---
 title: "Le Sujet Logique ( Transcendantal ) et l’Histoire – Coupure Epistémologique Radicale  “L’Être et le Code” (1971)"
 date: 2017-03-25T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/25/le-sujet-logique-et-lhistoire-coupure-epistemologique-letre-et-le-code-1971/?format=pdf "Download PDF")
 
 Première proposition :
 

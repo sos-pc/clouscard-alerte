@@ -1,10 +1,12 @@
 ---
 title: "Ontogenèse et Epistémologie  Corps-Sujet Signifieur et Néo-Kantisme"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/ontogenese-et-epistemologie-corps-sujet-signifieur-et-neo-kantisme/?format=pdf "Download PDF")
 
 Ce diaporama est une suggestion pour tenter d’inscrire le discours de Clouscard sur la phylogenèse, l’ontogenèse  et le néo-kantisme dans une perspective classique de la “philosophie de l’esprit”, mais aussi de la “philosophie de l’histoire”. Cela permet de comprendre les revendications de Clouscard pour une contribution à la fois  “kantienne” et “hégélienne” au problème de la connaissance.
 

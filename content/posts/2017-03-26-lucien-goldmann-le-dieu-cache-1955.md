@@ -1,10 +1,13 @@
 ---
 title: "Le Tragique, Expression Symbolique  de la Conscience de Classe  de la Noblesse de Robe  Lucien Goldmann  “Le Dieu Caché” (1955)"
 date: 2017-03-26T00:00:00+01:00
+categories:
+  - "ec"
+  - "oeuvres"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/26/lucien-goldmann-le-dieu-cache-1955/?format=pdf "Download PDF")
 
 *Ceci est un extrait  de l’article ” homologie” de M Olivier Roueff (CNRS, CRESPPA-CSU)  dans le site   : [ressources-socius.info](http://ressources-socius.info/index.php/lexique/21-lexique/155-homologie).*
 

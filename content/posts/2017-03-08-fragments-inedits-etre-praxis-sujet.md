@@ -1,10 +1,11 @@
 ---
 title: "Fragments inédits –  Être – Praxis – Sujet."
 date: 2017-03-08T00:00:00+01:00
+categories:
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/fragments-inedits-etre-praxis-sujet/?format=pdf "Download PDF")
 
 En 2011, à Gaillac, **Bernard Charles,** ami personnel de Clouscard, organisait une conférence pour le Salon du Livre.
 

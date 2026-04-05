@@ -1,10 +1,12 @@
 ---
 title: "Réponses à Claude Morhillat  (1987)"
 date: 2017-03-09T00:00:00+01:00
+categories:
+  - "corpus"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/reponse-a-claude-morhillat-1987/?format=pdf "Download PDF")
 
 [![thumbnail of 1987 Clouscard Débats avec Claude Morhillat 1987](/images/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987-pdf-410x600.jpg)](/images/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987.pdf "1987 Clouscard Débats avec Claude Morhillat 1987")
 

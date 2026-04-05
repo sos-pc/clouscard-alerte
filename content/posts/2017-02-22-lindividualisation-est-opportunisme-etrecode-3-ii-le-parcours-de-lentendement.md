@@ -1,10 +1,15 @@
 ---
 title: "“L’individualisation est opportunisme”  Etre&Code 3 – II  – Le parcours de l’entendement"
 date: 2017-02-22T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "ec"
+  - "oeuvres"
+  - "schemas"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/22/lindividualisation-est-opportunisme-etrecode-3-ii-le-parcours-de-lentendement/?format=pdf "Download PDF")
 
 Alors que Clouscard pense l’apparition de l’Etat Nation, il analyse l’alliance progressive entre une monarchie qui va devenir absolutiste et la bourgeoisie gestionnaire qui s’affirme dans la praxis globale de l’exploitation méthodique du monde rural.  Progressivement, la bourgeoisie régionale du fief parviendra à  la bourgeoisie de robe par alliance et mariage avec une noblesse soucieuse de “redorer son blason” ).
 

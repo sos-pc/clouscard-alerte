@@ -1,10 +1,11 @@
 ---
 title: "Mots Clés et Cladogramme  Analyse Lexicographique"
 date: 2017-04-04T00:00:00+01:00
+categories:
+  - "lexique"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/04/mots-cles-et-cladogramme-analyse-lexicographique/?format=pdf "Download PDF")
 
 [[Montrer sous forme de diaporama]](/posts/2017/04/04/mots-cles-et-cladogramme-analyse-lexicographique/nggallery/slideshow)
 

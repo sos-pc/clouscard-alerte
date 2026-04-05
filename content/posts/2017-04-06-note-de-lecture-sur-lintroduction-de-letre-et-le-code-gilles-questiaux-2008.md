@@ -1,10 +1,11 @@
 ---
 title: "Note de Lecture  sur l’Introduction de “l’Être et le Code”  Gilles Questiaux (2008)"
 date: 2017-04-06T00:00:00+01:00
+categories:
+  - "corpus"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/06/note-de-lecture-sur-lintroduction-de-letre-et-le-code-gilles-questiaux-2008/?format=pdf "Download PDF")
 
 Cet article  de Gilles Questiaux date de 2008.  Avec l’accord de l’auteur, cette “note de lecture” est extraite de son blog  <http://www.reveilcommuniste.fr/article-15637105.html>
 

@@ -1,10 +1,13 @@
 ---
 title: "“Après le marxisme-léninisme,  la lutte des classes généralisée”  Michel Clouscard"
 date: 2017-02-28T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "theme-3"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/28/apres-le-marxisme-leninisme-la-lutte-des-classes-michel-clouscard/?format=pdf "Download PDF")
 
 En poursuivant le travail de recherche pour trouver des “traces” de Clouscard, je suis tombé sur un article intéressant. Le Vendredi 6 Avril 1990, dans un quotidien régional suisse, “L’impartial”, fondé en 1880, on trouve un article exposant une conférence donnée par Michel Clouscard. ( N°34 413 )
 

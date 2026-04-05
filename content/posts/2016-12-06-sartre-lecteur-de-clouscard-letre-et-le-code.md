@@ -1,10 +1,14 @@
 ---
 title: "Sartre, lecteur sérieux de Clouscard ?  (“L’Être et le Code”)"
 date: 2016-12-06T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "corpus"
+  - "ec"
+  - "oeuvres"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/06/sartre-lecteur-de-clouscard-letre-et-le-code/?format=pdf "Download PDF")
 
 Au début des années 1970, Jean-Paul Sartre n’est pas un inconnu, ni pour le grand public, ni pour Michel Clouscard. Mais avait-il lu Clouscard ?   Il se trouve qu’il a effectivement lu “L’Être et le Code” et qu’il fut membre du jury de thèse.
 
@@ -102,7 +106,7 @@ Aucune rencontre n’eut lieu. Il ne semble pas que Sartre a aidé Clouscard à 
 
 Mais pour revenir au concept, il sera intéressant de se reporter également aux [“Critiques du Jury de Thèse](/images/2016/11/Objections-du-Jury-de-Th%C3%A8se-et-R%C3%A9ponse-de-Michel-Clouscard.docx)” que nous publions et que nous devons à la retranscription de la soutenance de thèse par Christian Riochet dans son ouvrage “ [La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/) “.
 
-Je pense que le débat reste ouvert pour analyser la tension théorique entre Jean-Paul Sartre et Michel Clouscard. D’autant plus qu’un ouvrage entier semble poursuivre cette polémique de Clouscard **contre Sartre** “ [*De la modernité : Rousseau ou Sartre*“](http://clouscard-alerte.org/index.php/bibliographie-michel-clouscard/de-la-modernite-rousseau-ou-sartre/). Un autre article y sera consacré dans notre site.
+Je pense que le débat reste ouvert pour analyser la tension théorique entre Jean-Paul Sartre et Michel Clouscard. D’autant plus qu’un ouvrage entier semble poursuivre cette polémique de Clouscard **contre Sartre** “ [*De la modernité : Rousseau ou Sartre*“](/categories/de-la-modernite-rousseau-ou-sartre/la-modernite-rousseau-ou-sartre/). Un autre article y sera consacré dans notre site.
 
 Il est évident que l’œuvre de Clouscard contient nombre de réponses implicites à la “**Critique de la Raison Dialectique”** de Sartre, mais aussi nombre d’emprunts critiques comme la notion de “***mauvaise foi***” dans “Le Frivole et le Sérieux” mais plus profondément  la reprise matérialiste de la notion de “***cogito pré-réflexi*f**” dans la phénoménologie et la logique du corps-sujet  dans la dernière partie de “L’Être, la Praxis, le Sujet”…
 

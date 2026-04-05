@@ -1,10 +1,14 @@
 ---
 title: "Théorie de l’ Émotion  Savoir de sa Nécessité ou  Refus Névrotique  (1974 )"
 date: 2017-04-05T00:00:00+01:00
+categories:
+  - "contributeurs"
+  - "oeuvres"
+  - "theme-4"
+  - "themes"
 draft: false
 ---
 
-[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/05/22-theorie-de-lemotion-savoir-de-sa-necessite-ou-refus-nevrotique-1974/?format=pdf "Download PDF")
 
 Ceci est un extrait de ” La Logique du Concret” de Christian Riochet, étude de “l’Être et le Code”., p 73 – 75   ( Analytique 22 )
 
