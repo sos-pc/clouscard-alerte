@@ -8,7 +8,7 @@ draft: false
 
 Il s’agit de la dernière réponse de l’entretien de 2006 :
 
-[Réponses à Aymeric Monville ( 2006 )](http://clouscard-alerte.org/index.php/2017/03/09/reponses-a-aymeric-monville-2006/)
+[Réponses à Aymeric Monville ( 2006 )](/posts/2017/03/09/reponses-a-aymeric-monville-2006/)
 
 **Aymeric Monville:**
 

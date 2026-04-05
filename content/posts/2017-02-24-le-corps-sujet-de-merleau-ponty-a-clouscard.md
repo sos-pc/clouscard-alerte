@@ -50,7 +50,7 @@ PLAN DE L’ARTICLE :
 
 Un des thèmes politiques  les plus fondamentaux et les moins commentés chez Clouscard est la notion de “corps-sujet”.  Et pourtant, tout est là.
 
-1 ) Tout d’abord,  rappelons que la **conclusion du “Néo-fascisme et idéologie du désir”** n’est rien d’autre qu’un appel à “libérer le corps”. <note> voir notre article : http://clouscard-alerte.org/index.php/2016/12/08/reconcilier-principe-de-realite-et-principe-de-plaisir-neo-fascisme-et-ideologie-du-desir-1974/ </note>
+1 ) Tout d’abord,  rappelons que la **conclusion du “Néo-fascisme et idéologie du désir”** n’est rien d’autre qu’un appel à “libérer le corps”. <note> voir notre article : /posts/2016/12/08/reconcilier-principe-de-realite-et-principe-de-plaisir-neo-fascisme-et-ideologie-du-desir-1974/ </note>
 
 ![](/images/2016/11/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl-1-192x300.jpg)
 

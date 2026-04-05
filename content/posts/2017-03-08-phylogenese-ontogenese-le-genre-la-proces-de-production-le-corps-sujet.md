@@ -12,34 +12,34 @@ Cette série de schéma a été réalisée pour organiser l’étude de l’ense
 
 Il s’agissait de placer des “moments dialectiques” schématiques dans une présentation linéaire de l’histoire universelle.
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/08/phylogenese-ontogenese-le-genre-la-proces-de-production-le-corps-sujet/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/03/08/phylogenese-ontogenese-le-genre-la-proces-de-production-le-corps-sujet/nggallery/slideshow)
 
-[![2 Homme Originel Homme Naturel 2](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-2.jpg "2 Homme Originel Homme Naturel 2")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-2.jpg)
+[![2 Homme Originel Homme Naturel 2](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-2.jpg "2 Homme Originel Homme Naturel 2")](/images/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-2.jpg)
 
-[![2 Homme Originel Homme Naturel 3](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-3.jpg "2 Homme Originel Homme Naturel 3")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-3.jpg)
+[![2 Homme Originel Homme Naturel 3](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-3.jpg "2 Homme Originel Homme Naturel 3")](/images/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-3.jpg)
 
-[![6 Originel Naturel Synthétique 1](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_6-Originel-Naturel-Synth%C3%A9tique-1.jpg "6 Originel Naturel Synthétique 1")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/6-Originel-Naturel-Synth%C3%A9tique-1.jpg)
+[![6 Originel Naturel Synthétique 1](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_6-Originel-Naturel-Synth%C3%A9tique-1.jpg "6 Originel Naturel Synthétique 1")](/images/gallery/phylogenese-ontogenese/6-Originel-Naturel-Synth%C3%A9tique-1.jpg)
 
-[![6 Originel Naturel Synthétique 2 PSYCHE](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_6-Originel-Naturel-Synth%C3%A9tique-2-PSYCHE.jpg "6 Originel Naturel Synthétique 2 PSYCHE")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/6-Originel-Naturel-Synth%C3%A9tique-2-PSYCHE.jpg)
+[![6 Originel Naturel Synthétique 2 PSYCHE](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_6-Originel-Naturel-Synth%C3%A9tique-2-PSYCHE.jpg "6 Originel Naturel Synthétique 2 PSYCHE")](/images/gallery/phylogenese-ontogenese/6-Originel-Naturel-Synth%C3%A9tique-2-PSYCHE.jpg)
 
-[![0 0 1 australopithèque](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-1-australopith%C3%A8que.jpg "0 0 1 australopithèque")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-0-1-australopith%C3%A8que.jpg)
+[![0 0 1 australopithèque](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-1-australopith%C3%A8que.jpg "0 0 1 australopithèque")](/images/gallery/phylogenese-ontogenese/0-0-1-australopith%C3%A8que.jpg)
 
-[![0 0 2 erectus PROMETHEE](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-2-erectus-PROMETHEE.gif "0 0 2 erectus PROMETHEE")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-0-2-erectus-PROMETHEE.gif)
+[![0 0 2 erectus PROMETHEE](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-2-erectus-PROMETHEE.gif "0 0 2 erectus PROMETHEE")](/images/gallery/phylogenese-ontogenese/0-0-2-erectus-PROMETHEE.gif)
 
-[![0 0 3 font de gaume croc magnon](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-3-font-de-gaume-croc-magnon.jpg "0 0 3 font de gaume croc magnon")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-0-3-font-de-gaume-croc-magnon.jpg)
+[![0 0 3 font de gaume croc magnon](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-3-font-de-gaume-croc-magnon.jpg "0 0 3 font de gaume croc magnon")](/images/gallery/phylogenese-ontogenese/0-0-3-font-de-gaume-croc-magnon.jpg)
 
-[![0 0 4 agriculture](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-4-agriculture.jpg "0 0 4 agriculture")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-0-4-agriculture.jpg)
+[![0 0 4 agriculture](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-0-4-agriculture.jpg "0 0 4 agriculture")](/images/gallery/phylogenese-ontogenese/0-0-4-agriculture.jpg)
 
-[![0 a schéma 0 1](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-a-sch%C3%A9ma-0-1.JPG "0 a schéma 0 1")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-a-sch%C3%A9ma-0-1.JPG)
+[![0 a schéma 0 1](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-a-sch%C3%A9ma-0-1.JPG "0 a schéma 0 1")](/images/gallery/phylogenese-ontogenese/0-a-sch%C3%A9ma-0-1.JPG)
 
-[![0 Diachronie Synchronie 1](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-Diachronie-Synchronie-1.jpg "0 Diachronie Synchronie 1")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-Diachronie-Synchronie-1.jpg)
+[![0 Diachronie Synchronie 1](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-Diachronie-Synchronie-1.jpg "0 Diachronie Synchronie 1")](/images/gallery/phylogenese-ontogenese/0-Diachronie-Synchronie-1.jpg)
 
-[![0 Diachronie Synchronie](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_0-Diachronie-Synchronie.jpg "0 Diachronie Synchronie")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/0-Diachronie-Synchronie.jpg)
+[![0 Diachronie Synchronie](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_0-Diachronie-Synchronie.jpg "0 Diachronie Synchronie")](/images/gallery/phylogenese-ontogenese/0-Diachronie-Synchronie.jpg)
 
-[![1 Phylogenèse Ontogenèse 1](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se-1.jpg "1 Phylogenèse Ontogenèse 1")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se-1.jpg)
+[![1 Phylogenèse Ontogenèse 1](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se-1.jpg "1 Phylogenèse Ontogenèse 1")](/images/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se-1.jpg)
 
-[![1 Phylogenèse Ontogenèse 2 mode production](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se-2-mode-production.jpg "1 Phylogenèse Ontogenèse 2 mode production")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se-2-mode-production.jpg)
+[![1 Phylogenèse Ontogenèse 2 mode production](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se-2-mode-production.jpg "1 Phylogenèse Ontogenèse 2 mode production")](/images/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se-2-mode-production.jpg)
 
-[![1 Phylogenèse Ontogenèse](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se.jpg "1 Phylogenèse Ontogenèse")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se.jpg)
+[![1 Phylogenèse Ontogenèse](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_1-Phylogen%C3%A8se-Ontogen%C3%A8se.jpg "1 Phylogenèse Ontogenèse")](/images/gallery/phylogenese-ontogenese/1-Phylogen%C3%A8se-Ontogen%C3%A8se.jpg)
 
-[![2 Homme Originel Homme Naturel 1](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-1.jpg "2 Homme Originel Homme Naturel 1")](http://clouscard-alerte.org/wp-content/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-1.jpg)
+[![2 Homme Originel Homme Naturel 1](/images/gallery/phylogenese-ontogenese/thumbs/thumbs_2-Homme-Originel-Homme-Naturel-1.jpg "2 Homme Originel Homme Naturel 1")](/images/gallery/phylogenese-ontogenese/2-Homme-Originel-Homme-Naturel-1.jpg)

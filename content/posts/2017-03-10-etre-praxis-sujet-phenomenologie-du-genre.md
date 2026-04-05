@@ -18,14 +18,14 @@ Ne pas reconnaître la subjectivité ( de la praxis ), c’est laisser le terrai
 
 S.B.
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/10/etre-praxis-sujet-phenomenologie-du-genre/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/03/10/etre-praxis-sujet-phenomenologie-du-genre/nggallery/slideshow)
 
-[![conflit réel imaginaire théorique](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg "conflit réel imaginaire théorique")](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg)
+[![conflit réel imaginaire théorique](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg "conflit réel imaginaire théorique")](/images/gallery/etre-praxis-sujet-hyperboloide/conflit-r%C3%A9el-imaginaire-th%C3%A9orique.jpg)
 
-[![forme](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_forme.jpg "forme")](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/forme.jpg)
+[![forme](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_forme.jpg "forme")](/images/gallery/etre-praxis-sujet-hyperboloide/forme.jpg)
 
-[![IMAGINAIRE THEORIQUE 2](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_IMAGINAIRE-THEORIQUE-2.jpg "IMAGINAIRE THEORIQUE 2")](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/IMAGINAIRE-THEORIQUE-2.jpg)
+[![IMAGINAIRE THEORIQUE 2](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_IMAGINAIRE-THEORIQUE-2.jpg "IMAGINAIRE THEORIQUE 2")](/images/gallery/etre-praxis-sujet-hyperboloide/IMAGINAIRE-THEORIQUE-2.jpg)
 
-[![IMAGINAIRE THEORIQUE](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_IMAGINAIRE-THEORIQUE.jpg "IMAGINAIRE THEORIQUE")](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/IMAGINAIRE-THEORIQUE.jpg)
+[![IMAGINAIRE THEORIQUE](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_IMAGINAIRE-THEORIQUE.jpg "IMAGINAIRE THEORIQUE")](/images/gallery/etre-praxis-sujet-hyperboloide/IMAGINAIRE-THEORIQUE.jpg)
 
-[![REEL](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_REEL.jpg "REEL")](http://clouscard-alerte.org/wp-content/gallery/etre-praxis-sujet-hyperboloide/REEL.jpg)
+[![REEL](/images/gallery/etre-praxis-sujet-hyperboloide/thumbs/thumbs_REEL.jpg "REEL")](/images/gallery/etre-praxis-sujet-hyperboloide/REEL.jpg)

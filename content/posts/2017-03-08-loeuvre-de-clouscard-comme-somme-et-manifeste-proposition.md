@@ -18,22 +18,22 @@ On peut considérer également que ” **Le Frivole et le Sérieux**” est déj
 
 Par ailleurs, il est évident que toute l’oeuvre de Clouscard contient un appel pour un “**nouveau progressisme**” ( 1977 ) ou une **“alternative progressiste**” ( 1995 ) et enfin une “**refondation progressiste”** ( 2003 à 2008 )
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/08/loeuvre-de-clouscard-comme-somme-et-manifeste-proposition/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/03/08/loeuvre-de-clouscard-comme-somme-et-manifeste-proposition/nggallery/slideshow)
 
-[![0 Clouscard 1 très simplifié](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-1-tr%C3%A8s-simplifi%C3%A9.jpg "0 Clouscard 1 très simplifié")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/0-Clouscard-1-tr%C3%A8s-simplifi%C3%A9.jpg)
+[![0 Clouscard 1 très simplifié](/images/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-1-tr%C3%A8s-simplifi%C3%A9.jpg "0 Clouscard 1 très simplifié")](/images/gallery/clouscard-comme-somme/0-Clouscard-1-tr%C3%A8s-simplifi%C3%A9.jpg)
 
-[![0 Clouscard 2 simplifié 2](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-2-simplifi%C3%A9-2.jpg "0 Clouscard 2 simplifié 2")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/0-Clouscard-2-simplifi%C3%A9-2.jpg)
+[![0 Clouscard 2 simplifié 2](/images/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-2-simplifi%C3%A9-2.jpg "0 Clouscard 2 simplifié 2")](/images/gallery/clouscard-comme-somme/0-Clouscard-2-simplifi%C3%A9-2.jpg)
 
-[![0 Clouscard 3 simplifié](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-3-simplifi%C3%A9.jpg "0 Clouscard 3 simplifié")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/0-Clouscard-3-simplifi%C3%A9.jpg)
+[![0 Clouscard 3 simplifié](/images/gallery/clouscard-comme-somme/thumbs/thumbs_0-Clouscard-3-simplifi%C3%A9.jpg "0 Clouscard 3 simplifié")](/images/gallery/clouscard-comme-somme/0-Clouscard-3-simplifi%C3%A9.jpg)
 
-[![1 Clouscard comme système 2](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-2.JPG "1 Clouscard comme système 2")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-2.JPG)
+[![1 Clouscard comme système 2](/images/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-2.JPG "1 Clouscard comme système 2")](/images/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-2.JPG)
 
-[![1 Clouscard comme système 1](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-1.JPG "1 Clouscard comme système 1")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-1.JPG)
+[![1 Clouscard comme système 1](/images/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-1.JPG "1 Clouscard comme système 1")](/images/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-1.JPG)
 
-[![2 Etre et Code Clouscard_2](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_2-Etre-et-Code-Clouscard_2.JPG "2 Etre et Code Clouscard_2")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/2-Etre-et-Code-Clouscard_2.JPG)
+[![2 Etre et Code Clouscard_2](/images/gallery/clouscard-comme-somme/thumbs/thumbs_2-Etre-et-Code-Clouscard_2.JPG "2 Etre et Code Clouscard_2")](/images/gallery/clouscard-comme-somme/2-Etre-et-Code-Clouscard_2.JPG)
 
-[![2 Modernité](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_2-Modernit%C3%A9.JPG "2 Modernité")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/2-Modernit%C3%A9.JPG)
+[![2 Modernité](/images/gallery/clouscard-comme-somme/thumbs/thumbs_2-Modernit%C3%A9.JPG "2 Modernité")](/images/gallery/clouscard-comme-somme/2-Modernit%C3%A9.JPG)
 
-[![3 Clouscard_5](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_3-Clouscard_5.JPG "3 Clouscard_5")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/3-Clouscard_5.JPG)
+[![3 Clouscard_5](/images/gallery/clouscard-comme-somme/thumbs/thumbs_3-Clouscard_5.JPG "3 Clouscard_5")](/images/gallery/clouscard-comme-somme/3-Clouscard_5.JPG)
 
-[![1 Clouscard comme système 2](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-2-1.JPG "1 Clouscard comme système 2")](http://clouscard-alerte.org/wp-content/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-2-1.JPG)
+[![1 Clouscard comme système 2](/images/gallery/clouscard-comme-somme/thumbs/thumbs_1-Clouscard-comme-syst%C3%A8me-2-1.JPG "1 Clouscard comme système 2")](/images/gallery/clouscard-comme-somme/1-Clouscard-comme-syst%C3%A8me-2-1.JPG)

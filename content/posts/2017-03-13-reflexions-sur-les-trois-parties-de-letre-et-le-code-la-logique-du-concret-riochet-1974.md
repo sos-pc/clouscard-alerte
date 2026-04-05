@@ -8,7 +8,7 @@ draft: false
 
 ![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)
 
-*Ce passage est un extrait de l’ouvrage de**Christian Riochet**  » **[La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
+*Ce passage est un extrait de l’ouvrage de**Christian Riochet**  » **[La Logique du Concret](/posts/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
 
 *Dans ces réflexions relativement denses, on trouve les problématiques les plus décisives pour l’étude et la compréhension de “L’Être et le Code”. En effet, en première analyse, l’irruption du livre II semble interrompre l’articulation entre livre I ( la structure féodale ) et le livre III ( du mythe au sujet de la connaissance).*
 

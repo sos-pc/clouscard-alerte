@@ -12,7 +12,7 @@ draft: false
 
 **Genèse de la Psyché**, livre 8 et 9. : dialectique entre le genre, l’individu, le corps-sujet  pour l’individu, dans le parcours de l’ontogenèse
 
-Pour étudier le sens épistémologique et philosophique de l’articulation de la “Genèse de la Praxis”  et de la “Genèse de la Psyché”, il faut lire le “[passage manquant” de “L’Être, la Praxis, le Sujet” dans l’édition Delga](http://clouscard-alerte.org/index.php/2016/12/04/les-passages-manquants-de-letre-la-praxis-le-sujet/) ( voir notre article )
+Pour étudier le sens épistémologique et philosophique de l’articulation de la “Genèse de la Praxis”  et de la “Genèse de la Psyché”, il faut lire le “[passage manquant” de “L’Être, la Praxis, le Sujet” dans l’édition Delga](/posts/2016/12/04/les-passages-manquants-de-letre-la-praxis-le-sujet/) ( voir notre article )
 
 ”  *Poursuivre cette **genèse de la praxis** sans montrer qu’elle débouche sur une **genèse de la psyché** laissera ouverte **l’erreur épistémologique** consistant à supposer qu’on ne gagne rien de **déterminant à** **interroger*** **l’universalité de la psyché** **dans la praxis** du point de vue de **l’immanence du réel et du rationnel.**
 
@@ -26,23 +26,23 @@ Pour étudier le sens épistémologique et philosophique de l’articulation de 
 
 ***Michel Clouscard, 2008***
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/08/genese-de-la-praxis-genese-de-la-psyche/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/03/08/genese-de-la-praxis-genese-de-la-psyche/nggallery/slideshow)
 
-[![1 Les 2 dialectiques 2 (2)](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_1-Les-2-dialectiques-2-2.jpg "1 Les 2 dialectiques 2 (2)")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/1-Les-2-dialectiques-2-2.jpg)
+[![1 Les 2 dialectiques 2 (2)](/images/gallery/praxis-et-psyche/thumbs/thumbs_1-Les-2-dialectiques-2-2.jpg "1 Les 2 dialectiques 2 (2)")](/images/gallery/praxis-et-psyche/1-Les-2-dialectiques-2-2.jpg)
 
-[![1 Les 2 dialectiques](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_1-Les-2-dialectiques.jpg "1 Les 2 dialectiques")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/1-Les-2-dialectiques.jpg)
+[![1 Les 2 dialectiques](/images/gallery/praxis-et-psyche/thumbs/thumbs_1-Les-2-dialectiques.jpg "1 Les 2 dialectiques")](/images/gallery/praxis-et-psyche/1-Les-2-dialectiques.jpg)
 
-[![2 Les 2 dialectiques 1](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_2-Les-2-dialectiques-1.jpg "2 Les 2 dialectiques 1")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/2-Les-2-dialectiques-1.jpg)
+[![2 Les 2 dialectiques 1](/images/gallery/praxis-et-psyche/thumbs/thumbs_2-Les-2-dialectiques-1.jpg "2 Les 2 dialectiques 1")](/images/gallery/praxis-et-psyche/2-Les-2-dialectiques-1.jpg)
 
-[![2 Les 2 dialectiques 2](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_2-Les-2-dialectiques-2.jpg "2 Les 2 dialectiques 2")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/2-Les-2-dialectiques-2.jpg)
+[![2 Les 2 dialectiques 2](/images/gallery/praxis-et-psyche/thumbs/thumbs_2-Les-2-dialectiques-2.jpg "2 Les 2 dialectiques 2")](/images/gallery/praxis-et-psyche/2-Les-2-dialectiques-2.jpg)
 
-[![3 Les 2 dialectiques a](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_3-Les-2-dialectiques-a.jpg "3 Les 2 dialectiques a")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/3-Les-2-dialectiques-a.jpg)
+[![3 Les 2 dialectiques a](/images/gallery/praxis-et-psyche/thumbs/thumbs_3-Les-2-dialectiques-a.jpg "3 Les 2 dialectiques a")](/images/gallery/praxis-et-psyche/3-Les-2-dialectiques-a.jpg)
 
-[![3 Les 2 dialectiques b](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_3-Les-2-dialectiques-b.jpg "3 Les 2 dialectiques b")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/3-Les-2-dialectiques-b.jpg)
+[![3 Les 2 dialectiques b](/images/gallery/praxis-et-psyche/thumbs/thumbs_3-Les-2-dialectiques-b.jpg "3 Les 2 dialectiques b")](/images/gallery/praxis-et-psyche/3-Les-2-dialectiques-b.jpg)
 
-[![5 Les 2 dialectiques 1](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_5-Les-2-dialectiques-1.jpg "5 Les 2 dialectiques 1")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/5-Les-2-dialectiques-1.jpg)
+[![5 Les 2 dialectiques 1](/images/gallery/praxis-et-psyche/thumbs/thumbs_5-Les-2-dialectiques-1.jpg "5 Les 2 dialectiques 1")](/images/gallery/praxis-et-psyche/5-Les-2-dialectiques-1.jpg)
 
-[![5 Les 2 dialectiques 2](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/thumbs/thumbs_5-Les-2-dialectiques-2.jpg "5 Les 2 dialectiques 2")](http://clouscard-alerte.org/wp-content/gallery/praxis-et-psyche/5-Les-2-dialectiques-2.jpg)
+[![5 Les 2 dialectiques 2](/images/gallery/praxis-et-psyche/thumbs/thumbs_5-Les-2-dialectiques-2.jpg "5 Les 2 dialectiques 2")](/images/gallery/praxis-et-psyche/5-Les-2-dialectiques-2.jpg)
 
 Une fois que  ces deux “ensembles logico-historiques”  commencent à faire sens, on peut alors suivre les contenus spécifiques de la dialectique logico-historique du genre humain.
 
@@ -54,8 +54,8 @@ Contrairement à une “religion naïve” du procès de production, de l’éth
 
 S.B.
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/08/genese-de-la-praxis-genese-de-la-psyche/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/03/08/genese-de-la-praxis-genese-de-la-psyche/nggallery/slideshow)
 
-[![1 PRAXIS ETRE PRAXIS SUJET dialectique 2](http://clouscard-alerte.org/wp-content/gallery/dialectique-details-supplementaires/thumbs/thumbs_1-PRAXIS-ETRE-PRAXIS-SUJET-dialectique-2.jpg "1 PRAXIS ETRE PRAXIS SUJET dialectique 2")](http://clouscard-alerte.org/wp-content/gallery/dialectique-details-supplementaires/1-PRAXIS-ETRE-PRAXIS-SUJET-dialectique-2.jpg)
+[![1 PRAXIS ETRE PRAXIS SUJET dialectique 2](/images/gallery/dialectique-details-supplementaires/thumbs/thumbs_1-PRAXIS-ETRE-PRAXIS-SUJET-dialectique-2.jpg "1 PRAXIS ETRE PRAXIS SUJET dialectique 2")](/images/gallery/dialectique-details-supplementaires/1-PRAXIS-ETRE-PRAXIS-SUJET-dialectique-2.jpg)
 
-[![2 PSYCHE etre genre corps-sujet](http://clouscard-alerte.org/wp-content/gallery/dialectique-details-supplementaires/thumbs/thumbs_2-PSYCHE-etre-genre-corps-sujet.jpg "2 PSYCHE etre genre corps-sujet")](http://clouscard-alerte.org/wp-content/gallery/dialectique-details-supplementaires/2-PSYCHE-etre-genre-corps-sujet.jpg)
+[![2 PSYCHE etre genre corps-sujet](/images/gallery/dialectique-details-supplementaires/thumbs/thumbs_2-PSYCHE-etre-genre-corps-sujet.jpg "2 PSYCHE etre genre corps-sujet")](/images/gallery/dialectique-details-supplementaires/2-PSYCHE-etre-genre-corps-sujet.jpg)

@@ -10,13 +10,13 @@ Cette recherche lexicologique se propose de cartographier les mots les plus impo
 
 La méthode n’est pas exempte de critiques car il s’agit d’une recherche par les mots ayant la fréquence relative la plus importante.
 
-[[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/04/03/les-mots-et-les-oeuvres-etude-lexicologique-quantitative-et-analytique/nggallery/slideshow)
+[[Montrer sous forme de diaporama]](/posts/2017/04/03/les-mots-et-les-oeuvres-etude-lexicologique-quantitative-et-analytique/nggallery/slideshow)
 
-[![image001](http://clouscard-alerte.org/wp-content/gallery/mots-et-oeuvres/thumbs/thumbs_image001.gif "image001")](http://clouscard-alerte.org/wp-content/gallery/mots-et-oeuvres/image001.gif)
+[![image001](/images/gallery/mots-et-oeuvres/thumbs/thumbs_image001.gif "image001")](/images/gallery/mots-et-oeuvres/image001.gif)
 
   
 
-[![image002](http://clouscard-alerte.org/wp-content/gallery/mots-et-oeuvres/thumbs/thumbs_image002.gif "image002")](http://clouscard-alerte.org/wp-content/gallery/mots-et-oeuvres/image002.gif)
+[![image002](/images/gallery/mots-et-oeuvres/thumbs/thumbs_image002.gif "image002")](/images/gallery/mots-et-oeuvres/image002.gif)
 
 A l’issue de l’étude quantitative, je propose un tableau analytique à partir  de 190  termes ayant la plus grande fréquence relative dans les oeuvres.
 
