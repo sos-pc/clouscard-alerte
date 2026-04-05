@@ -1,0 +1,53 @@
+---
+title: "La négation du procès de production chez Clouscard."
+date: 2016-11-26T00:00:00+01:00
+draft: false
+---
+
+[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/11/26/la-negation-du-proces-de-production-chez-clouscard/?format=pdf "Download PDF")
+
+On peut comprendre l’importance centrale d’une thèse chez un auteur et ne pas en comprendre l’exacte signification. C’est pourquoi j’aimerais produire quelques remarques au sujet du discours de Clouscard au sujet de la négation du procès de production.
+
+§
+
+La négation du procès de production ne signifie pas que la bourgeoisie n’est pas en mesure d’organiser le procès de production, ou qu’elle refuse de disposer du produit réel du travail de la classe ouvrière. Au contraire, le négation du procès de production est une thèse sur l’idéologie culturelle et l’ordre des représentations de la culture dominante.  
+Dans le domaine réel, la bourgeoisie a su développer un ordre technico-scientifique très conséquent pour les besoins de l’économie politique qui se développe grâce à la récupération de la révolution technique et scientifique pour le modèle de société de la modernité capitaliste. Donc, en ce sens, la praxis n’est niée ni dans la théorie politique libérale en tant que domaine des forces productives, ni dans la théorie de la connaissance en tant que domaine de la mise en œuvre de la production, ni encore dans la prise en compte de la praxis comme matière et objet de l’organisation institutionnelle du système social et politique.
+
+Un économiste libéral distinguera ainsi des secteurs d’activités comme le secteur primaire pour produire des matières premières, le secteur secondaire pour les transformer, le secteur tertiaire pour organiser la gestion productive et les services et, enfin, le secteur quaternaire dans le domaine de l’enseignement la recherche et l’innovation. La praxis et le procès de production interviennent dans le réel du mode de production capitaliste et donc se retrouvent dans les catégories de la pensée bourgeoise.
+
+Il serait donc faux de croire que la thèse de la négation du procès de production provient du fonctionnement réel de l’infrastructure capitaliste qui est par nature l’exploitation du procès de production, des forces productives et du travail du travailleur collectif.
+
+§
+
+S’il y a négation du procès de production, il ne peut s’agir d’une négation dans le domaine réel puisque c’est exactement l’inverse que souligne Clouscard: au moment même où le stade de la production de série et de la production ultra-technologique s’accomplissent dans les rapports de production capitalistes, le procès de production qui devient surdéterminant dans le réel de l’économie de marche est occulté dans l’ordre imaginaire et l’ordre symbolique qui dominent dans la civilisation capitaliste hégémonique et totalitaire qui s’est imposée.  
+Le procès de production est capté par la subjectivité des premiers stades de l’usage magique des objets produits par le bébé jusqu’à  l’émancipation trangressive, de la consommation ludique.  Et dans l’intervalle, l’initiation mondaine à la civilisation capitaliste. Et c’est alors que débute le procès de négation du procès de production dans l’ordre imaginaire et dans l’ordre symbolique.
+
+§
+
+L’explication de cette occultation dans la culture dominante ne peut se faire sans problématiser l’anthropologie historique pour déterminer l’origine de la négation du procès de production. C’est tout l’objet de «L’Être et le Code» avec une critique de l’anthropologie bourgeoise qui débouche sur la théorisation de l’idéalisme via la théorie historique du néokantisme et l’épistémologie du code.  
+Le corps-sujet-signifieur accède a l’économie politique via le statut social de sa famille et les enjeux de la dialectique du frivole et du sérieux au sein de celle ci.
+
+§
+
+Donc, la première clarification qu’il faut souligner est celle qui consiste à préciser l’opposition entre un procès de production objectivement surdéterminant, planifié consciemment et modélisé théoriquement par certains domaines disciplinaires de la science bourgeoise pour les besoins et la logique politique de l’économie libidinale, valorisé alors comme moyen de la production de biens et de services (valeur d’usage) et comme source de profits (valeur d’échange), faisant l’objet d’une importante quantité de travail et d’innovation conceptuelle, centralité mesurable donc mais centralité qui est soumise à une incroyable forme de minoration, de marginalisation, voire un ostracisme pur et simple comme objet théorique, comme référent dans le discours commun, dans l’idéologie scientifique de certaines approches des sciences humaines, dans l’organisation de la philosophie de l’histoire, la philosophie de la conscience, de l’esthétique, de la philosophie morale.  
+Tout cela parce que le vécu mondain des rapports de production conduit au développement d’esthétiques qui refusent la responsabilité sociale.  
+Tout cela parce que le domaine de la raison pure (l’entendement et la philosophie de la connaissance) le domaine moral (la raison pratique) et le domaine esthétique (le jugement subjectif, le désir, l’affect…) que Kant avaient distingués existent déjà dans l’histoire de la pensée bourgeoise mais selon les visées pratiques de son être de classe. Celles-ci conduisent à une division du travail idéologique de gestion des rapports de production. Á terme, les différents domaine de la connaissance, de la morale et de l’esthétique vont s’autonomiser en refusant l’unité apportée par le réalisme logique portée par le procès de production.  
+Ainsi le domaine de la connaissance pure peut dégénérer en un scientisme gestionnaire pour les besoins pratiques et un imaginaire esthétique qui organise les données produite dont Clouscard montre que le positivisme naturaliste de la bourgeoise s’explique selon sa perception de l’univers à partir de son être de classe. La raison morale devient moralisme de classe, régulation interne de la question morale au sein des rapports sociaux considérés comme naturels (et non comme historiques) l’esthétique ne peut alors être que l’esthétique consécutive à tous ces aménagements (voir “Le Frivole et le Sérieux”, 1978).  
+Et tout cela a partir de la négation du procès de production.
+
+§
+
+Imaginez…  
+Imaginez une cité  dont les membres seraient occupés soit par le procès de production directement (classe ouvrière), soit indirectement (techniciens cadres ingénieurs), soit en déshérence faute de travail (chômeurs), soit en situation d’oisiveté par leur possession du capital productif, soit en situation d’occuper des fonctions intellectuelles moins directement liées et connectées à la production matérielle. Imaginez encore des gains de productivité si importants depuis le productivisme (taylorisme, fordisme, cadences infernales) imposé à la classe laborieuse comme aux cadres intermédiaires et aux employés qu’une frange grandissante d’une société d’artistes, de publicitaires, d’universitaires, de sociologues et de philosophes étaient parvenus à se voir confier l’analyse de l’existant sans aucune obligation d’objectivité.  
+Le réalisme logique (abstrait) voudrait qu’on ne puisse  ignorer le référentiel objectif d’un ordre de la consommation  permis par l’ordre de la production. Et si la fable est racontée ainsi et si vous lisez ces lignes, la dérive idéologique de l’histoire de la division du travail vous apparaît dans doute dans la compréhension du cloisonnement progressif des classes sociales qui participent objectivement à un même réseau social productif  vous avez acquis la notion du montage historique d’un cloisonnement des subjectivités réelles avec une sur-représentation objective du point de vue des classes possédantes qui maîtrisent les moyens d’information et de plus en plus les institutions du savoir.  
+Ainsi, outre l’inégal accès à la jouissance matérielle, produit du travail collectif comme l’accès a la culture savante, produit également du travail collectif, conditionne un «être de classe» et cet «être de classe» ne s’objective guère faute d’une diffusion massive d’une culture théorique critique comme peut l’être celle de la recherche marxiste.  
+Et dans ce cauchemar de l’histoire humaine, dans la cohérence de l’anatomie de la société civile, dans cette comédie humaine affairée de la société du calcul égoïste et arriviste que Balzac ou Zola avaient eu l’insolence de vouloir dépeindre, l’être conscient et emphatique suffoque et souffre devant l’implacable nature dysfonctionnelle et systématique de la civilisation actuelle.
+
+§
+
+Une situation de classe, un «statut social» singulier peuvent être perçus et décodés par certains, mais rares sont ceux qui peuvent prétendre comprendre comment le jeu de l’histoire et la mécanique des rapports de force entre les composantes de la population humaine et enfin la succession des formes sociales et modes de production a pu conditionner l’état actuel d’une société permissive ou l’archaïque «théorie du ruissellement» sert encore de justificatif au schéma de la plus honteuse organisation et à la gestion la plus évidente d’une richesse accumulée entre des mains avides et accessibles à ceux qui savent qu’ils doivent un confort relatif de leur mode d’existence précaire à la ratification tacite du système de l’exploitation de l’homme par l’homme.  
+Comment cette terreur mondaine est elle possible? Comment expliquer le paradoxe d’une société humaine ayant développé tant de facettes d’une industrie naissante mais qui demeure dans la lignée des plus obscures rapines, famines, recels, mensonges, magouilles, génocides, guerres, etc.?  
+Dans cette suffocation, qu’on écourtera, la négation des contradictions sociales et historiques serait presque la condition d’une hygiène mentale pour maintenir une certaine dignité dans l’offense que le stade historique et son déterminisme en-tête oppose à nos velléités humanistes.  
+La négation du procès de production dans l’ordre symbolique et l’ordre imaginaire n’apparaît-il pas dans toute sa tragique nécessité?  
+Pour les uns, simple expression de leur participation naïve au maintien d’une (fausse) innocence, socialement acceptée sans réprobation dominante (ah! le jour où la vergogne deviendra un sentiment commun) pour les autres, incapacité à assumer le poids de culpabilité presque dantesque qui s’abat sur l’entendement a mesure que l’enquête intellectuelle met à jour le déroule des faits de l’histoire humaine.  
+La reconnaissance du procès de production suppose de reconnaître l’histoire de l’exploitation de l’homme par l’homme et de parvenir à poursuivre une existence digne malgré la blessure de la connaissance infligée par l’analyse.

@@ -1,0 +1,17 @@
+---
+title: "Fragments Posthume 2  Eloge de la Conjugalité  (inédits – 2008 )"
+date: 2017-03-10T00:00:00+01:00
+draft: false
+---
+
+[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/fragments-posthume-2-eloge-de-la-conjugalite-inedits-2008/?format=pdf "Download PDF")
+
+[Fragments of Inheritance’ by Karin Heyer](https://artipeeps.wordpress.com/2013/12/11/fragments-of-inheritance-by-karin-heyer-fragment-2-freespace-2/)
+
+Il s’agit des carnets remis par Bernard Charles à Sylvain Bourgois en 2011, à Gaillac.
+
+Une saisie a été faite en 2012.
+
+S.B.
+
+[![thumbnail of Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé.pdf "Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé")

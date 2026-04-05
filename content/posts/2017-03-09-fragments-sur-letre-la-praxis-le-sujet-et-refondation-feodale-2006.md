@@ -1,0 +1,39 @@
+---
+title: "Explications sur “L’Être, la Praxis, le Sujet” et “Refondation Féodale” (2006 )"
+date: 2017-03-09T00:00:00+01:00
+draft: false
+---
+
+[![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/fragments-sur-letre-la-praxis-le-sujet-et-refondation-feodale-2006/?format=pdf "Download PDF")
+
+Il s’agit de la dernière réponse de l’entretien de 2006 :
+
+[Réponses à Aymeric Monville ( 2006 )](http://clouscard-alerte.org/index.php/2017/03/09/reponses-a-aymeric-monville-2006/)
+
+**Aymeric Monville:**
+
+Pour finir, sur quoi travaillez -vous en ce moment ?
+
+**Michel Clouscard:**
+
+J’achève **l’oeuvre de ma vie** :
+
+**philosophie de la praxis** et **ontologie sociale**.
+
+C’est la **mise en relation dialectique et historique**:
+
+**de l’Etre** (philosophie grecque),
+
+**de la subjectivité** (christianisme),
+
+**de la praxis** (socialisme).
+
+ Comment **la phylogenèse et l’ontogenèse**
+
+ont pu en venir à **cet énoncé** ?
+
+Et comment **celui-ci** peut- il en venir
+
+à une **spiritualité laïque** ?
+
+![](http://clouscard-alerte.org/wp-content/uploads/2017/03/12-philo-refond-7-bis.jpg)
