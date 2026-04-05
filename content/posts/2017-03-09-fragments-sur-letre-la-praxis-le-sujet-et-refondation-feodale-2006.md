@@ -36,4 +36,4 @@ Et comment **celui-ci** peut- il en venir
 
 à une **spiritualité laïque** ?
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/12-philo-refond-7-bis.jpg)
+![](/images/2017/03/12-philo-refond-7-bis.jpg)

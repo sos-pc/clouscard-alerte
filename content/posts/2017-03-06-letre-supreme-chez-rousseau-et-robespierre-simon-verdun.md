@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/06/letre-supreme-chez-rousseau-et-robespierre-simon-verdun/?format=pdf "Download PDF")
 
-[![thumbnail of Le concept dÊtre suprême FIN](http://clouscard-alerte.org/wp-content/uploads/2017/03/Le-concept-d27Être-suprême-FIN-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Le-concept-d27Être-suprême-FIN.pdf "Le concept dÊtre suprême FIN")
+[![thumbnail of Le concept dÊtre suprême FIN](/images/2017/03/Le-concept-d27Être-suprême-FIN-pdf-424x600.jpg)](/images/2017/03/Le-concept-d27Être-suprême-FIN.pdf "Le concept dÊtre suprême FIN")
 
 PDF – cliquer pour télécharger l’ARTICLE de SIMON VERDUN – PDF
 
@@ -43,7 +43,7 @@ Nous montrerons en quoi **la conception rousseauiste de l’Être suprême** es
 
 Il sera **un refus catégorique de la réaction de dédain et de légèreté.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Être_suprême_Peuple_souverain_République_française-300x243.jpg)
+![](/images/2017/03/Être_suprême_Peuple_souverain_République_française-300x243.jpg)
 
 Nous nous refuserons à considérer le développement sur l’Être suprême comme une dérive « mystique », comme une inconséquence théorique**1  C’est la thèse d’Albert Shinz : le dernier chapitre du Contrat social sur la religion civique est un ajout de dernière minute, incompréhensible dans l’économie de l’ouvrage. Voir également Jean Pierre Marcos « De l’aporie du Contrat social. L’insuffisance de l’immanence », Etudes Jean-Jacques Rousseau**, comme un “repli petit-bourgeois dans la sphère idéologique” (Althusser).
 
@@ -57,7 +57,7 @@ Nous montrerons, au contraire
 
 **3**) que l’introduction de ce concept théologique particulier qu’est l’Être suprême en politique permet paradoxalement d’achever une fois pour toute **le problème théologico-politique.** C’est le génial paradoxe de ce **Dieu nécessaire pour fonder la pensée laïque**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/6-rousseau-ou-sartre-1985-recto-cl-182x300.jpg)
+![](/images/2016/11/6-rousseau-ou-sartre-1985-recto-cl-182x300.jpg)
 
 Ce travail se veut être une contribution à la thèse de Michel Clouscard, exposée en 1985 dans *De la modernité : Rousseau ou Sartre ( Critique du libéralisme libertaire )* : Rousseau, dialecticien, précurseur du matérialisme dialectique, démasque les deux opportunismes (théoriques et existentiels) de l’Ancien Régime, accède à la conscience politique la plus élaborée et la plus systématique qu’il soit possible de formuler pour son époque et ce, précisément, par le concept d’Être suprême :
 

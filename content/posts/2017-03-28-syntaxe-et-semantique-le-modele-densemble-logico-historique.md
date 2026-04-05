@@ -61,4 +61,4 @@ Il oppose une sémantique ternaire, signe – signifié – référent, à une s
 
 Il produit un modèle théorique permettant d’établir par l’anthropologie historique la critique de l’idéologie, mais la critique du néo-kantisme encadre alors la théorie critique de l’épistémologie bourgeoise par une approche méthodique, historique et sociologique, de ses déterminations.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/corps-sujet-signifieur-et-modele-densemble-logico-historique.jpg)
+![](/images/2017/03/corps-sujet-signifieur-et-modele-densemble-logico-historique.jpg)

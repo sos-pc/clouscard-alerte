@@ -96,4 +96,4 @@ Et ce ne sera que par la parfaite connaissance de cette stratégie – que l’o
 
 MICHEL CLOUSCARD, 1983
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/la-societe-civile-ou-la-lettre-volee-de-poe-la-strategie-du-capitalisme-1983.png)
+![](/images/2016/12/la-societe-civile-ou-la-lettre-volee-de-poe-la-strategie-du-capitalisme-1983.png)

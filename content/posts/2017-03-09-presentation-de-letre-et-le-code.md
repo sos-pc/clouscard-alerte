@@ -62,7 +62,7 @@ Michel Clouscard, 1972 “
 
 **( 2003 )**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/1-Être-et-Code-2004-recto-400x600.jpg)
+![](/images/2017/03/1-Être-et-Code-2004-recto-400x600.jpg)
 
 ***En première lecture, littérale et concrète,*** « L’Etre et le Code » raconte une **histoire de France encore inédite.**
 
@@ -84,9 +84,9 @@ C’est que [cette histoire] établit ce qui doit être **un ensemble logico-hi
 
 Il ne s’agit rien moins que de **révéler le sens de l’histoire.**
 
-C’est le passage de l’**univers du Vieux Monde** à **celui de la praxi**s.![](http://clouscard-alerte.org/wp-content/uploads/2017/02/madame-bovary-300x230.jpg)
+C’est le passage de l’**univers du Vieux Monde** à **celui de la praxi**s.![](/images/2017/02/madame-bovary-300x230.jpg)
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/paolo_uccello-300x230.jpg)
+![](/images/2016/12/paolo_uccello-300x230.jpg)
 
 La **répétition entropique** – et ses tentatives de restauration – doit se soumettre aux deux fondamentales créations de cette praxis : **le système de la parenté** et **le mode de production**.
 
@@ -104,7 +104,7 @@ Réponse à la **quatrième critique du jury de thèse**
 
 émise par Henri Lefebvre, spécialiste de Hegel et Marx.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/hegel-y-marx-300x283.jpg)
+![](/images/2016/12/hegel-y-marx-300x283.jpg)
 
 * Si l’on peut admettre – provisoirement – **un néo-hégélianisme**, son **débordement par le marxisme** doit être tenté.
 

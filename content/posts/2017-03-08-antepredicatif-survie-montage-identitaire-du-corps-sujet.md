@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/08/antepredicatif-survie-montage-identitaire-du-corps-sujet/?format=pdf "Download PDF")
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/1-schéma-1-490x284.jpg)Dans **“L’Être, la Praxis, le Sujet”**, au livre 8, (**page 272 – Editions Delga**), Clouscard propose un résumé précieux pour comprendre son travail. Il fait un bilan épistémologique pour développer sa thèse d’un “*corps-sujet comme achèvement des filiations ontologiques* ”
+![](/images/2017/03/1-schéma-1-490x284.jpg)Dans **“L’Être, la Praxis, le Sujet”**, au livre 8, (**page 272 – Editions Delga**), Clouscard propose un résumé précieux pour comprendre son travail. Il fait un bilan épistémologique pour développer sa thèse d’un “*corps-sujet comme achèvement des filiations ontologiques* ”
 
 *” Le montage synthétique du corps-sujet sera la découverte du troisième continent de l’Atlantide, des continents perdus de la pensée humaine, des non-dits de la philosophie occidentale.*  
 *D’abord, **l’antéprédicatif.** C’est l’entre-deux, de l’être et du genre, le commencement du commencement.*
@@ -26,6 +26,6 @@ draft: false
 
 ***L’expérience** qui manque au **jugement synthétique a priori de Kant** n’est autre que ce **processus synthétique qui ne peut être qu’en donnant l’existence à l’originel et au naturel.***
 
-[![thumbnail of 1 les 3 âges de l’hominisation EXCEL OPEN](http://clouscard-alerte.org/wp-content/uploads/2017/03/1-les-3-âges-de-lhominisation-EXCEL-OPEN-pdf.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/1-les-3-âges-de-lhominisation-EXCEL-OPEN.pdf "1 les 3 âges de l'hominisation EXCEL OPEN")
+[![thumbnail of 1 les 3 âges de l’hominisation EXCEL OPEN](/images/2017/03/1-les-3-âges-de-lhominisation-EXCEL-OPEN-pdf.jpg)](/images/2017/03/1-les-3-âges-de-lhominisation-EXCEL-OPEN.pdf "1 les 3 âges de l'hominisation EXCEL OPEN")
 
 Document en PDF : cliquer pour plus de détail s.v.p.

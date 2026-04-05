@@ -38,7 +38,7 @@ Puis Dieu dit: Faisons l’homme à notre image, selon notre ressemblance, et qu
 
 28Dieu les bénit, et Dieu leur dit: **Soyez féconds, multipliez, remplissez la terre, et l’assujettissez; et dominez sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui se meut sur la terre.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/debry_man-and-woman-eating.jpg)
+![](/images/2017/02/debry_man-and-woman-eating.jpg)
 
 29Et Dieu dit: Voici, je vous donne **toute herbe portant de la semence** et qui est à la surface de toute la terre, et **tout arbre** ayant en lui du **fruit d’arbre** et portant de la semence: ce sera votre **nourriture.**
 
@@ -60,7 +60,7 @@ Genèse  2 
 
 9L’Éternel Dieu fit pousser du sol **des arbres de toute espèce,** agréables à voir et bons à manger, et **l’arbre de la vie** au milieu du jardin, et **l’arbre de la connaissance du bien et du mal.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/f5d0e1134ce72ada8176a8bedb7ef2f7.jpg)
+![](/images/2017/03/f5d0e1134ce72ada8176a8bedb7ef2f7.jpg)
 
 (… )
 
@@ -76,7 +76,7 @@ Genèse  2 
 
 20Et l’homme donna des noms à tout le bétail, aux oiseaux du ciel et à tous les animaux des champs; **mais, pour l’homme, il ne trouva point d’aide semblable à lui**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/une-paysanne-palestinienne-a-susya-le-25-mai-2015_5387107.jpg)
+![](/images/2017/03/une-paysanne-palestinienne-a-susya-le-25-mai-2015_5387107.jpg)
 
 21Alors l’Éternel Dieu fit tomber un profond sommeil sur l’homme, qui s’endormit; **il prit une de ses côtes, et referma la chair à sa place.**
 
@@ -88,7 +88,7 @@ Genèse  2 
 
 25**L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/8g6ugunr17kk0006.jpg)
+![](/images/2017/03/8g6ugunr17kk0006.jpg)
 
 Genèse 3
 
@@ -102,13 +102,13 @@ Genèse 3
 
 5mais Dieu sait que, **le jour où vous en mangerez,** **vos yeux s’ouvriront,** et que vous serez comme des **dieux**, connaissant **le bien et le mal**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/CouvAlarencontreorgasmedivin-MargotAnand-201x300.jpg)
+![](/images/2017/03/CouvAlarencontreorgasmedivin-MargotAnand-201x300.jpg)
 
 6La femme vit que **l’arbre était bon à manger** et **agréable à la vu**e, et qu’il était précieux pour ouvrir l’intelligence; elle prit de son fruit, et en mangea; elle en donna aussi à son mari, qui était auprès d’elle, et il en mangea.
 
 7Les **yeux** de l’un et de l’autre s’ouvrirent, **ils connurent qu’ils étaient nus**, et ayant cousu des **feuilles de figuier,** ils s’en firent des **ceintures**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/gn03x-serpent-201x300.jpg)
+![](/images/2017/02/gn03x-serpent-201x300.jpg)
 
 8Alors ils entendirent la voix de l’Éternel Dieu, qui parcourait le jardin vers le soir, et l’homme et sa femme se cachèrent loin de la face de l’Éternel Dieu, au milieu des arbres du jardin.
 
@@ -126,7 +126,7 @@ La femme répondit: **Le serpent m’a séduite, et j’en ai mangé.**
 
 14L’Éternel Dieu dit au serpent: **Puisque tu as fait cela, tu seras maudit entre tout le bétail et entre tous les animaux des champs, tu marcheras sur ton ventre, et tu mangeras de la poussière tous les jours de ta vie.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/le-paysan-et-le-serpent-5194ac98-224x300.jpg)
+![](/images/2017/03/le-paysan-et-le-serpent-5194ac98-224x300.jpg)
 
 Le serpent et le paysan
 
@@ -134,11 +134,11 @@ Le serpent et le paysan
 
 16Il dit à la femme: **J’augmenterai la souffrance de tes grossesses, tu enfanteras avec douleur, et tes désirs se porteront vers ton mari, mais il dominera sur toi.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/il_570xN.440528441_7bax-205x300.jpg)
+![](/images/2017/03/il_570xN.440528441_7bax-205x300.jpg)
 
 17Il dit à l’homme: Puisque tu as écouté la voix de ta femme, et que tu as mangé de l’arbre au sujet duquel je t’avais donné cet ordre: Tu n’en mangeras point! **le sol sera maudit à cause de toi. C’est à force de peine que tu en tireras ta nourriture tous les jours de ta vie,**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Galerie-1-17-300x300.jpg)![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Ronce-002-300x225.jpg)
+![](/images/2017/03/Galerie-1-17-300x300.jpg)![](/images/2017/03/Ronce-002-300x225.jpg)
 
 18**il te produira des épines et des ronces, et tu mangeras de l’herbe des champs.**
 
@@ -156,7 +156,7 @@ Le serpent et le paysan
 
 24C’est ainsi qu’il chassa **Adam**; et il mit à l’orient du jardin d’Éden **les chérubins** qui agitent une épée flamboyante, pour garder **le chemin de l’arbre de vie. “**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/adam-eve-chasses-300x266.jpg)
+![](/images/2016/12/adam-eve-chasses-300x266.jpg)
 
 Pour revenir alors au discours de Clouscard, on trouve alors cet ensemble  :
 
@@ -178,7 +178,7 @@ Pour revenir alors au discours de Clouscard, on trouve alors cet ensemble  :
 
 *La **vie** doit être l’expression de cet ordre, de cette **équité**. C’est le **biblique**, la vie patriarcale soumise à l’Ancien Testament.*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Nuremberg_chronicles_f_11r_1.png)
+![](/images/2017/03/Nuremberg_chronicles_f_11r_1.png)
 
 Arche de Noé : construction du mode de production agro-pastoral
 
@@ -198,7 +198,7 @@ Arche de Noé : construction du mode de production agro-pastoral
 
 *Nous avons défini **le capitalisme moderne** comme création de cette **monstruosité anthropologique** : la **jouissance sans avoir et sans produire** alors qu’avant **[la jouissance ]** n’était **possible** que par **l’avoir – la richesse –** et par le travail **– le salaire, pouvoir d’achat.***
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/jeunes-voitures-300x200.jpg)
+![](/images/2017/03/jeunes-voitures-300x200.jpg)
 
 ***3 ) La laïcisation du Péché Originel***
 

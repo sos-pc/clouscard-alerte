@@ -10,7 +10,7 @@ BIBLIOGRAPHIE
 
 Nous mettons à disposition du public et des chercheurs un document de travail.
 
-**[bibliographie-de-letre-et-le-code-excel-par-disciplines](http://clouscard-alerte.org/wp-content/uploads/2016/11/bibliographie-de-letre-et-le-code-excel-par-disciplines.xls)**
+**[bibliographie-de-letre-et-le-code-excel-par-disciplines](/images/2016/11/bibliographie-de-letre-et-le-code-excel-par-disciplines.xls)**
 
 Il s’agit d’une saisie numérique de la bibliographie.
 

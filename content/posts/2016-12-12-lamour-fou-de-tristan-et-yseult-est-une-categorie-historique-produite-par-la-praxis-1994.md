@@ -54,7 +54,7 @@ Cette situation idéologique a trouvé sa meilleure expression grâce à deux **
 
 L’appellation **“occidentalisme”** recouvre un immense univers idéologique, une nébuleuse longtemps en expansion, aux auteurs très divers et même opposés mais toujours soumis à cet axiome de base: la supériorité absolue de l’Occident sur toutes les autres cultures, civilisations. Une dominante de cet **ethnocentrisme** peut être dégagée dans la perspective de la phénoménologie que nous venons d’élaborer. En une première approche nous la désignerons comme étant un **spiritualisme chrétien “intégriste”**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/l_annonce_faite_a_marie-220x300.jpg)
+![](/images/2016/12/l_annonce_faite_a_marie-220x300.jpg)
 
 Celui-ci a sécrété et imposé une conception de l’amour qui a longtemps prévalu: **l’amour ne peut être que celui de l’âme, toute une ascèse, un arrachement à la chair.** **Claudel** pourrait être proposé comme une illustration de cet occidentalisme.
 
@@ -66,7 +66,7 @@ Ce qui la rend homogène, ce qui a été le principe de son expansion, c’est l
 
 Alors, à **l’amour d’âme,** se substitue le **droit au désir et la “libération” sexuelle.** C’est toute une érotique (dont l’expression paroxystique pourrait être illustrée par l’ “**Anti-Œdipe**” de Deleuze et Guattari).
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/6a00d8341c514053ef0115715b9418970b-800wi-300x228.jpg)
+![](/images/2016/12/6a00d8341c514053ef0115715b9418970b-800wi-300x228.jpg)
 
 #### **L’opposition idéologique de l’âme et du sexe**
 
@@ -80,13 +80,13 @@ Mais, pourtant, nous devons constater que ces deux grands ensembles idéologique
 
 L’occidentalisme a bien eu l’intuition, certes confuse et obscure, que **le Moyen-Âge apportait une décisive mutation**, que **la féodalité** avait été la **définitive rupture avec le passé, l’archaïsme, la répétition entropique** et le commencement de notre **modernité, une nouvelle civilisation**. Ce progrès a été reconnu dans **la pensée, les mythes, les moeurs, les institutions.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/hczixcx4-300x258.jpg)
+![](/images/2016/12/hczixcx4-300x258.jpg)
 
 **Mais** tout cela s’exprime en tant que récupération idéologique, car l**e spiritualisme chrétien intégriste** est fatalement amené à **méconnaître, à nier même, les causes matérielle, infrastructurale, économique, démographique;** il n’est jamais reconnu que cette “**grande clarté”** du Moyen-Âge recouvre aussi **la société de classes, la rente du sol, le servage**.
 
 **Le mérite** de cet ethnocentrisme aura été d’avoir voulu découvrir **les topiques de l’âme** (quête du Graal), d’avoir même soupçonné que **l’esprit est ancré dans le réel.** Son esthétique ne vaut-elle pas celle du **cinématographe** ? Mais tout cela dans la plus grande **confusion du religieux, du politique, du poétique,** ce qui est la meilleure **non-méthodologie** pour accéder à la plus **pure idéologie réactionnaire**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/table_ronde_Queste_del_saint_Graal_Evrard-d_Espinques_thumb-298x300.jpg)
+![](/images/2016/12/table_ronde_Queste_del_saint_Graal_Evrard-d_Espinques_thumb-298x300.jpg)
 
 . L’intellectuel de gauche – **le néo-kantien** – a su, lui, reconnaître, à sa manière, ambiguë, une **certaine lutte des classes**. Il a bien compris le processus de **l’aliénation superstructurale, les modalités “culturelles” de la récupération du progrès** par la classe sociale dominante. Il a su, en particulier, c’est même sa spécialité, **dénoncer le spiritualisme intégriste** comme étant le fondement des pires idéologies réactionnaires.
 
@@ -94,7 +94,7 @@ L’occidentalisme a bien eu l’intuition, certes confuse et obscure, que **le 
 
 Aussi **l’amour de chair — l’érotisme** — qu’il a proposé comme démystification de toute idéologie, comme **dénonciation de l’amour d’âme**, n’a été qu’une **nouvelle idéologie,** un nouvel effet de superstructure.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/hippie-history-festival-300x237.jpg)
+![](/images/2016/12/hippie-history-festival-300x237.jpg)
 
 Cette chair libertaire est aussitôt devenue **le présentoir du marché du désir.** Alors la boucle est bouclée: **le parcours de l’idéologie de la société de classes s’achève.** Cette idéologie tient les deux bouts. [ l’âme et le corps]. Elle enclôt et recouvre tout discours sur l’amour.
 
@@ -123,7 +123,7 @@ Cet ineffable, de l’amour, a toujours été sous-tendu, porté par un a priori
 
 **Mais l’amour est toujours considéré,** en dernière instance, même et surtout s’il est connu en “fragments” [ voir Barthes ] ou en son “signifiant” [ Lacan ], **comme insaisissable, ineffable**. Il est toujours au-delà de ses déterminations. Il appartient à **la transcendance**. En termes plus communs : au **mystère, à la magie**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/deco-mariage-argent-vrai-amriage.jpg)
+![](/images/2016/12/deco-mariage-argent-vrai-amriage.jpg)
 
 La philosophie de la praxis établit **tout le contraire.** Faut-il préciser que conceptualiser l’ineffable ne veut pas dire **prétendre exprimer en tant que tel l’émoi de cet ineffable?** Encore une fois nous ne proposons **pas un chant** mais **une connaissance** et “*le concept de chien n’aboie pas*”. Nous ne disons **pas l’ineffable en soi** mais **les conditions de son existence, son lieu de réalisation**.
 
@@ -137,7 +137,7 @@ Or, **“le réel est rationnel comme le rationnel est réel”.**
 
 **Le mythe formalise et axiomatise l’histoire mais c’est l’histoire qui produit le mythe.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/mort-de-tristan-et-iseut-1-262x300.jpg)
+![](/images/2016/12/mort-de-tristan-et-iseut-1-262x300.jpg)
 
 [ le mythe ] est le lieu d’**identification du projet féodal et de sa réalisation, la puissance et l’acte**. Il est la **rencontre du faire et du devoir-faire, de la praxis et de l’éthique**. Il met en parfait rapport d’expression **la matière (superstructurale) et la forme (esthétique).** Il explicite **l’inconscient de classe** en **récit ordonné**. Cette bouche d’ombre de l’histoire diffuse **la plus grande clarté**.
 
@@ -153,7 +153,7 @@ Nous ne proposerons qu’une **série d’énonciations sans doute trop elliptiq
 
 Cette mise en situation est aussi nécessaire pour répondre à ces deux objections, que les esprits avertis ne manqueront pas de formuler: et **le Cantique des Cantiques**, et **le modèle persan**?
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/Cantique_des_cantiques.jpg)
+![](/images/2016/12/Cantique_des_cantiques.jpg)
 
 Autant de preuves que **l’amour-fou serait de tous les temps et de tous les lieux** – ce que le **peplum**, à sa manière, affirme aussi.
 
@@ -161,7 +161,7 @@ Cet amour serait **éternel, substance intangible, essence, chose en soi, idée 
 
 Notre historique commencera par ce constat: **l’amour-fou n’existe pas chez le primitif.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/trobriands02.jpg)
+![](/images/2016/12/trobriands02.jpg)
 
 On n’a jamais trouvé, chez **les Bororos**, un amant caché dans le placard. Pour la bonne raison qu’il n’y a **pas de placard (infrastructure) ni d’amant (superstructure).** Il n’y a qu’un implacable **jeu de totems, de tabous, de système de la parenté,** tout ce qui est nécessaire au **surgissement de la première existence sociale**, laquelle n’est alors possible que par une **mécanisation totale** qui ne prévoit **aucune marginalité, aucune contestation, aucun désordre.** Il n’y a **pas de société civile, d’emploi du temps** pour **le romanesque, le romantique, l’amour-fou.** La marquise ne sort pas à cinq heures.2 Voir Paul Valéry, André Breton et Claude Mauriac
 
@@ -176,7 +176,7 @@ Le **sentiment amoureux** ne peut surgir, et en sa plénitude, **que si deux con
 
 Alors, dans **l’ordre implacable des totems, des tabous, de la prohibition de l’inceste** et dans cet espace superstructural acquis par **la libération du travail productif et du travail domestique,** peut surgir **le principe de la répétition, de la reproduction du système:** **l’amour conjugal.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/8746_-_Roma_museo_civiltà_Romana_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_DallOrto_12-Apr-2008.jpg)
+![](/images/2016/12/8746_-_Roma_museo_civiltà_Romana_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_DallOrto_12-Apr-2008.jpg)
 
 **Les modalités** qui permettent **l’apparition du sentiment amoureux** étant acquises, s’organisent **les modalités de son existence, de sa certitude.**
 
@@ -194,7 +194,7 @@ Cet **amour substance** est **le sacré**. Mais ce n’est pas l’amour en tant
 
 Quand le socius peut atteindre une telle perfection –**l’être en tant que répétition encore non entropique du Même** – alors sa cause ne peut être que transcendante, **les dieux et Dieu**. Car l’homme ne peut pas croire qu’une telle plénitude – celle de la substance – soit son oeuvre. Il se souvient trop de son passé d’incertitude, de non-être, de primitif d’avant le primitif.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/mgzeushera-300x240.jpg)
+![](/images/2016/12/mgzeushera-300x240.jpg)
 
 ##### *.b )  **la Cité Antique***
 
@@ -206,7 +206,7 @@ Quand le socius peut atteindre une telle perfection –**l’être en tant que r
 
 **La cité (antique)** s’élargit **en Empire**. Ce qui caractérise cet Empire, c’est qu’il n’a rien de commun avec l’État-nation — qui n’apparaît qu’avec la féodalité (cf l*‘Être et le code*) — seulement des analogies fonctionnelles et structurales (la cour, par exemple). C’est toujours le règne de l’endogamie tribale: l’Empire n’est qu’une extension territoriale maîtrisée par des clans qui sedisputent le pouvoir. Mais alors cette endogamie en est au dernier degré de son entropie, de sa répétitionentropique. Elle est de plus en plus destabilisée par les alliances opportunistes qui permettent l’unification de façade de l’Empire.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/1cf0e762-240x300.jpg)
+![](/images/2016/12/1cf0e762-240x300.jpg)
 
 C’est dans ce contexte qu’apparaît le **“modèle persan**” 6 Cf. A ce sujet, la somme de Pierre Gallais “Genèse du roman occidental. Essais sur Tristan et Yseult et son modèle persan ”  Michel Clouscard  qui est la forme limite, la plus dégénérée, de **l’endogamie tribale** 7 les mariages entre cousins, frères et soeurs étaient courant dans les dynasties de l’empire achéménide[/footnote**]**, comme “**le Cantique des Cantiques”** exprime sa plus grande pureté originelle. De la plus grande “compréhension” à la plus grande “extension”.
 
@@ -216,7 +216,7 @@ C’est **l’une des plus pures erreurs substantialistes**. À partir d’une a
 
 De **l’endogamie tribale à l’exogamie monogamique de la féodalité** va s’étaler **cet entre-deux; ce qui n’est plus l’ordre archaïque ou de la cité antique et ce qui n’est pas encore l’ordre de la société de classes**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/f52a8e70678b123bd400bd90a8fbd861-300x161.jpg)
+![](/images/2016/12/f52a8e70678b123bd400bd90a8fbd861-300x161.jpg)
 
 C’est un immense espace, obscur, indécis, encore mystérieux où **l’entropie de la répétition du Même** se confond avec **le commencement de l’ordre féodal.**
 
@@ -238,7 +238,7 @@ Si cet amour n’est plus **l’expression du désordre** de **l’entre-deux,**
 
 La contradiction est apparue en son absolu et a été dépassée dans l’universel. La négation qu’est l’endogamie  s’est transformée en **affirmation de l’exogamie monogamique**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/adoubement-227x300.jpg)
+![](/images/2016/12/adoubement-227x300.jpg)
 
 Le refus absolu de l’Autre s’est changé en **affirmation absolue de l’Autre**. Ce qui était nié est reconnu, affirmé. Et cette **reconnaissance de l’Autre** est devenue **le principe même de l’ordre social et des rapports de la conscience et de l’inconscient.**
 
@@ -268,7 +268,7 @@ Mais déjà nous pouvons proposer, comme première formalisation et axiomatisati
 
 2° L’histoire a produit **trois axiomes fondamentaux, les trois “intentionnalités” de la sexualité historicisée : *la conjugalité, la psyché, le fantasmatique*** (lequel se développe grâce au prostitutionnel).   Ce sont les **trois désirs du désir.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/conjugalité.jpg)
+![](/images/2016/12/conjugalité.jpg)
 
 *Schéma tiré des “fragments”, notes de travail de Michel Clouscard*
 

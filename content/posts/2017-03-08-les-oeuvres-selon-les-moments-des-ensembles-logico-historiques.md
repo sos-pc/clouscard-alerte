@@ -16,6 +16,6 @@ Comme précisé dans “l’avertissement” de “**L’être, la praxis, le su
 
 S.B.
 
-[![thumbnail of Période Clouscard](http://clouscard-alerte.org/wp-content/uploads/2017/03/Période-Clouscard-1-pdf.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Période-Clouscard-1.pdf "Période Clouscard")
+[![thumbnail of Période Clouscard](/images/2017/03/Période-Clouscard-1-pdf.jpg)](/images/2017/03/Période-Clouscard-1.pdf "Période Clouscard")
 
 Cliquer sur l’image pour agrandir et zoomer

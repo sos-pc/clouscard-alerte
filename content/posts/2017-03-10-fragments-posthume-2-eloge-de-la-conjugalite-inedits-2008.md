@@ -14,4 +14,4 @@ Une saisie a été faite en 2012.
 
 S.B.
 
-[![thumbnail of Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé.pdf "Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé")
+[![thumbnail of Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé](/images/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé-pdf-424x600.jpg)](/images/2017/03/Clouscard_13_fragments_2-Eloge-de-la-conjugalité-ouvrier-employé.pdf "Clouscard_13_fragments_2 Eloge de la conjugalité ouvrier employé")

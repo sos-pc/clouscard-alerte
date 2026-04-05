@@ -27,7 +27,7 @@ Aussi la constitution matérialiste de la généalogie du corps ne peut intéres
 
 Le corps-sujet doit être constitué en son mode de production. Au double sens du terme. Le corps-sujet est une historicité spécifique dans un mode de production donné. Le corps-sujet est la rencontre de l’histoire macro-sociale (la logique de la production, le mode de production, le moment du mode de production) et de l’histoire propre à cette organicité qu’est le corps.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/6-4-l-etre-et-le-code.jpg)
+![](/images/2016/12/6-4-l-etre-et-le-code.jpg)
 
 Deux *histoires* se rencontrent (celle du corps et celle du *socius*) pour constituer cette *réalité ontologique* qu’est la *subjectivité*: *organicité* devenue *historique*, accession de la *nature* à la *dialectique*. Celle de la *négation*, celle que la *dialectique de la nature* peut proposer à sa propre nature.
 

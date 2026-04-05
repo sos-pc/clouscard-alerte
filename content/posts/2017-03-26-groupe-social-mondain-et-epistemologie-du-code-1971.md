@@ -16,7 +16,7 @@ S.B.
 
 ---
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/md11357137064.jpg)
+![](/images/2017/03/md11357137064.jpg)
 
 Selon Georges Gurvitch, « Le groupe est une **unité collective réelle, mais partielle, directement observable et fondée sur des attitudes collectives continues et actives**, ayant **une œuvre commune à accomplir, unité d’attitudes, d’œuvres et de conduites** qui constitue **un cadre social structurable**, tendant vers une **cohésion relative des manifestations de la [sociabilité](http://ressources-socius.info/index.php/lexique/21-lexique/165-sociabilite)**» (Gurvitch, 1958, p. 187).
 
@@ -26,13 +26,13 @@ Si la largesse de cette catégorisation tend à la desservir, les critères prop
 
 Ces **groupes restreints** sont les plus susceptibles de faire naître, entre les membres qui les composent, **des relations affectives privilégiées et des logiques communes fondées sur le principe de solidarité.** Ces **relations et principes régulateurs** varient naturellement d’un groupe à l’autre, mais ils sont parfois appelés à se modifier et à évoluer au cœur d’un même ensemble.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Georg-Lukács-Die-Theorie-des-Romans-Ein-geschichtsphilosophischer-Versuch-über-die-Formen-der-großen-Epik-378x600.png)
+![](/images/2017/03/Georg-Lukács-Die-Theorie-des-Romans-Ein-geschichtsphilosophischer-Versuch-über-die-Formen-der-großen-Epik-378x600.png)
 
 La théorie marxiste, de Lukács à Goldmann, a volontiers fait usage de la notion de **groupe** dans son acception la plus large. Le groupe, ici, est moins un rassemblement concret dont les membres ont conscience, qu’une **fédération plus abstraite formalisée par le chercheur.**
 
 Goldmann, dans ***Le Dieu caché* (1955)** et ***Pour une sociologie du roman* (1964)** interroge la façon dont l’œuvre, à travers le message délivré par l’auteur, dit en réalité **les intérêts du groupe social de l’auteur**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/pour-une-sociologie-du-roman-idees-livre-occasion-4962.jpg)
+![](/images/2017/03/pour-une-sociologie-du-roman-idees-livre-occasion-4962.jpg)
 
 Son idée maîtresse est que **ni l’œuvre ni l’individu qui l’assume ne peuvent être tenus pour autonomes** : l’œuvre est le produit d’un ensemble plus large qui la dépasse et l’auteur n’est qu’un **individu médiateur entre celui-ci et celle-là** (l’œuvre de Racine, à ce titre, serait celle d’un **porte-parole du Jansénisme**, d’une manière d’être collectif mettant en circulation la vision du monde d’un mouvement idéologique et du groupe social – **la noblesse de robe** – auquel il appartient).
 

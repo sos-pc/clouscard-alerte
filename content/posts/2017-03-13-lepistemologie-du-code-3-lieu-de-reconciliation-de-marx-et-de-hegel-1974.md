@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/lepistemologie-du-code-3-lieu-de-reconciliation-de-marx-et-de-hegel-1974/?format=pdf "Download PDF")
 
-*![](http://clouscard-alerte.org/wp-content/uploads/2016/11/Logique-du-Concret-Riochet-365x600.png)Ce passage est un extrait de l’ouvrage de   **Christian Riochet**  » **[La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
+*![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)Ce passage est un extrait de l’ouvrage de   **Christian Riochet**  » **[La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de « L’Être et le Code »**« . ( page 29 )*
 
 **l’épistémologie du code**
 ---------------------------
@@ -37,7 +37,7 @@ Si l’histoire est bien le fondement épistémologique de la logique, alors on 
 
  \* L’aboutissement du procès de production est le sujet logique. Le savoir produit par ce procès de l’ensemble pré-capitaliste est donc le sujet transcendantal kantien. Kant ne fait que systématiser l’acquis culturel de la bourgeoisie. Partant de cet acquis, de cette rationalité advenue, le kantisme sera doublement prolongé. Il sera **prolongé par le néo-kantisme.** Ce que nous avons vu. Mais il sera aussi prolongé **par la raison dialectique, c’est-à-dire Hegel et Marx.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/Schéma-Être-Code-490x346.jpg)
+![](/images/2017/03/Schéma-Être-Code-490x346.jpg)
 
 De cet acquis commun, **Hegel** dira un **mode de la raison dialectique : la réalité superstructurale**.
 

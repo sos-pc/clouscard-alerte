@@ -38,7 +38,7 @@ Sylvain BOURGOIS
 
 30 Mars 2017
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/somme-et-manifeste-systeme-dialectique-proposition.jpg)
+![](/images/2017/03/somme-et-manifeste-systeme-dialectique-proposition.jpg)
 
 **Le libéralisme libertaire**
 

@@ -18,7 +18,7 @@ draft: false
 
 $nbsp;
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/cis_033_1962_l11.jpg)
+![](/images/2016/12/cis_033_1962_l11.jpg)
 
 Les Fonctions Sociales du Sport
 -------------------------------

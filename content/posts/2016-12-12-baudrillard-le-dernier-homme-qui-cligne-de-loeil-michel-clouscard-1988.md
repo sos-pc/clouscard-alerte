@@ -7,7 +7,7 @@ draft: false
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/12/baudrillard-le-dernier-homme-qui-cligne-de-loeil-michel-clouscard-1988/?format=pdf "Download PDF")
 
 Le texte original est ici :   
- [Juin 1988: Clouscard Baudrillard Sartre Levis-Strauss](http://clouscard-alerte.org/wp-content/uploads/2016/12/1988-clouscard-baudrillard-sartre-levis-strauss-juin-1988.pdf)
+ [Juin 1988: Clouscard Baudrillard Sartre Levis-Strauss](/images/2016/12/1988-clouscard-baudrillard-sartre-levis-strauss-juin-1988.pdf)
 
 BAUDRILLARD,
 ------------

@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/12/08/preface-a-letre-et-le-code-michel-clouscard-2003/?format=pdf "Download PDF")
 
-**![1-etre-et-code-2004-recto](http://clouscard-alerte.org/wp-content/uploads/2016/12/1-etre-et-code-2004-recto-200x300.jpg)Préface**
+**![1-etre-et-code-2004-recto](/images/2016/12/1-etre-et-code-2004-recto-200x300.jpg)Préface**
 
 **à la seconde édition**
 

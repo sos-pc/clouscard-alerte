@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/30/sartre-levi-strauss-goldmann-debats-a-lepoque-de-letre-et-le-code-edouard-delruelle/?format=pdf "Download PDF")
 
-[![thumbnail of Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss](http://clouscard-alerte.org/wp-content/uploads/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss-pdf.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss.pdf "Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss")
+[![thumbnail of Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss-pdf.jpg)](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss.pdf "Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss")
 
 Nous vous invitons à lire attentivement cet article très intéressant et très didactique pour travailler les débats théorique dans lesquels Clouscard évoluait lors de la rédaction de “l’Être et le Code” (1972) De nombreux enjeux et oppositions dialectiques y sont exposés et permettent d’apprécier la proposition synthétique et le dépassement dialectique que pourrait constituer “l’épistémologie du code” de Clouscard.
 
@@ -40,7 +40,7 @@ Le site internet  de M. Edouard Delruelle, professeur de philosophie politique 
 
 S.B.
 
-[![thumbnail of Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss](http://clouscard-alerte.org/wp-content/uploads/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss-pdf.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss.pdf "Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss")
+[![thumbnail of Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss-pdf.jpg)](/images/2017/03/Raison-dialectique-ou-raison-tragique-Goldmann-Sartre-Lévi-Strauss.pdf "Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss")
 
 PDF / EDOUARD DELRUELLE / Raison dialectique ou raison tragique Goldmann, Sartre, Lévi-Strauss /
 

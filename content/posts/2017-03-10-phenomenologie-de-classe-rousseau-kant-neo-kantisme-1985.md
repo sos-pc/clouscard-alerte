@@ -16,6 +16,6 @@ draft: false
 
 Michel Clouscard.
 
-[![thumbnail of La phénoménologie de classe](http://clouscard-alerte.org/wp-content/uploads/2017/03/La-phénoménologie-de-classe-pdf.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/La-phénoménologie-de-classe.pdf "La phénoménologie de classe")
+[![thumbnail of La phénoménologie de classe](/images/2017/03/La-phénoménologie-de-classe-pdf.jpg)](/images/2017/03/La-phénoménologie-de-classe.pdf "La phénoménologie de classe")
 
 PDF – cliquer pour aggrandir

@@ -12,6 +12,6 @@ Le grand renfermement de l’idéalisme subjectif.
 
 Critique du néo-kantisme de Sartre par Clouscard
 
-[![thumbnail of Kant et Sartre](http://clouscard-alerte.org/wp-content/uploads/2017/03/Kant-et-Sartre-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Kant-et-Sartre.pdf "Kant et Sartre")
+[![thumbnail of Kant et Sartre](/images/2017/03/Kant-et-Sartre-pdf-424x600.jpg)](/images/2017/03/Kant-et-Sartre.pdf "Kant et Sartre")
 
 PDF – Cliquez pour aggrandir – PDF

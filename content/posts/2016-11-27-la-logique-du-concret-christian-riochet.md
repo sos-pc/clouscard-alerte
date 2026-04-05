@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2016/11/27/la-logique-du-concret-christian-riochet/?format=pdf "Download PDF")
 
-[![thumbnail of logique_concret_v5](http://clouscard-alerte.org/wp-content/uploads/2016/11/logique_concret_v5-pdf-367x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2016/11/logique_concret_v5.pdf "logique_concret_v5")
+[![thumbnail of logique_concret_v5](/images/2016/11/logique_concret_v5-pdf-367x600.jpg)](/images/2016/11/logique_concret_v5.pdf "logique_concret_v5")
 
 ***Livre en PDF – Cliquer pour télécharger – [www.christianriochet.net](http://www.christianriochet.net)***
 

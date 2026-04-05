@@ -8,9 +8,9 @@ draft: false
 
 Le passage manquant  :
 
-[avant-propos-genese-psyche-2008](http://clouscard-alerte.org/wp-content/uploads/2016/12/avant-propos-genese-psyche-2008.pdf)
+[avant-propos-genese-psyche-2008](/images/2016/12/avant-propos-genese-psyche-2008.pdf)
 
-[Tables des matières](http://clouscard-alerte.org/wp-content/uploads/2016/12/table-des-matieres-exhaustive-sylvain-bourgois-2016.pdf)
+[Tables des matières](/images/2016/12/table-des-matieres-exhaustive-sylvain-bourgois-2016.pdf)
 
 conforme à l’original du manuscrit.
 

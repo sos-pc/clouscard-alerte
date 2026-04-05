@@ -10,7 +10,7 @@ Ce diaporama est une suggestion pour tenter d’inscrire le discours de Clouscar
 
 Ces schémas viennent apporter une explication sur la relation dialectique entre la critique du néo-kantisme et le modèle d’ensemble logico-historique. En effet, dans l’introduction de “l’Être et le Code”, la critique de l’épistémologie bourgeoise conduit Clouscard  au concept de “corps-sujet signifieur” pour exposer la généalogie anthropologique et philosophique de l’idéologie de classe (dominante). La mise en place du modèle théorique d ‘ ” ensemble logico-historique” permet alors de suivre les moments historiques et dialectiques du “code”.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/2016-Schéma-Être-Code-Corps-sujet-Signifieur-Modèle-dEnsemble-Logico-historique.jpg)
+![](/images/2017/03/2016-Schéma-Être-Code-Corps-sujet-Signifieur-Modèle-dEnsemble-Logico-historique.jpg)
 
 Il faudrait reprendre plus longuement le “modèle d’ensemble logico-historique” comme relation  et système de médiations entre  d’une part le matérialisme historique, la logique de la production comme sémantique des moments de l’histoire et d’autre part le matérialisme dialectique, les déterminations historiques et sociales de la rationalité, de l’épistémologie, de l’idéologie, etc …
 

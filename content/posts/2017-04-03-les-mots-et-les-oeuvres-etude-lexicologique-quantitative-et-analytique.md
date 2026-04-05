@@ -22,6 +22,6 @@ A l’issue de l’étude quantitative, je propose un tableau analytique à part
 
 Une fois de plus, ce procédé analytique n’est présenté qu’à titre indicatif. Il présente une statistique descriptive permettant de cartographier les publications de Clouscard.
 
-![thumbnail of mots de clouscard](http://clouscard-alerte.org/wp-content/uploads/2017/04/mots-de-clouscard-pdf.jpg)
+![thumbnail of mots de clouscard](/images/2017/04/mots-de-clouscard-pdf.jpg)
 
 PDF – Cliquer pour Télécharger

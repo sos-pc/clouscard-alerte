@@ -36,7 +36,7 @@ Et cela prépare la lecture du livre III.
 
 Je vais partir d’un exemple pour tenter d’introduire aux problèmes typiques de “l’Être, la Praxis, le Sujet”.
 
-![09_prehistoire](http://clouscard-alerte.org/wp-content/uploads/2016/10/09_prehistoire.png)
+![09_prehistoire](/images/2016/10/09_prehistoire.png)
 
 «*Les premiers hommes ont découvert le feu»* dit-on et jamais «*le feu existait comme phénomène naturel et ayant un certain stade de développement social et intellectuel, les hommes existaient en tant que groupe capable de s’ emparer collectivement du feu comme phénomène social . Le genre avait déjà accompli un parcours dialectique dans la constitution de la logique du genre et du “se faire” pour parvenir à rajouter la praxis pyrotechnique à un procès de production plus rudimentaire*».
 

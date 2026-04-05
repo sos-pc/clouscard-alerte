@@ -34,7 +34,7 @@ Il est souvent différent en fonction du contexte interne d’un pays ou d’une
 
 *Ainsi de l’action étymologique il ne reste qu’un beau geste, un savoir-vivre qui n’est plus que la grâce de mourir. La preuve par la mort est la dernière preuve, mais la plus belle. “*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/la-fronde.jpg)
+![](/images/2017/02/la-fronde.jpg)
 
 **La pseudo-lutte des classes de la Fronde   présente bien des analogies avec les événements de Mai 68.**
 
@@ -58,7 +58,7 @@ Alors, Clouscard analyse cette  violence individualisée comme l’expression e
 
 *La ludicité de l’intrigue est donc promo­tion de l’individualisme car continuité d’un comportement personnel par la déstructuration réciproque des comportements collectifs.”*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/machiavelli.jpg)
+![](/images/2017/02/machiavelli.jpg)
 
 **Machiavel comme théorie du comportement de classe.**
 

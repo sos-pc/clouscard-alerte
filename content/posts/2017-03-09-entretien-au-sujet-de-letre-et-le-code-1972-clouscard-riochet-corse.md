@@ -28,7 +28,7 @@ CHRISTIAN RIOCHET –
 
 En relisant Marx on a l’impression que la **combinatoire historique des classes sociales** est **plus complexe** que votre **dualité bourgeoise-nobles ou seigneur-vilain**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/George_Dandin.jpg)
+![](/images/2017/03/George_Dandin.jpg)
 
 MICHEL CLOUSCARD –
 
@@ -46,7 +46,7 @@ Vous prétendez dans le Livre II que **la société civile et le corp**s affecte
 
 Voulez-vous dire qu’il y a **parallélisme** ?
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/6-4-LÊtre-et-le-Code-490x347.jpg)
+![](/images/2017/03/6-4-LÊtre-et-le-Code-490x347.jpg)
 
 **Macro social Micro social – cliquez pour agrandir**
 
@@ -54,7 +54,7 @@ MICHEL CLOUSCARD
 
 – Non. Il y a **une continuité et une réciprocité.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/diderot.jpg)
+![](/images/2017/03/diderot.jpg)
 
 Illustration pour le romand de Diderot ” Jacques le Fataliste”
 
@@ -76,7 +76,7 @@ Est-ce bien utile ?
 
 MICHEL CLOUSCARD –
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/18612765-450x600.jpg)
+![](/images/2017/03/18612765-450x600.jpg)
 
 Je le pense. C’est **notre héritage immédiat.**
 
@@ -114,7 +114,7 @@ CHRISTIAN RIOCHET –
 
 MICHEL CLOUSCARD –
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/d1c98ffc5dd3a51afe6ab033acb6f1d9-411x600.jpg)
+![](/images/2017/03/d1c98ffc5dd3a51afe6ab033acb6f1d9-411x600.jpg)
 
 La gauche française recouvre **beaucoup d’appellations**. Il faut lui prêter **des prédicats**.
 
@@ -134,7 +134,7 @@ Pourriez-vous envisager l’étude du **procès de production de l’ensemble ca
 
 MICHEL CLOUSCARD –
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/2-neo-fascisme-et-ideologie-du-desir-recto-cl-192x300.jpg)
+![](/images/2016/11/2-neo-fascisme-et-ideologie-du-desir-recto-cl-192x300.jpg)
 
 Justement, c’est au niveau de **la polémique** que je voudrais reprendre **le procès de production du néo-capitalisme**. Je voudrais montrer que **le freudo-marxisme occulte l’ensemble capitaliste**.
 

@@ -30,13 +30,13 @@ Pour s’attaquer au problème classique de la philosophie de l’esprit, **l’
 
 ***L’homo erectus** est dans la même situation de survie : **avant la domestication** de certaines espèces végétales et animales, il ne peut même pas accéder à l’économie de subsistance, livré à **l’aléa de la cueillette et de la chasse**. L’état de manque est la norme de l’espèce. Le survivre est l’expérience originelle, le rituel initiatique immanent à la production et à la reproduction du genre. S’il fallait résumer en un mot la condition humaine, ce serait : **survivre.** On en fera même la maxime du genre, mais aussi et surtout le modèle de son développement.”*  ( Livre 7 , I , A )
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/homo-300x211.jpg)
+![](/images/2017/02/homo-300x211.jpg)
 
 **L’homo erectus** est un “**prématuré”** des moyens de production, qui doit produire d’abord ses **conditions d’existence, notamment** dans **la prédation (** en termes de **praxis objective)**. C’est le développement alors d’une **logique de la chasse, de prédation** ( de “fourrageage” dans l’écologie comportementale). Il n’y a pas de mise en valeur de l’espace productif, mais une praxis prélèvement de la chair animal, **exploitation de l’Autre** pour résoudre la production nécessaire à la survie du clan, au **Même**.  Mais c’est déjà l’émergence d’une phénoménologie du genre, d’une “subjectivité” capable de penser la “substance”. ( voir plus bas ).
 
 Le régime d’existence est précaire : c’est la “survie”.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/4-0-agriculture.jpg)
+![](/images/2017/02/4-0-agriculture.jpg)
 
  Cette logique va se poursuivre lorsqu’au stade de la “domestication”, du **développement agraire et pastoral**, au cours duquel  les cycles de violence ( notamment à l’Âge de Bronze ) vont conduire à régler une **chasse à l’homme**, guerre et praxis esclavagiste qui va fournir une **force de travail aliénée, captive, exploitée.** Et si l’agriculture intègre l’Autre de la biologie végétale (la plante) dans le Même du procès de production, si l’élevage intègre l’autre de la biologie animale (l’animal) dans le Même de la praxis pastorale, l’esclavagisme intègre  “l’Autre” du genre humain ( l’esclave, le barbare, qui ne parle pas la même langue), le groupe ennemi vaincu, le prisonnier sans le tuer mais en l’aliénant, en l’exploitant.
 

@@ -14,7 +14,7 @@ Michel Clouscard
 
 *Mais si vous comprenez les moments dialectiques et historiques de “L’Être, la Praxis, le Sujet”, à savoir la “genèse de la praxis” (les filiations ontologiques) et la “genèse de la psyché” (les filiations oedipiennes”  comme la “psyché” dans le mode de production féodal ( “Traité de l’Amour Fou” et “L’Être et le Code”), vous comprendrez des expressions comme “la logique des trois amours”, à savoir le couple (premier moment ), la conjugalité (deuxième moment) et la psyché ( ultime moment ) pour comprendre “l’exogamie monogamique” comme clé de l’histoire …*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/conjugalité.jpg)
+![](/images/2016/12/conjugalité.jpg)
 
 *S.B.*
 

@@ -12,4 +12,4 @@ Une saisie a été faite en 2012.
 
 S.B.
 
-[![thumbnail of Clouscard-13_fragments_3 Chutes Refondation Féodale](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard-13_fragments_3-Chutes-Refondation-Féodale-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard-13_fragments_3-Chutes-Refondation-Féodale.pdf "Clouscard-13_fragments_3 Chutes Refondation Féodale")
+[![thumbnail of Clouscard-13_fragments_3 Chutes Refondation Féodale](/images/2017/03/Clouscard-13_fragments_3-Chutes-Refondation-Féodale-pdf-424x600.jpg)](/images/2017/03/Clouscard-13_fragments_3-Chutes-Refondation-Féodale.pdf "Clouscard-13_fragments_3 Chutes Refondation Féodale")

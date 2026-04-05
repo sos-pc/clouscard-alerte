@@ -10,13 +10,13 @@ C’est près de quarante ans après sa rédaction que nous parvient un texte qu
 
 **” Lettres ouvertes aux communistes”.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/22eme-congres-pcf-300x219.jpg)
+![](/images/2017/03/22eme-congres-pcf-300x219.jpg)
 
 On devine qu’elle fut écrite avant 1977 et la rupture des **négociations entre socialistes et communistes** (étant donné que la Lettre ouverte fait encore référence au programme commun) et après février 1976 puisque Clouscard questionne l’abandon de la notion de « **dictature du prolétariat** » datant du XXIIème congrès.
 
 Il fallait, pour le philosophe questionner la direction même que prenait le PC à la fin des années 70. C’est toute l’ambiguïté de la coexistence pacifique de l’époque et de l’avenir du principe d’internationalisme prolétarien qui tenait encore Michel Clouscard à distance de l’adhésion au Parti. Mais c’est surtout la direction théorique que prenait alors le « seul parti qui dispose d’un corps doctrinal pour analyser l’évolution des sociétés et leurs crises ».
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/031109-002-300x195.jpg)
+![](/images/2016/12/031109-002-300x195.jpg)
 
 L’auteur endosse donc la figure socratique : ” *la Lettre ouverte aux communistes”*est un dialogue, entre un philosophe parvenu au marxisme par la philosophie et… le Parti communiste lui-même. **Dialogue avec l’ « intellectuel collectif** », ce lieu du savoir à constituer où culmine le projet philosophique lorsqu’il parvient par la « lente marche du concept » à dépasser les apories et les fixismes dualistes de la philosophie traditionnelle (dichotomies philosophie de la connaissance/ philosophie de l’action, sujet/ objet, individu/ société) et qui s’achève dans le marxisme-léninisme (unité organique de la pensée et de l’action). Le philosophe reconnait la supériorité du marxisme-léninisme dans la prise en charge même de **l’accomplissement de la philosophie** (« le communisme n’abolit pas, il accomplit ») : lui seul permet un savoir objectif, une action collective, des moyens pacifiques et démocratiques.
 
@@ -36,7 +36,7 @@ Dans ces **conditions théoriques désastreuses**, comment  résister à l’of
 
 Alors vient « **le temps des frustrés revanchards** », des classes moyennes traditionnelles trompées et autres composantes poujadistes.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/1255653_877_obj8294564-1_667x333-300x150.jpg)
+![](/images/2016/12/1255653_877_obj8294564-1_667x333-300x150.jpg)
 
 Voir aussi l’extrait ” Critique de la synthèse du populisme et du national-socialisme “
 

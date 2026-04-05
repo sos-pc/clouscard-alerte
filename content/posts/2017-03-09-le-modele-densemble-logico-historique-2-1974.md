@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/le-modele-densemble-logico-historique-2-1974/?format=pdf "Download PDF")
 
-*![](http://clouscard-alerte.org/wp-content/uploads/2016/11/Logique-du-Concret-Riochet-365x600.png)L’extrait qui suit est une longue citation de la “Logique du Concret” de Christian Riochet.*
+*![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)L’extrait qui suit est une longue citation de la “Logique du Concret” de Christian Riochet.*
 
 *Cet ouvrage a été rédigé à partir des indications précises de Michel Clouscard, selon l’aveu de l’auteur. Je confirme et j’atteste, à titre personnel que je  peux confirmer  qu’on trouve dans cette étude la plus parfaite synthèse des thèses de “L’Être et le Code”.*
 

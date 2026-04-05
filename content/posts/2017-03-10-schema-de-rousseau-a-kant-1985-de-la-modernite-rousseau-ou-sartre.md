@@ -6,13 +6,13 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/10/schema-de-rousseau-a-kant-1985-de-la-modernite-rousseau-ou-sartre/?format=pdf "Download PDF")
 
-[![thumbnail of De Rousseau à Kant](http://clouscard-alerte.org/wp-content/uploads/2017/03/De-Rousseau-à-Kant-pdf.jpg "PDF / cliquer pour agrandir / De Rousseau à Kant - moment dialectique et historique / PDF")](http://clouscard-alerte.org/wp-content/uploads/2017/03/De-Rousseau-à-Kant.pdf "De Rousseau à Kant")
+[![thumbnail of De Rousseau à Kant](/images/2017/03/De-Rousseau-à-Kant-pdf.jpg "PDF / cliquer pour agrandir / De Rousseau à Kant - moment dialectique et historique / PDF")](/images/2017/03/De-Rousseau-à-Kant.pdf "De Rousseau à Kant")
 
 PDF / cliquer pour agrandir / De Rousseau à Kant – moment dialectique et historique / PDF
 
 Nous publions un tableau synthétique qui expose le passage de Rousseau à Kant chez Clouscard. Réalisé en 2012, c’était  une “compilation” de l’ouvrage ” De la modernité  : Rousseau ou Sartre”
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/6-rousseau-ou-sartre-1985-recto-cl-182x300.jpg)
+![](/images/2016/11/6-rousseau-ou-sartre-1985-recto-cl-182x300.jpg)
 
  \*
 
@@ -26,7 +26,7 @@ On sait que Hegel va critiquer le kantisme et proposer de résoudre les problèm
 
 Concernant le rapport de Rousseau à Kant, c’est par une sociologie politique de la connaissance que Clouscard aborde la reprise partielle de la philosophie politique par Kant. La figure sociologique du “petit clerc” permet d’aborder autant Jean-Jacques qu’Emmanuel dans les rapports de classe historique de la France et la Prusse du XVIII° et XIX° siècle. Clouscard explique cette crise comme un moment fondateur pour le marxisme, car ”  *l’impossibilité s’est vérifiée, **pour la petite bourgeoisie**, d’accéder au pouvoir, au politique, à la gestion de l’Etat.”*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/1-etre-et-code-1972-recto_cl-200x300.jpg)
+![](/images/2016/11/1-etre-et-code-1972-recto_cl-200x300.jpg)
 
 Il analyse ainsi le moment ( idéaliste ) historique commun à Rousseau et Robespierre … et à Kant   : 
 

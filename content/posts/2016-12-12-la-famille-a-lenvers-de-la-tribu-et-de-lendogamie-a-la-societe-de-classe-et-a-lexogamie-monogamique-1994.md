@@ -10,7 +10,7 @@ draft: false
 
 *Tristan lui, sacrifie son amour pour ne pas avoir le trône !”*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/adoubement-227x300.jpg)
+![](/images/2016/12/adoubement-227x300.jpg)
 
 LES PRÉDÉTERMINATIONS
 ---------------------

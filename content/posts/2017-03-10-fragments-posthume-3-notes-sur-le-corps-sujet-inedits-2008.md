@@ -14,7 +14,7 @@ Cela reprend la logique du corps-sujet dans “L’être, la praxis, le sujet”
 
 S.B.
 
-[![thumbnail of Clouscard_13_fragments_4 notes sur le corps sujet](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_4-notes-sur-le-corps-sujet-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Clouscard_13_fragments_4-notes-sur-le-corps-sujet.pdf "Clouscard_13_fragments_4 notes sur le corps sujet")
+[![thumbnail of Clouscard_13_fragments_4 notes sur le corps sujet](/images/2017/03/Clouscard_13_fragments_4-notes-sur-le-corps-sujet-pdf-424x600.jpg)](/images/2017/03/Clouscard_13_fragments_4-notes-sur-le-corps-sujet.pdf "Clouscard_13_fragments_4 notes sur le corps sujet")
 
 [[Montrer sous forme de diaporama]](http://clouscard-alerte.org/index.php/2017/03/10/fragments-posthume-3-notes-sur-le-corps-sujet-inedits-2008/nggallery/slideshow)
 

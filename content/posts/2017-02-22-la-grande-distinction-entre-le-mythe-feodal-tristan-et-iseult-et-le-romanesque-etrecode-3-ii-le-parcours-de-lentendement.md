@@ -27,7 +27,7 @@ L’adjectif est souvent utilisé péjorativement pour qualifier des histoires i
 
 Clouscard reprendra d’ailleurs cette analyse du romanesque dans “*De la modernité : Rousseau ou Sartre”* ( 1985), deuxième partie ( après la révolution française), les trois étants de la bourgeoisie : romantisme, positivisme, romanesque.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/fe5_chap05_img1.jpg)
+![](/images/2017/02/fe5_chap05_img1.jpg)
 
 Alors que le mythe féodal met en route **l’alliance entre le roi, chef de guerre, et le suzerain, allié loyal, et instrumentalise la femme,** en réglant le problème des interdits interne au partage des femmes ( Tristan et Iseult ), à la fin de l’ensemble historique pré-capitaliste, la culture romanesque détaille l’évolution historique du schéma anthropologique des classes dominantes : **la noblesse et la bourgeoisie doivent s’allier pour des raisons différentes** … alors que ces deux classes sont totalement antagonistes ! Comment ? par la logique des intérêts individuels, familiaux, dynastiques …
 
@@ -45,7 +45,7 @@ Mais, le romanesque procède d’une stratégie individualiste qui devient norme
 
 #### Michel Cloucard ” L’Être et le Code”  (1971) et René Girard : “ *Mensonge romantique et vérité romanesque*” (1961)
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/41trcs8d6ml-185x300.jpg)
+![](/images/2017/02/41trcs8d6ml-185x300.jpg)
 
 Il est d’ailleurs intéressant de faire remarquer que Clouscard cite, dans la bibliographie, l’ouvrage fondateur de Réné Girard sur le “*désir mimétique”*, à savoir “ *Mensonge romantique et vérité romanesque*“.
 

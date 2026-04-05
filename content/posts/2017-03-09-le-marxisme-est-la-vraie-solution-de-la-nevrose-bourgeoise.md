@@ -21,7 +21,7 @@ La relation marxisme-psychanalyse illustre bien, à un moment historique, **la r
 
 Et Marx est plus profond que “**la psychologie des profondeurs”.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/zma-marx-jeune.jpg)
+![](/images/2017/03/zma-marx-jeune.jpg)
 
 Marx dans sa jeunesse
 
@@ -31,14 +31,14 @@ Car il a dit la vraie logique : *c’est la production du prolétariat, c’est 
 
 Mais la problématique de sa consommation n’est que celle de la bourgeoisie libérale. C’est celle d’une classe sociale qui a dépassé la problématique historique des besoins élémentaires *(la faim*) qui a conquis de nouvelles temporalités, libres (*de par le travail des autres*), et qui dispose de grands moyens et pouvoirs (*argent, esthétique, épistémologie..*.) et qui est aussi disponible à *la séduction, au plaisir, au sexe.*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/a3056c7c51bcc9030fd6eb98506a4684.jpg)  
+![](/images/2017/03/a3056c7c51bcc9030fd6eb98506a4684.jpg)  
 Et ceci fait problème, en effet.
 
 La psychanalyse doit être épistémologique et éthique, savoir et norme sociale. Car elle doit préserver une opération politique, **garantir des privilèges par un certain sérieux**, ne serait-ce qu’au niveau des **signes de l’autorité** et en même temps **profiter de la consommation des biens produits par le prolétariat.**
 
 Elle doit **liquider le péché** (et en ce sens le freudisme est **désaliénation**) et définir un **nouveau système régulateur de la consommation sexuelle.** Car **le sexe**, enfin possible, peut aussi désagréger **le sérieux politique**, révéler l’imposture du pouvoir, par la **dégénérescence de la bourgeoisie.** Comment préserver le rôle privilégié de la bourgeoisie (de par l’exploitation de l’ouvrier) tout en consommant des **biens de luxe, confort, standing et « érotisme »** ? Comment **régulariser une consommation** lorsqu’on n’est pas producteur ? Quels rapports instaurer entre **l’homme et la femme** pour garantir à la fois **le sérieux du pouvoir** et pour profiter **des privilèges de classe ?** Comment **jouir sans culpabilité** ? Comment **ne pas nommer le problème politique** ?
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/bqe-differente.jpg)
+![](/images/2017/03/bqe-differente.jpg)
 
 Ce problème se pose très précisément **en conflit de générations**, selon le schéma traditionnel et classique (situation-type de la comédie) : **père avare-fils prodigue.** . Et les conjonctures économico-politiques différencient cette situation selon tel aspect de la psychanalyse.
 
@@ -50,7 +50,7 @@ Ce problème se pose très précisément **en conflit de générations**, selon 
 
     Sa situation est **névrotique.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/a_l_est_d_eden_east_of_eden_1954_portrait_w858-490x348.jpg)
+![](/images/2017/03/a_l_est_d_eden_east_of_eden_1954_portrait_w858-490x348.jpg)
 
 A l’Est d’Eden – d’après Steinbeck – Elia Kazan
 
@@ -62,16 +62,16 @@ Mais pour profiter pleinement de **la production du prolétariat.**
 
 **Lorsque les pères paient les impôts et que les ouvriers pro­duisent, les fils de bourgeois se disent libres**.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/67DialLibRecordCover420pxh.jpg)
+![](/images/2017/03/67DialLibRecordCover420pxh.jpg)
 
 Alors la psychanalyse, de régula­trice, normative, se fait **émancipatrice, libératrice (Marcuse)**. Les fils de bour­geois retrouvent : **l’instinct, la liberté,** tous ces concepts éminemment **méta­physiques, formels, univoques** du **néo-kantisme.**
 
 Mais **le bourgeois** n’a pu quitter **le regard du père** car il ne soupçonne toujours pas **la problématique réaliste de la production.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl-1-192x300.jpg)  
+![](/images/2016/11/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl-1-192x300.jpg)  
 **Le marxisme est la vraie solution de la névrose**, de la problématique bourgeoise, du **problème parcellaire de la consommation.** Et **Marx** n’avait pas à se poser notre problème : lorsque les forces productives seront dans les mains du **peuple**, lorsque le **producteur** se sera réapproprié son œuvre, l**a consommation** se soumettra « spontanément » à l’ordre du **collectif** qu’est la **société sans classe**. C’est effectivement **la pratique, le travail, la science**, qui sans détours spéculatifs ordonnent **la relation du politique et du sensible.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/bernard-henri-levy-306999-401x600.jpg)
+![](/images/2017/03/bernard-henri-levy-306999-401x600.jpg)
 
 Photo datée du 18 août 1977 du philosophe français **Bernard-Henri Lévy**, auteur notamment de **“La Barbarie à visage humain**” (1977) et “**Le Diable en tête**” (1984).
 

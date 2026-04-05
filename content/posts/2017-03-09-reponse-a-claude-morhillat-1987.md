@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/09/reponse-a-claude-morhillat-1987/?format=pdf "Download PDF")
 
-[![thumbnail of 1987 Clouscard Débats avec Claude Morhillat 1987](http://clouscard-alerte.org/wp-content/uploads/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987-pdf-410x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987.pdf "1987 Clouscard Débats avec Claude Morhillat 1987")
+[![thumbnail of 1987 Clouscard Débats avec Claude Morhillat 1987](/images/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987-pdf-410x600.jpg)](/images/2017/03/1987-Clouscard-Débats-avec-Claude-Morhillat-1987.pdf "1987 Clouscard Débats avec Claude Morhillat 1987")
 
 PDF : Article de CLAUDE MORHILLAT – Réponse de MICHEL CLOUSCARD – 1987.
 
@@ -40,13 +40,13 @@ Ma réponse – aussi constructive – à la critique de Claude Morilhat sera or
 
 A propos des grands auteurs : «**le dessin à grands traits se distingue mal de la caricature faute du recul culturel nécessaire** ». Mais Claude Morilhat a très bien compris, aussi, que **ces grands auteurs** ne font que me servir de **signifiants majeurs de la phénoménologie de la bourgeoisie**. Je suis indifférent à leurs œuvres en tant que telles. Ils ne m’ont servi qu’à désigner **les articulations, les thèmes, les figures, les « étants » de cette phénoménologie ; du néo-kantisme théorique.** Cette démarche peut évidemment surprendre. Réduire **Sartre, Lévi-Strauss, Foucault, Barthes, Lacan, Bourdieu, Baudrillard**, à n’être que **l’os** qui permet de reconstituer **l’animal**, (phénoménologique), comme **Cuvier** a pu le faire, cela peut même paraître scandaleux à ceux qui ont pu croire **aux messages et à l’unicité des grands maîtres.** Mais cela relève d’une **méthode** qui se veut **très rigoureuse**, j’y viendrai.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/brumegatherium-490x354.jpg)
+![](/images/2017/03/brumegatherium-490x354.jpg)
 
 ### Le «**potlatch de la plus-value** » pour dire en deux mots l’essentiel
 
 Pour Claude Morilhat, «  **Incontestable, la réussite de « l’exercice de style » s’affirme en partie du détriment du « travail de fond »** ». Il écrit même «**Totem, potlatch, principe de réalité … le détournement de notions qui ont fait les beaux jours de la théorie est habile, mais l’extraction de leur champ d’horizons ne suffit pas à leur assurer une dimension conceptuelle, si elles font images elle n’autorisent pas pour autant une meilleure compréhension de la société capitaliste** ». Pourtant l’expression : «**potlatch de la plus-value** » ne dit-elle pas, en deux mots, l’essentiel ? N’y a-t-il pas, presque, **adéquation de l’image et du concept ?** Après avoir préparé le lecteur, en me servant des catégories du « culturo-mondain », je lui impose un bien surprenant glissement de sens qu’il ne peut plus récuser. En partant de cette aimable notion de **l’ethnophilosophie** qu’est **le potlatch**, j’en viens à dire la nécessité même que ce genre de discours permet de cacher. Mon style « imagé » n’est que la réponse à la question même de la pédagogie : **comment, à partir du langage idéologique usuel, en venir à la nécessité du concept** ? C’est le problème de Socrate. J’ai voulu aussi y répondre : «  **le potlatch de la plus-value** ». N’y a-t-il pas un bon usage, didactique et même conceptuel, de **l’image** ?
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/potlatch-de-lextorsion-de-la-plus-valeu-490x326.jpg)
+![](/images/2017/03/potlatch-de-lextorsion-de-la-plus-valeu-490x326.jpg)
 
 ### **redéfinir le statut théorique de l’Etat.**
 
@@ -56,13 +56,13 @@ J’ai voulu **redéfinir le statut théorique de l’Etat.** Je crois que c’e
 
 L’Etat n’est pas **une chose en soi, une bûche, ou un « monstre froid » mythique** . J’ai voulu **rendre l’Etat à la dialectique et à l’histoire**, pour **débloquer la recherche, lutter contre les déviations** et surtout pour **permettre à la stratégie révolutionnaire de « s’articuler » sur l’Etat** et même pour proposer **les lieux et les moyens des interventions stratégiques** sur une **réalité historique** que **la grande bourgeoisie et le grand capital** ont su, eux, **démythifier** par son un **usage instrumental, opportuniste, hyper-réaliste**. En effet, dans les livres cités par Claude Morilhat tout cela n’est qu’indicatif, allusif même. Je ne ferai que **proposer le schéma de ma recherche** aggravant ainsi le reproche de … « schématisme ». Mais, dans mon dernier livre, «**Les Dégâts de la pratique libérale »**, j’explicite ces propositions théoriques et stratégiques.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/r3.61-490x483.png)
+![](/images/2017/03/r3.61-490x483.png)
 
 **Ma thèse est que l’Etat est à trois dimensions, trois attributs dirait Spinoza, trois rôles, trois fonctions**. L’Etat français n’est-il pas, quand même, aussi **républicain**? Le gaucho-fascisme qui voulait détruite l’Etat n’aurait-il pas du coup, liquidé la République ? Peut-on définir l’Etat français comme si la Révolution Française n’avait pas eu lieu ? Aussi «*le mythique **Etat de la volonté générale*** » comme dit Claude Morilhat, me semble être au contraire, une composante très réelle, institutionnelle et constitutionnelle, que la théorie aurait grand tort de négliger car la conséquence serait une fatale erreur stratégique. L’Etat est aussi, et surtout évidemment, **l’expression de la classe sociale dominante, l’émanation politique du mode de production** ; je cite constamment «**le capitalisme monopoliste d’Etat**». Troisième dimension de l’Etat : **il est l’Etat-nation**. Il gère l’appareil infrastructural et superstructural de la Nation. Et là, je récidive, relaps : l’Etat est aussi, en plus des deux essentiels attributs cités, **appareil de gestion, instrument d’une nécessaire planification et centralisation ou décentralisation** qui pourrait même être dit « neutre » … si cette gestion n’était pas, par excellence, **le lieu d’affrontement de l’Etat républicain et de l’Etat capitaliste, de la contre-révolution et des droits de l’homme.**
 
 Mais ce n’est pas tout : il faut proposer **une deuxième ligne (théorique) de la notion d’Etat**. Il faut le rendre, encore plus, **au matérialisme dialectique et historique :** l’Etat doit être défini selon **le système de sa relation dialectique et historique avec la société civile et avec l’appareil d’Etat**. Ce système de définitions est très important car il permet, après s’être articulé sur la première ligne théorique, de **définir la stratégie révolutionnaire dans les pays dit post-industrialisés**. Dans les « Dégâts de la pratique libérale », j’ai explicité **les modalités de cette stratégie.** Je ne ferai qu’en dégager l’idée fondamentale. **Le socialisme démocratique et autogestionnaire** est maintenant possible à cause du nouveau dispositif que je viens d’énoncer.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/pyramide-de-la-culture-de-masse.png)
+![](/images/2016/12/pyramide-de-la-culture-de-masse.png)
 
 Cliquez pour agrandir
 
@@ -79,7 +79,7 @@ Je n’ai rien de commun avec **le subjectivisme naïvement mondain de Baudrilla
 
 D’ailleurs, ce n’est pas moi qui « reprends » les thèses de Baudrillard. **C’est lui qui a tiré les marrons du feu de ma recherche fondamentale, théorique,** en l’expurgeant de toute **ma reconstitution de la lutte des classes** pour n’en proposer qu’**une profiteuse expression culturo-mondain**, qui n’est autre que l**a figure privilégiée de la mondanisation de la culture** que je dénonce : **le discours BCBG sur la société de consommation.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/baudrillard.png)
+![](/images/2017/03/baudrillard.png)
 
 Baudrillard – 1929 – 2007
 
@@ -93,7 +93,7 @@ Mais venons-en à ce qui me semble être l’essentiel. Cette comparaison avec B
 
 Pour élaborer **la phénoménologie de la praxi**s, j’ai effectivement procédé à un «**détournement de sens**» : j’ai **extrait les notions de valeur d’usage et de valeur d’échange du champ de l’économie politique** pour **les importer dans le domaine de la phénoménologie.** Elles me permettent de définir **deux axes phénoménologiques, deux a priori d’ordre économique**, qu’il faut ensuite – toute la problématique de la phénoménologie est là – **articuler sur l’existentiel.** Ce projet vaut ce qu’il vaut. ( Je le justifierai plus tard pour conclure). Qu’il n’y ait donc pas de confusion, celle qui permettrait de me traiter de confusionniste. Je n’ai fait que **proposer une « opération » méthodologique**. C’est une **construction** qui repose **sur une extraction et importation de notions**. Celles-ci s’exercent **en un nouveau champ de recherche,** qui de lui-même, **se distingue, tout en l’utilisant, du champ de l’économie politique.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/traite-marxiste-d-economie-politique-le-capitalisme-monopoliste-d-etat-2-tomes-de-collectif-livre-875661440_L-490x490.jpg)
+![](/images/2017/03/traite-marxiste-d-economie-politique-le-capitalisme-monopoliste-d-etat-2-tomes-de-collectif-livre-875661440_L-490x490.jpg)
 
 Mais il est vrai que si j’ai bien **distingué les deux champs de la connaissance,** c’est bien **leur articulation, leur mise en relation**, qui est **le problème gnoséologique fondamental** : quels sont les rapports de **l’économie politique marxiste et de cette philosophie de la praxis** ? 3 Clouscard aboutira à proposer une “économie politique de la subjectivité” – voir derniers travaux  Cette philosophie prétend se fonder sur l’économie politique marxiste, sur **« Le Capital »**, et même sur le travail collectif du « **capitalisme monopoliste d’Etat**». Il ne peut y avoir de philosophie de la praxis que dans la mesure où **l’économie politique marxiste [ est constituée et ] l’autorise**. C’est parce que cette économie politique existe que la philosophie de la praxis est **possible** et que, corollaire, elle n’a **pas à justifier ses fondements**, à **reconstituer ses références** (de là mes ellipses allusives qui sont tout le contraire de la désinvolture qui m’est prêtée)
 

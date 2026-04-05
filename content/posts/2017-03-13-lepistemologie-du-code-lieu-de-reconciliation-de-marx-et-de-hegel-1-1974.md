@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/lepistemologie-du-code-lieu-de-reconciliation-de-marx-et-de-hegel-1-1974/?format=pdf "Download PDF")
 
-*![](http://clouscard-alerte.org/wp-content/uploads/2016/11/Logique-du-Concret-Riochet-365x600.png)Ce passage est un extrait de l’ouvrage de **Christian Riochet** ” **[La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de “L’Être et le Code”**“. ( page 29 )*
+*![](/images/2016/11/Logique-du-Concret-Riochet-365x600.png)Ce passage est un extrait de l’ouvrage de **Christian Riochet** ” **[La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/)  Introduction à la lecture de “L’Être et le Code”**“. ( page 29 )*
 
 *Il faut faire remarquer qu’en 1974, Michel Clouscard n’a pas encore étudié la **modernité capitaliste**, c’est à dire écrit les ouvrages qui vont de “Néo-fascisme et idéologie du désir”  au “Dégats de la pratique libérale” ( 1987). Donc l’oeuvre de Riochet ne s’appuie que sur l’étude d’un ensemble pré-capitaliste pour illustrer l’épistémologie du code, ici.*
 

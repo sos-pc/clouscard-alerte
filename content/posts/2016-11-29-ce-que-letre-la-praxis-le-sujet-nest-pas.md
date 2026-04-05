@@ -28,7 +28,7 @@ Leur dualité de complémentarité bloquait toute pensée du commencement du gen
 
  Leur dépassement par le modèle de l’ontologie temporelle et de l’antéprédicatif comme moment dialectique et non comme invariant structural est un sacré pas en avant pour Clouscard et pour nous : une “refondation progressiste” de l’épistémologie, notamment pour penser la question des origines. Question qui était livrée à l’aporie des antinomies depuis le modèle de connaissance de Kant.
 
-![Imprimer](http://clouscard-alerte.org/wp-content/uploads/2016/11/imprimer.jpg)
+![Imprimer](/images/2016/11/imprimer.jpg)
 
 En admettant que la critique du néo-kantisme ne soit pas bien claire pour vous, comment prendre pied ?
 
@@ -127,4 +127,4 @@ Et le tour de force est d’en avoir conceptualisé le dépassement dans les mom
 
 A suivre…
 
-![shéma3](http://clouscard-alerte.org/wp-content/uploads/2016/11/shema3.jpg)
+![shéma3](/images/2016/11/shema3.jpg)

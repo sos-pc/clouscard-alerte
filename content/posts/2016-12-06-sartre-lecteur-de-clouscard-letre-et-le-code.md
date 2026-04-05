@@ -16,7 +16,7 @@ Mais rapidement, poursuivant sa formation théorique, notamment en anthropologie
 
 ### **Critique de la Raison Dialectique**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/Critique_de_la_raison_dialectique.jpg)
+![](/images/2016/12/Critique_de_la_raison_dialectique.jpg)
 
 En effet, un ouvrage philosophique majeur de celui-ci a été publié dans les années 1960: **“*Critique de la Raison Dialectique*”**, dont le sous-titre était “***Théorie des ensembles pratiques** ” ( voir le contre modèle de Clouscard “le modèle d’ensemble logico-historique” )*
 
@@ -40,7 +40,7 @@ Autant dire que le choc avec Sartre était frontal …. c’est le moins qu’on
 
 #### Sartre, jury du thèse de Clouscard
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/12/la-sorbonne-490x600.jpg)
+![](/images/2016/12/la-sorbonne-490x600.jpg)
 
 Alors que Michel Clouscard rédige sa thèse, “*L’Être et le Code”*, il cherche à faire connaître ses travaux. Notamment parce que sa proposition répond aux problèmes épistémologiques posés par la tension entre la marxisme, l’existentialisme, la phénoménologie, la théorie de l’histoire, ….
 
@@ -100,7 +100,7 @@ Aucune rencontre n’eut lieu. Il ne semble pas que Sartre a aidé Clouscard à 
 
  Ce  fut une grande initiation mondaine pour Clouscard qui découvrait comment les “maîtres à penser” pouvait congédier leur détracteur tel un laquais ou un parvenu de province.  *“C’est un connard! Il m’a snobé… tu te rends compte: quel connard, ce type!*” répétait furieusement Clouscard à son ami Riochet. Quelle déception polémique ! Quelle naïveté mondaine ! A l’inverse du rugby, ” *La philosophie est un sport de gentlemen joué par des voyous* ” ai-je coutume d’ironiser.
 
-Mais pour revenir au concept, il sera intéressant de se reporter également aux [“Critiques du Jury de Thèse](http://clouscard-alerte.org/wp-content/uploads/2016/11/Objections-du-Jury-de-Th%C3%A8se-et-R%C3%A9ponse-de-Michel-Clouscard.docx)” que nous publions et que nous devons à la retranscription de la soutenance de thèse par Christian Riochet dans son ouvrage “ [La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/) “.
+Mais pour revenir au concept, il sera intéressant de se reporter également aux [“Critiques du Jury de Thèse](/images/2016/11/Objections-du-Jury-de-Th%C3%A8se-et-R%C3%A9ponse-de-Michel-Clouscard.docx)” que nous publions et que nous devons à la retranscription de la soutenance de thèse par Christian Riochet dans son ouvrage “ [La Logique du Concret](http://clouscard-alerte.org/index.php/2016/11/27/la-logique-du-concret-christian-riochet/) “.
 
 Je pense que le débat reste ouvert pour analyser la tension théorique entre Jean-Paul Sartre et Michel Clouscard. D’autant plus qu’un ouvrage entier semble poursuivre cette polémique de Clouscard **contre Sartre** “ [*De la modernité : Rousseau ou Sartre*“](http://clouscard-alerte.org/index.php/bibliographie-michel-clouscard/de-la-modernite-rousseau-ou-sartre/). Un autre article y sera consacré dans notre site.
 

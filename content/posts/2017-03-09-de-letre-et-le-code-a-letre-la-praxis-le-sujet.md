@@ -32,8 +32,8 @@ Si les difficultés de l’étude présente – cette ***Genèse de la Psyché**
 
 MICHEL CLOUSCARD
 
-[![thumbnail of Ontogenèse homologie et différences](http://clouscard-alerte.org/wp-content/uploads/2017/03/Ontogenèse-homologie-et-différences-pdf-424x600.jpg)](http://clouscard-alerte.org/wp-content/uploads/2017/03/Ontogenèse-homologie-et-différences.pdf "Ontogenèse homologie et différences")
+[![thumbnail of Ontogenèse homologie et différences](/images/2017/03/Ontogenèse-homologie-et-différences-pdf-424x600.jpg)](/images/2017/03/Ontogenèse-homologie-et-différences.pdf "Ontogenèse homologie et différences")
 
 Document PDF – Cliquer pour agrandir
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/5-Les-2-dialectiques-2-490x368.jpg)
+![](/images/2017/03/5-Les-2-dialectiques-2-490x368.jpg)

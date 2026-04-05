@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/03/13/corps-sujet-signifieur-et-modele-densemble-logico-historique/?format=pdf "Download PDF")
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/corps-sujet-signifieur-et-modele-densemble-logico-historique.jpg)
+![](/images/2017/03/corps-sujet-signifieur-et-modele-densemble-logico-historique.jpg)
 
 Nous proposons ce schéma très allusif et non exhaustif (!) pour étudier “l’Être et le Code”
 
@@ -14,7 +14,7 @@ Comment lire ce schéma ?
 
 Ce n’est qu’un schéma, allusif, “symbolique” … mais il pourra aider dans un premier moment.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/cadrage-1-490x299.jpg)
+![](/images/2017/03/cadrage-1-490x299.jpg)
 
 Il se lit du haut à gauche vers le bas à droite.
 
@@ -22,7 +22,7 @@ Tout part de **Kant** pour des raisons historiques, car Kant initie l’épisté
 
  \*
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/cadrge-2-490x342.jpg)
+![](/images/2017/03/cadrge-2-490x342.jpg)
 
  D’un point de vue de la compréhension, ce schéma propose autant une genèse historique de “L’Être et le Code” par les différentes oppositions et apories de l’entendement après Kant qu’un exposé des composantes constitutives de “l’épistémologie du code”. Les contradictions de la rationalité renvoient à celles du réel ( donc les rapports de classes) et les contradictions du réel appellent le dépassement des oppositions dans la rationalité, historiquement produite.
 
@@ -42,7 +42,7 @@ Alors, “L’être et le code”  et plus spécifiquement “l’épistémolog
 
 Clouscard met alors en place une méthode pour **décoder l’entendement néo-kantien** et retrouver **l’unité de la conscience synthétique** proposée par **Rousseau**. Il ne s’agit pas de décoder seulement le néo-kantisme, mais de comprendre comment révéler ce qui est occulté par les rapports de classe et leur codage. Ainsi, apporter le savoir du savoir de classe à la classe ouvrière.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/03/duplessis06.jpg)
+![](/images/2017/03/duplessis06.jpg)
 
 Dévoiler d’une façon plus rigoureuse le non-dit et le non-su de l’histoire des rapports de classe pour penser les limites historiques de l’entendement …. collectif.
 

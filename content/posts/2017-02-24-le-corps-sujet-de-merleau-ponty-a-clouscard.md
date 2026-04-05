@@ -6,7 +6,7 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/02/24/le-corps-sujet-de-merleau-ponty-a-clouscard/?format=pdf "Download PDF")
 
-  ( EN COURS  d’ ECRITURE – article de fond avec pas mal d’informations à organiser pour saisir le discours sur  le “corps-sujet” chez Clouscard ) ![](http://clouscard-alerte.org/wp-content/uploads/2017/02/gn03x-serpent-201x300.jpg)
+  ( EN COURS  d’ ECRITURE – article de fond avec pas mal d’informations à organiser pour saisir le discours sur  le “corps-sujet” chez Clouscard ) ![](/images/2017/02/gn03x-serpent-201x300.jpg)
 
 *”  Les yeux d’Adam et d’Eve s’ouvrirent.  Ils comprirent qu’ils étaient nus, et ayant cousu des feuilles de figuier, ils s’en firent des ceintures.”*
 
@@ -52,13 +52,13 @@ Un des thèmes politiques  les plus fondamentaux et les moins commentés chez C
 
 1 ) Tout d’abord,  rappelons que la **conclusion du “Néo-fascisme et idéologie du désir”** n’est rien d’autre qu’un appel à “libérer le corps”. <note> voir notre article : http://clouscard-alerte.org/index.php/2016/12/08/reconcilier-principe-de-realite-et-principe-de-plaisir-neo-fascisme-et-ideologie-du-desir-1974/ </note>
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl-1-192x300.jpg)
+![](/images/2016/11/2-Néo-Fascisme-et-Idéologie-du-Désir-recto-cl-1-192x300.jpg)
 
 Il s’agit d’une libération non  pas comme **libération radicale des interdits et des inhibitions** comme le réclamaient les **“freudo-marxistes”**  ou “**anthropologie fascisante**” de Deleuze et Guattari dans ” L’anti-Oedipe”. Au contraire, il s’agit de libérer la “jouissance” humaine de ses conditions de possibilités : l’exploitation de l’homme par l’homme.
 
 La réflexion sur la “jouissance” et le refus de voir le “corps-sujet” comme **“l’atome désirant”** permet de s’opposer au “**marché du désir**” et à l’économie politique duale – marché traditionnel, marché du désir – que le stade du capitalisme libéral libertaire a développé. Le conditionnement du “dressage permissif” de la nouvelle société capitaliste comme odyssée du corps-sujet dans l’initiation mondaine à la civilisation capitaliste aboutissant alors à la répétition, au régime des pulsions et de la consommation ludique, libidinale et transgressive dans laquelle le genre humain est englué.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2016/11/3-frivole-et-serieux-recto-cl-192x300.jpg)De plus, ” **Le Frivole et le Sérieux”**, l’ouvrage qui suit immédiatement “Néo-fascisme et Idéologie du Désir” est un manifeste pour une alternative progressive et développe l’idée d’une synthèse entre la “**morale traditionnelle bourgeoise**” ( du mérite, de l’effort, du travail) et de “**l’éthique du prolétariat”** (la production précède la consommation), première expression de “**l’éthique de la praxis**“.
+![](/images/2016/11/3-frivole-et-serieux-recto-cl-192x300.jpg)De plus, ” **Le Frivole et le Sérieux”**, l’ouvrage qui suit immédiatement “Néo-fascisme et Idéologie du Désir” est un manifeste pour une alternative progressive et développe l’idée d’une synthèse entre la “**morale traditionnelle bourgeoise**” ( du mérite, de l’effort, du travail) et de “**l’éthique du prolétariat”** (la production précède la consommation), première expression de “**l’éthique de la praxis**“.
 
  Les lectures de Clouscard qui ne traitent pas cette articulation de ces deux œuvres ne peuvent aller que de Charybde en Scylla, les monstres marins du naufrage dans l’Odyssée. ” Qui tient la subjectivité, tient le concept”.
 
@@ -75,13 +75,13 @@ I ) le corps en philosophie avant la notion de corps-sujet.
 
 ### .1)  Le corps et l’âme chez Platon.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/plato-260.jpg)
+![](/images/2017/02/plato-260.jpg)
 
 La doctrine est dualiste et fonde toute la philosophie de la conscience et la philosophie de la connaissance, mais également la réflexion sur la sagesse, la justice et la Cité.
 
 Le corps et l’âme sont en opposition. La sagesse consiste à ce que l’âme gouverne le corps. Dans le Phèdre, dans le Phèdre, Platon propose une présentation imagée de l’âme sous la forme d’un attelage. Ainsi, on y distingue l’image d’un **cheval noir** représentant **la partie désirante,** un **cheval blanc** représentant **la partie irascible**, et le **cocher** qui représente **l’esprit.**  Rappelons qu’on qualifie d’irasicible ( du latin “ira” colère ) ce cui est impulsif, qui s’emporte facilement, qui a tendance à vite se mettre en colère, qui a le sang chaud.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/leon-9-platon-la-thorie-de-lme-30-638.jpg)
+![](/images/2017/02/leon-9-platon-la-thorie-de-lme-30-638.jpg)
 
 Clouscard fait référence à cette présentation duale du problème de l’âme et du corps, du désir et de la raison  dans un manuscrit encore inédit ( **Refondation Féodale** ). En effet, Clouscard analyse le régime de la “libre sexualité” et du “sensualisme” débridés dont le libéralisme libertaire nous rend les héritiers et problématise les enjeux philosophique de la lutte des classe pour la “refondation progressiste”.  Etude historique jusqu’à l’exogamie monogamique féodale,  la “Refondation Féodale” étudie l’émergence de l’interdit et propose une théorie ontologique et phénoménologique des “trois amours” en pensant **le couple, la conjugalité, et la psyché.** Et le “spiritualisme platonicien” est un des termes du concept dialectique qu’il travail.
 
@@ -116,22 +116,22 @@ Dès  1965, Jean Pierre Vernant avait d’ailleurs montré cette relation entre
 2  ) Le dualisme de substance chez Descartes res extensae et res cogitans.
 --------------------------------------------------------------------------
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/1312541-rene_descartes_a_sa_table_de_travail-202x300.jpg)
+![](/images/2017/02/1312541-rene_descartes_a_sa_table_de_travail-202x300.jpg)
 
 Selon Descartes, le corps et l’âme sont deux substances « réellement distinctes »: en effet, nous pouvons avoir une connaissance claire et distincte de l’une sans avoir besoin de concevoir l’autre (Principes de la philosophie, I, 60). Cette distinction s’expliquerait d’une part par la science médicale de l’époque qui interprète le corps à partir d’une conception matérialiste et d’autre part par la tradition spiritualiste, métaphysique et théologique qui prédomine dans l’étude de la conscience à partir du concept d’âme.   Dans cette conception dualiste de la substance, l’âme est une substance pensante :  res cogitans , tandis que le corps est une substance étendue (qui s’étend dans l’espace) : res extensae.
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/le-problme-corps-esprit-chez-descartes-et-autres-4-638.jpg)
+![](/images/2017/02/le-problme-corps-esprit-chez-descartes-et-autres-4-638.jpg)
 
  Toutefois, cette distinction réelle du corps et de l’âme ne s’oppose pas à leur union: le « dualisme » cartésien ne signifie pas qu’âme et corps soient complètement séparés: il y a ainsi « *certaines choses que nous expérimentons en nous-mêmes, qui ne doivent pas être attribuées à l’âme seule, ni aussi au corps seul, mais à l’étroite union qui est entre eux (…): tels sont les appétits de boire, de manger, et les émotions ou passions de l’âme, qui ne dépendent pas de la pensée seule, comme l’émotion à la colère, à la joie, à la tristesse, à l’amour, etc. tels sont tous les sentiments, comme la lumière, les couleurs, les sons, les odeurs, le goût, la chaleur, la dureté, et toutes les autres qualités qui ne tombent que sous le sens de l’attouchement.* » (Principes de la philosophie, I, 48).
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/descartes_diagram-245x300.png)
+![](/images/2017/02/descartes_diagram-245x300.png)
 
 En réalité, le dualisme de Descartes oppose le régime gnoséologique du corps et de l’esprit, même s’il pense leur relation.  Pourtant, l’union de l’âme et du corps est un mystère: nous ne pouvons la connaître de façon claire et distincte, c’est-à-dire que nous ne la comprenons pas; mais nous l’expérimentons avec évidence. Il nous est donc impossible de penser l’union du corps et de l’esprit. Nous ne pouvons que la vivre pour Descartes.   
 Le dualisme cartésien désigne la conception philosophique de Descartes concernant le rapport entre le corps et l’esprit. Descartes reconnaît l’existence de deux types de substance : l’esprit (ou l’âme) et le corps. Il considère également que chacune de ces deux substances interagit avec l’autre. Cette conception s’est révélée décisive dans la mesure où elle a placé au centre de la réflexion philosophique la question des relations entre les états mentaux et les états physiques.
 
 **“Le Traité des Passions de l’Âme” chez Descartes.**
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/02/250px-descartes_les_passions_de_l-ame-176x300.jpg)
+![](/images/2017/02/250px-descartes_les_passions_de_l-ame-176x300.jpg)
 
 * *rappel sur l’oeuvre.*
 * *analyse de la problématique du rationnalisme de Descartes  ! la codification du normatif par la bourgeoisie de robe ( L’Être et le Code”*

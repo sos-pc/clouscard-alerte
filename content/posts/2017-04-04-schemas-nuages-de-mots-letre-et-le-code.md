@@ -6,4 +6,4 @@ draft: false
 
 [![Download PDF](http://clouscard-alerte.org/wp-content/plugins/wp-post-to-pdf-enhanced/asset/images/pdf.png)](/index.php/2017/04/04/schemas-nuages-de-mots-letre-et-le-code/?format=pdf "Download PDF")
 
-![](http://clouscard-alerte.org/wp-content/uploads/2017/04/Etre-et-Code-11.png)
+![](/images/2017/04/Etre-et-Code-11.png)

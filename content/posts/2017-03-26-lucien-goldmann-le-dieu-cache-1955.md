@@ -8,7 +8,7 @@ draft: false
 
 *Ceci est un extrait  de l’article ” homologie” de M Olivier Roueff (CNRS, CRESPPA-CSU)  dans le site   : [ressources-socius.info](http://ressources-socius.info/index.php/lexique/21-lexique/155-homologie).*
 
-*![](http://clouscard-alerte.org/wp-content/uploads/2017/03/lucien-goldmann-le-dieu-cache-1955.jpg)Il permet d’analyser comment Clouscard s’est emparé de la pensée de Goldmann du contenu historique et symbolique des contradictions de la noblesse de robe pour produire une “dialectique du frivole et du sérieux” comme contenu de la conscience tragique commune à Pascal, Racine, le jansénisme.*
+*![](/images/2017/03/lucien-goldmann-le-dieu-cache-1955.jpg)Il permet d’analyser comment Clouscard s’est emparé de la pensée de Goldmann du contenu historique et symbolique des contradictions de la noblesse de robe pour produire une “dialectique du frivole et du sérieux” comme contenu de la conscience tragique commune à Pascal, Racine, le jansénisme.*
 
 *Dans la théorisation d’un modèle d’ “ensemble logico-historique”, le matérialisme historique apporte  la sémantique et le matérialisme dialectique apporte la syntaxe …. comme développement “diachronique”, historique et dialectique d’une théorisation encore “synchronique” dans le “structuralisme génétique” de Goldmann.*
 
