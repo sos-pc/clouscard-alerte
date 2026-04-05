@@ -29,14 +29,423 @@ defaultContentLanguage = "fr"
 
 [menu]
   [[menu.main]]
-    name = "Articles"
-    url = "/posts/"
+    name = "ACCUEIL"
+    url = "/"
     weight = 1
+
   [[menu.main]]
-    name = "Catégories"
-    url = "/categories/"
+    name = "ŒUVRES"
+    identifier = "oeuvres"
+    url = "/categories/oeuvres/"
     weight = 2
   [[menu.main]]
-    name = "À propos"
-    url = "/about/"
+    name = "Tables et Résumés"
+    parent = "oeuvres"
+    url = "/categories/tables-et-resumes/"
+    weight = 1
+  [[menu.main]]
+    name = "L'Être et le Code"
+    parent = "oeuvres"
+    url = "/categories/ec/"
+    weight = 2
+  [[menu.main]]
+    name = "Logique du Concret – Riochet"
+    parent = "oeuvres"
+    url = "/categories/logique-du-concret-riochet/"
     weight = 3
+  [[menu.main]]
+    name = "Néo-fascisme et Idéologie du désir"
+    parent = "oeuvres"
+    url = "/categories/neo-fascisme-et-ideologie-du-desir/"
+    weight = 4
+  [[menu.main]]
+    name = "Lettre ouverte aux communistes"
+    parent = "oeuvres"
+    url = "/categories/lettre-aux-communistes/"
+    weight = 5
+  [[menu.main]]
+    name = "Le Frivole et le Sérieux"
+    parent = "oeuvres"
+    url = "/categories/frivole_serieux/"
+    weight = 6
+  [[menu.main]]
+    name = "Le Capitalisme de la Séduction"
+    parent = "oeuvres"
+    url = "/categories/critique-de-la-social-democratie-libertaire/"
+    weight = 7
+  [[menu.main]]
+    name = "De la modernité : Rousseau ou Sartre"
+    parent = "oeuvres"
+    url = "/categories/de-la-modernite-rousseau-ou-sartre/"
+    weight = 8
+  [[menu.main]]
+    name = "La Bête sauvage"
+    parent = "oeuvres"
+    url = "/categories/la-bete-sauvage/"
+    weight = 9
+  [[menu.main]]
+    name = "Les Dégâts de la Pratique Libérale"
+    parent = "oeuvres"
+    url = "/categories/les-degats-de-la-pratique-liberale/"
+    weight = 10
+  [[menu.main]]
+    name = "Les Métamorphoses de la Lutte des Classes"
+    parent = "oeuvres"
+    url = "/categories/les-metamorphoses-de-la-lutte-des-classes/"
+    weight = 11
+  [[menu.main]]
+    name = "Traité de l'Amour Fou"
+    parent = "oeuvres"
+    url = "/categories/traite-de-lamour-fou/"
+    weight = 12
+  [[menu.main]]
+    name = "Refondation Progressiste"
+    parent = "oeuvres"
+    url = "/categories/refondation-progressiste/"
+    weight = 13
+  [[menu.main]]
+    name = "L'Être, la Praxis et le Sujet"
+    parent = "oeuvres"
+    url = "/categories/eps/"
+    weight = 14
+  [[menu.main]]
+    name = "Refondation Féodale"
+    parent = "oeuvres"
+    url = "/categories/refondation-feodale/"
+    weight = 15
+  [[menu.main]]
+    name = "Fragments Inédits"
+    parent = "oeuvres"
+    url = "/categories/fragments/"
+    weight = 16
+
+  [[menu.main]]
+    name = "CORPUS"
+    identifier = "corpus"
+    url = "/categories/corpus/"
+    weight = 3
+  [[menu.main]]
+    name = "Tout le Corpus"
+    parent = "corpus"
+    url = "/categories/corpus/"
+    weight = 1
+  [[menu.main]]
+    name = "Articles de Revue"
+    parent = "corpus"
+    url = "/categories/articles-de-revue/"
+    weight = 2
+  [[menu.main]]
+    name = "Par Clouscard lui-même"
+    parent = "corpus"
+    url = "/categories/par-clouscard/"
+    weight = 3
+  [[menu.main]]
+    name = "À propos de Clouscard"
+    parent = "corpus"
+    url = "/categories/a-propos-de-clouscard/"
+    weight = 4
+
+  [[menu.main]]
+    name = "MOMENTS LOGICO-HISTORIQUES"
+    identifier = "schemas"
+    url = "/categories/schemas/"
+    weight = 4
+  [[menu.main]]
+    name = "de l'Antéprédicatif à Logique du Genre"
+    parent = "schemas"
+    url = "/categories/schema-phylogenese/"
+    weight = 1
+  [[menu.main]]
+    name = "de la Phénoménologie du Genre à la Genèse de la Psyché"
+    parent = "schemas"
+    url = "/categories/schema-ontogenese/"
+    weight = 2
+  [[menu.main]]
+    name = "de L'Antiquité Tardive à la Féodalité"
+    parent = "schemas"
+    url = "/categories/devenir-historique-antiquite-tardive-1789/"
+    weight = 3
+  [[menu.main]]
+    name = "de la Renaissance à la Révolution Française"
+    parent = "schemas"
+    url = "/categories/modernite-apres-1789/"
+    weight = 4
+  [[menu.main]]
+    name = "de la Révolution Industrielle au Capitalisme des Monopoles"
+    parent = "schemas"
+    url = "/categories/de-la-revolution-industrielle-au-capitalisme-des-monopoles/"
+    weight = 5
+  [[menu.main]]
+    name = "de l'Impérialisme au Libéralisme Social-Démocrate Libertaire"
+    parent = "schemas"
+    url = "/categories/de-limperialisme-au-liberalisme-social-democrate-libertaire/"
+    weight = 6
+  [[menu.main]]
+    name = "La Refondation Progressiste"
+    parent = "schemas"
+    url = "/categories/la-refondation-progressiste/"
+    weight = 7
+
+  [[menu.main]]
+    name = "THÈMES 1"
+    identifier = "themes1"
+    url = "/categories/themes/"
+    weight = 5
+  [[menu.main]]
+    name = "Libéralisme Libertaire"
+    parent = "themes1"
+    url = "/categories/economie-politique/"
+    weight = 1
+  [[menu.main]]
+    name = "Marché du Désir"
+    parent = "themes1"
+    url = "/categories/marche-du-desir/"
+    weight = 2
+  [[menu.main]]
+    name = "Freudo-marxisme"
+    parent = "themes1"
+    url = "/categories/freudo-marxisme/"
+    weight = 3
+  [[menu.main]]
+    name = "Corps-Sujet"
+    parent = "themes1"
+    url = "/categories/corps-sujet/"
+    weight = 4
+  [[menu.main]]
+    name = "Psychanalyse (Critique)"
+    parent = "themes1"
+    url = "/categories/psychanalyse/"
+    weight = 5
+
+  [[menu.main]]
+    name = "THÈMES 2"
+    identifier = "themes2"
+    url = "/categories/theme-2/"
+    weight = 6
+  [[menu.main]]
+    name = "Néo-Kantisme"
+    parent = "themes2"
+    url = "/categories/neo-kantisme/"
+    weight = 1
+  [[menu.main]]
+    name = "Modèle d'Ensemble Logico-Historique"
+    parent = "themes2"
+    url = "/categories/modele-densemble-logico-historique/"
+    weight = 2
+  [[menu.main]]
+    name = "Épistémologie du Code"
+    parent = "themes2"
+    url = "/categories/epistemologie-du-code/"
+    weight = 3
+  [[menu.main]]
+    name = "Structuralisme (Critique)"
+    parent = "themes2"
+    url = "/categories/structuralisme-critique/"
+    weight = 4
+  [[menu.main]]
+    name = "Logique"
+    parent = "themes2"
+    url = "/categories/logique/"
+    weight = 5
+  [[menu.main]]
+    name = "Phénoménologie"
+    parent = "themes2"
+    url = "/categories/phenomenologie/"
+    weight = 6
+
+  [[menu.main]]
+    name = "THÈMES 3"
+    identifier = "themes3"
+    url = "/categories/theme-3/"
+    weight = 7
+  [[menu.main]]
+    name = "Philosophie Politique"
+    parent = "themes3"
+    url = "/categories/philosophie-politique/"
+    weight = 1
+  [[menu.main]]
+    name = "Marxisme Léninisme"
+    parent = "themes3"
+    url = "/categories/marxisme-leninisme/"
+    weight = 2
+  [[menu.main]]
+    name = "Travailleur Collectif"
+    parent = "themes3"
+    url = "/categories/travailler-collectif/"
+    weight = 3
+  [[menu.main]]
+    name = "Spiritualité Laïque"
+    parent = "themes3"
+    url = "/categories/spiritualite-laique/"
+    weight = 4
+
+  [[menu.main]]
+    name = "THÈMES 4"
+    identifier = "themes4"
+    url = "/categories/theme-4/"
+    weight = 8
+  [[menu.main]]
+    name = "Anthropologie, Ontologie"
+    parent = "themes4"
+    url = "/categories/anthropologie-ontologie/"
+    weight = 1
+  [[menu.main]]
+    name = "Évolutionnisme"
+    parent = "themes4"
+    url = "/categories/evolutionnisme/"
+    weight = 2
+  [[menu.main]]
+    name = "Phylogenèse"
+    parent = "themes4"
+    url = "/categories/phylogenese/"
+    weight = 3
+  [[menu.main]]
+    name = "Impératif Catégorique"
+    parent = "themes4"
+    url = "/categories/imperatif-categorique/"
+    weight = 4
+  [[menu.main]]
+    name = "Morale et Éthique de la Praxis"
+    parent = "themes4"
+    url = "/categories/morale-et-ethique-de-la-praxis/"
+    weight = 5
+  [[menu.main]]
+    name = "Ontogenèse"
+    parent = "themes4"
+    url = "/categories/ontogenese/"
+    weight = 6
+
+  [[menu.main]]
+    name = "LEXIQUE"
+    identifier = "lexique"
+    url = "/categories/lexique/"
+    weight = 9
+  [[menu.main]]
+    name = "Lexique Actuel"
+    parent = "lexique"
+    url = "/categories/lexique-actuel/"
+    weight = 1
+  [[menu.main]]
+    name = "Analyse Lexicologique"
+    parent = "lexique"
+    url = "/categories/analyse-lexicologique/"
+    weight = 2
+  [[menu.main]]
+    name = "L'Être et le Code"
+    parent = "lexique"
+    url = "/categories/letre-et-le-code/"
+    weight = 3
+  [[menu.main]]
+    name = "Le Frivole et le Sérieux"
+    parent = "lexique"
+    url = "/categories/le-frivole-et-le-serieux/"
+    weight = 4
+  [[menu.main]]
+    name = "Capitalisme de la Séduction"
+    parent = "lexique"
+    url = "/categories/capitalisme-de-la-seduction/"
+    weight = 5
+  [[menu.main]]
+    name = "Les Dégats de la Pratique Libérale"
+    parent = "lexique"
+    url = "/categories/les-degats-de-la-pratique-liberale-schemas-par-oeuvre/"
+    weight = 6
+  [[menu.main]]
+    name = "Traité de l'Amour Fou"
+    parent = "lexique"
+    url = "/categories/traite-de-lamour-fou-schemas-par-oeuvre/"
+    weight = 7
+  [[menu.main]]
+    name = "Les Métamorphoses de la Lutte des Classes"
+    parent = "lexique"
+    url = "/categories/les-metamorphoses-de-la-lutte-des-classes-schemas-par-oeuvre/"
+    weight = 8
+  [[menu.main]]
+    name = "L'Être, la Praxis, le Sujet"
+    parent = "lexique"
+    url = "/categories/letre-la-praxis-le-sujet/"
+    weight = 9
+  [[menu.main]]
+    name = "Refondation Féodale"
+    parent = "lexique"
+    url = "/categories/refondation-feodale-schemas-par-oeuvre/"
+    weight = 10
+
+  [[menu.main]]
+    name = "BIO"
+    identifier = "bio"
+    url = "/categories/bio/"
+    weight = 10
+  [[menu.main]]
+    name = "Michel Clouscard 1928–2009"
+    parent = "bio"
+    url = "/posts/2017-03-09-michel-clouscard-1928-2009/"
+    weight = 1
+  [[menu.main]]
+    name = "Recherches Biographiques (2012)"
+    parent = "bio"
+    url = "/posts/2016-12-02-549/"
+    weight = 2
+  [[menu.main]]
+    name = "De l'Amitié – Christian Riochet (1976)"
+    parent = "bio"
+    url = "/posts/2016-12-09-de-lamitie-manifeste-de-la-complicite-de-classe-christian-riochet-1976/"
+    weight = 3
+
+  [[menu.main]]
+    name = "COMMENTAIRES"
+    identifier = "commentaires"
+    url = "/categories/commentaires/"
+    weight = 11
+  [[menu.main]]
+    name = "Être Praxis Sujet"
+    parent = "commentaires"
+    url = "/categories/etre-praxis-sujet/"
+    weight = 1
+
+  [[menu.main]]
+    name = "PROJETS"
+    identifier = "projets"
+    url = "/categories/projets/"
+    weight = 12
+  [[menu.main]]
+    name = "Tâches Prioritaires"
+    parent = "projets"
+    url = "/categories/taches-prioritaires/"
+    weight = 1
+  [[menu.main]]
+    name = "Lexique et Terminologie"
+    parent = "projets"
+    url = "/categories/lexique-projets/"
+    weight = 2
+  [[menu.main]]
+    name = "Internationale Clouscardienne"
+    parent = "projets"
+    url = "/categories/internationale-clouscardienne/"
+    weight = 3
+  [[menu.main]]
+    name = "Conférences Enseignement"
+    parent = "projets"
+    url = "/categories/conferences/"
+    weight = 4
+  [[menu.main]]
+    name = "Traductions et Traducteurs"
+    parent = "projets"
+    url = "/categories/traduction/"
+    weight = 5
+
+  [[menu.main]]
+    name = "CONFÉRENCES"
+    identifier = "conferences"
+    url = "/categories/conferences-2/"
+    weight = 13
+  [[menu.main]]
+    name = "Conférences"
+    parent = "conferences"
+    url = "/categories/conferences/"
+    weight = 1
+
+  [[menu.main]]
+    name = "CONTACT"
+    url = "/categories/contact/"
+    weight = 14
