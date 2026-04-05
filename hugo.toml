@@ -1,0 +1,33 @@
+baseURL = "https://clouscard-alerte.netlify.app/"
+languageCode = "fr-FR"
+title = "Clouscard Alerte"
+theme = "PaperMod"
+defaultContentLanguage = "fr"
+
+[params]
+  author = "Clouscard Alerte"
+  description = "Site de référence sur Michel Clouscard"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "Clouscard Alerte"
+  Content = "Site de référence sur la pensée de Michel Clouscard"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@clouscard-alerte.org"
+
+[menu]
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 2
